@@ -1,0 +1,40 @@
+site_name: KitFesta
+site_description: Repositório do Grupo 7 da disciplina Arquitetura e Desenho de Software
+repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G7_-AluguelKitsFesta
+
+theme:
+    name: material
+    language: pt
+    features:
+        - navigation.tabs
+        - header.autohide
+    font:
+    text: Sora
+
+hide:
+    - toc
+
+nav:
+    - Home: index.md
+    - Apresentações: ''
+    - 1. Base: ''
+    - 2. Modelagem: ''
+    - 3. Padrões de Projeto: ''
+    - 4. Arquitetura de Software e Reutilização: ''
+
+features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
+plugins:
+    - search
+    - awesome-pages
