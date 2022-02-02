@@ -1,4 +1,4 @@
-site_name: KitFesta
+site_name: PartyRent
 site_description: Repositório do Grupo 7 da disciplina Arquitetura e Desenho de Software
 repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G7_-AluguelKitsFesta
 
@@ -19,10 +19,15 @@ nav:
           - Home: index.md
           - Apresentações: ''
           - 1. Base:
+                - Elicitação:
+                      - Brainstorming: 'Elicitacao/Brainstorm.md'
+                - Priorização:
+                      - MoSCoW: 'Elicitacao/Moscow.md'
+                      - First Thing First: 'Elicitacao/FtF.md'
                 - Politicas do Repositorio: 'politica_repositorio/PoliticasRepositorio.md'
-          - 2. Modelagem: ''
-          - 3. Padrões de Projeto: ''
-          - 4. Arquitetura de Software e Reutilização: ''
+          #   - 2. Modelagem: ''
+          #   - 3. Padrões de Projeto: ''
+          #   - 4. Arquitetura de Software e Reutilização: ''
 
 features:
     - content.code.annotate
