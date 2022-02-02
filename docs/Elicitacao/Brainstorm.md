@@ -26,4 +26,4 @@ utilizando as tecnicas de MoSCoW e First thing First os requisitos acima listado
 
 ## Referências
 
-> Vamos Cuidar - Gestão.<https://fga-eps-mds.github.io/2020.1-Grupo6/policies/branches/>. Acessado em 02/02/2022
+> What is Brainstorming?.<https://www.interaction-design.org/literature/topics/brainstorming>. Acessado em 02/02/2022

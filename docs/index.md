@@ -2,7 +2,10 @@
 
 ## Sobre o Projeto
 
-<h3 id="equipe">Equipe</h3>
+A PartyRent e uma pequena empresa voltada a realização de aluguel para artigos diversos para festas. Mesas, cadeiras, móveis diversos e outros itens para a realização de aniversário, casamento, formaturas e demais eventos. A idéia do Projeto e realizar uma melhora no processo da empresa, realizando o desenvolvimento de uma ferramenta web para facilitar o processo de aluguel dos itens.
+
+## Equipe
+
 <table>
         <td align="center"><a href="https://github.com/CaioGabrielAraujo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/20951137?v=4" width="100px;" alt=""/><br /><sub><b>Caio Gabriel</b></sub></a><br /><a href="https://github.com/brunocmo"></a>
         <a href="https://github.com/flaviovl"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31935777?v=4" width="100px;" alt=""/><br /><sub><b>Flavio Vieira</b></sub></a><br /><a href="https://github.com/flaviovl"></a></td>
