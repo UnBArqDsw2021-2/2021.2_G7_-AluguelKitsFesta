@@ -15,12 +15,14 @@ hide:
     - toc
 
 nav:
-    - Home: index.md
-    - Apresentações: ''
-    - 1. Base: ''
-    - 2. Modelagem: ''
-    - 3. Padrões de Projeto: ''
-    - 4. Arquitetura de Software e Reutilização: ''
+    - Documentação do Projeto:
+          - Home: index.md
+          - Apresentações: ''
+          - 1. Base:
+                - Politicas do Repositorio: 'politica_repositorio/PoliticasRepositorio.md'
+          - 2. Modelagem: ''
+          - 3. Padrões de Projeto: ''
+          - 4. Arquitetura de Software e Reutilização: ''
 
 features:
     - content.code.annotate
