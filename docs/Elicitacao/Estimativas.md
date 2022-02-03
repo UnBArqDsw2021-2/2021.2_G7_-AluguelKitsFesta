@@ -21,7 +21,7 @@ Como todos os membros da equipe irão participar de todo o projeto pelo tempo es
 |**Valor Total**||||R$26.072,80|
 
  ### 2.3.Custo de Capacitação
- |Capacitação|Finalidade|Quantidade|Valor unitário| Total|
+|Capacitação|Finalidade|Quantidade|Valor unitário| Total|
 |---|---|---|---|---|
 |Python e Django| Capacitar a equipe com a tecnologias de desenvolvimento| 8| R$34,90|R$279,20|
 |Banco de dados| Capacitar a equipe com a tecnologias de desenvolvimento| 8|R$27,90|R$223,20|
@@ -38,10 +38,13 @@ Como todos os membros da equipe irão participar de todo o projeto pelo tempo es
 ## 3.Referências
 MENDES DA SILVA FILHO, Antonio. Estimativa de custo de software: roteiro e dicas para estimativas de projeto. Revista Espaço Acadêmico nº156, maio de 2014.
 
-[Vagas: Desenvolvedor Full Stack](https://www.vagas.com.br/cargo/desenvolvedor-full-stack), acessado dia 02 de fevereiro de 2022.
-[Amazon: Notebook Lenovo](https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-IdeaPad-82MFS00100/dp/B09LVLN4L4), acessado dia 02 de fevereiro de 2022.
-[Udemy: Curso de Pyton e Django](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/), acessado dia 02 de fevereiro de 2022.
-[Udemy: Curso de Banco de dados](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/), acessado dia 02 de fevereiro de 2022.
+>[Vagas: Desenvolvedor Full Stack](https://www.vagas.com.br/cargo/desenvolvedor-full-stack), acessado dia 02 de fevereiro de 2022.
+>
+>[Amazon: Notebook Lenovo](https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-IdeaPad-82MFS00100/dp/B09LVLN4L4), acessado dia 02 de fevereiro de 2022.
+>
+>[Udemy: Curso de Pyton e Django](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/), acessado dia 02 de fevereiro de 2022.
+>
+>[Udemy: Curso de Banco de dados](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/), acessado dia 02 de fevereiro de 2022.
 
 ## 4. Versionamento
 |Data |Versão |Descrição| Autor|
