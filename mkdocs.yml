@@ -27,8 +27,11 @@ nav:
                       - MoSCoW: 'Elicitacao/Moscow.md'
                       - First Thing First: 'Elicitacao/FtF.md'
                 - Processos/Metodologias:    
-                      - Metodologias: 'Metodologia/metodologia.md'      
+                      - Metodologias: 'Metodologia/metodologia.md'
+                      - Design Sprint: 'Metodologia/design_sprint.md'      
                 - Politicas do Repositorio: 'politica_repositorio/PoliticasRepositorio.md'
+                - Extras:
+                      - Documento de Visão: 'Extras/documento_de_visao.md'
           #   - 2. Modelagem: ''
           #   - 3. Padrões de Projeto: ''
           #   - 4. Arquitetura de Software e Reutilização: ''
