@@ -26,6 +26,8 @@ nav:
                 - Priorização:
                       - MoSCoW: 'Elicitacao/Moscow.md'
                       - First Thing First: 'Elicitacao/FtF.md'
+                - Processos/Metodologias:    
+                      - Metodologias: 'Metodologia/metodologia.md'      
                 - Politicas do Repositorio: 'politica_repositorio/PoliticasRepositorio.md'
           #   - 2. Modelagem: ''
           #   - 3. Padrões de Projeto: ''
