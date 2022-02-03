@@ -21,6 +21,8 @@ nav:
           - 1. Base:
                 - Elicitação:
                       - Brainstorming: 'Elicitacao/Brainstorm.md'
+                      - Estimativas: 'Elicitacao/Estimativas.md'
+                      - Léxico: 'Elicitacao/Lexico.md'
                 - Priorização:
                       - MoSCoW: 'Elicitacao/Moscow.md'
                       - First Thing First: 'Elicitacao/FtF.md'
