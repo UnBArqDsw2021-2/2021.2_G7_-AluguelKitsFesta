@@ -18,7 +18,7 @@
 | 15/0007329  |  Caio Gabriel Araujo Medeiros |
 
 ## Sobre 
-Imagine uma pequena empresa, que aluga kits para festas, tais como mesas, cadeiras, móveis específicos, talheres, vasos e outros materiais tipicamente utilizados em aniversários, casamentos, formaturas... Todo o processo de aluguel é feito de forma bem tradicional, via ligação de celular, telefone ou pessoalmente. Por que não pensar em uma aplicação web simples, que permita facilitar esse processo de aluguel? <<tema validado pela profa.>>
+A PartyRent é uma pequena empresa voltada a realização de aluguel para artigos diversos para festas. Mesas, cadeiras, móveis diversos e outros itens para a realização de aniversário, casamento, formaturas e demais eventos. A ideia do Projeto e realizar uma melhora no processo da empresa, realizando o desenvolvimento de uma ferramenta web para facilitar o processo de aluguel dos itens.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
