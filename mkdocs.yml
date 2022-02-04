@@ -20,7 +20,7 @@ nav:
           - Apresentações: ''
           - 1. Base:
                 - Pré-rastreabilidade:
-                      - Richpicture: 'Elicitacao/Richicture.md'  
+                      - Richpicture: 'Elicitacao/Richpicture.md'  
                 - Elicitação:
                       - Brainstorming: 'Elicitacao/Brainstorm.md'
                       - Estimativas: 'Elicitacao/Estimativas.md'
