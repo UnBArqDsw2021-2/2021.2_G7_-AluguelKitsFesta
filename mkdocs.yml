@@ -20,23 +20,24 @@ nav:
           - Apresentações: ''
           - 1. Base:
                 - Pré-rastreabilidade:
-                      - 5W2H: 'Elicitacao/5W2H.md' 
-                      - Causa e Efeito: 'Elicitacao/Causa&Efeito.md' 
-                      - Rich picture: 'Elicitacao/Richpicture.md'  
+                      - 5W2H: 'Pre-rastreabilidade/5W2H.md'
+                      - Causa e Efeito: 'Pre-rastreabilidade/Causa&Efeito.md'
+                      - Rich picture: 'Pre-rastreabilidade/Richpicture.md'
                 - Elicitação:
                       - Brainstorming: 'Elicitacao/Brainstorm.md'
                       - Estimativas: 'Elicitacao/Estimativas.md'
                       - Léxico: 'Elicitacao/Lexico.md'
                       - Storyboard: 'Elicitacao/Storyboard.md'
                 - Priorização:
-                      - MoSCoW: 'Elicitacao/Moscow.md'
-                      - First Thing First: 'Elicitacao/FtF.md'
-                - Processos/Metodologias:    
+                      - MoSCoW: 'Priorizacao/Moscow.md'
+                      - First Thing First: 'Priorizacao/FtF.md'
+                - Processos/Metodologias:
                       - Metodologias: 'Metodologia/metodologia.md'
-                      - Design Sprint: 'Metodologia/design_sprint.md'      
-                - Politicas do Repositorio: 'politica_repositorio/PoliticasRepositorio.md'
+                      - Design Sprint: 'Metodologia/design_sprint.md'
                 - Extras:
                       - Documento de Visão: 'Extras/documento_de_visao.md'
+                      - Horário disponiveis: 'horarios/Horario_disponibilidade.md'
+                      - Politicas do Repositorio: 'Extras/PoliticasRepositorio.md'
           #   - 2. Modelagem: ''
           #   - 3. Padrões de Projeto: ''
           #   - 4. Arquitetura de Software e Reutilização: ''

@@ -1,8 +1,9 @@
 ## Versionamento
 
-| Data       | Versão | Descrição            | Autor(es)    |
-| ---------- | ------ | -------------------- | ------------ |
-| 02/02/2022 | 1.0    | Criação do Documento | Luis Marques |
+| Data       | Versão | Descrição              | Autor(es)    |
+| ---------- | ------ | ---------------------- | ------------ |
+| 02/02/2022 | 1.0    | Criação do Documento   | Luis Marques |
+| 04/02/2022 | 2.0    | Atualização dos quadro | Luis Marques |
 
 # Brainstorm
 
@@ -13,7 +14,7 @@
 ## 2. Whiteboard
 
 -   Utilizamos a ferramente microsoft whiteboard para que de forma colaborativa fosse possível cada integrante preencher sua ideia de requisito necessário para a aplicação.
- 
+
 ![whiteboard](Whiteboard.png)
 
 ## 3. Divisão dos requisitos
@@ -22,7 +23,7 @@
 
 ![requisitosF_NF](RequisitosF_NF.png)
 
-utilizando as tecnicas de MoSCoW e First thing First os requisitos acima listados foram compilados com os requisitos levantados no storyboard e priorizados.
+utilizando as técnicas de MoSCoW e First thing First os requisitos acima listados foram compilados com os requisitos levantados no storyboard e priorizados.
 
 ## Referências
 

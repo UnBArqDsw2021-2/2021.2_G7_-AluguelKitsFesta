@@ -6,8 +6,8 @@ Rich picture é uma ferramenta composta por imagens, textos, símbolos e ícones
 
 ![richpicture_PR](richpicture_PR.png)
 
-
 ## 3. Versionamento
-|Data |Versão |Descrição| Autor|
-|--- |--- |--- |--- |
-|03/02/2022 |1.0 | Criação do Documento| João Victor Max|  
+
+| Data       | Versão | Descrição            | Autor           |
+| ---------- | ------ | -------------------- | --------------- |
+| 03/02/2022 | 1.0    | Criação do Documento | João Victor Max |
