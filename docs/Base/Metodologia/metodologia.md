@@ -1,3 +1,11 @@
+## Versionamento
+
+| Data |Versão|         Descrição          |       Autor      |
+|:----:|:----:|:--------------------------:|:----------------:|
+| 02/02/2022 |  1.0 | Criação da página  | Victor Rayan |
+| 03/02/2022 |  1.1 | Adicionando Metodologia  | Victor Rayan |
+| 04/02/2022 | 1.2 | Adicionando Ferramerntas | Victor Rayan |
+
 
 ## 1. Objetivo
 <p align="justify">O objetivo principal deste documento é definir as metodologias e abordagens que serão utilizadas durante o desenvolvimento do projeto. </p>
@@ -61,14 +69,87 @@ A equipe scrum é formada Scrum master: a pessoa que lidera a equipe orientando-
     
 </ul>
 
+## Ferramentas
+
+<p align="justify"> As ferramentas utilizadas pela equipe até o presente momento são:</p>
+
+<table>
+    <tr>
+        <th>Ferramenta</th>
+        <th>Nome</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="../telegram.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Telegram
+        </td>
+        <td style="padding-top: 50px;">
+            <a  target="_blank">O Telegram será utilizado para troca de mensagens rápidas e comunicação geral da equipe.</a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <img src="../teams.jpeg" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Teams
+        </td>
+        <td style="padding-top: 50px;">
+            <a  target="_blank">Será utilizado para reuniões, gravação de video, além de armazenar arquivos úteis da equipe</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="../zenhub.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Zenhub
+        </td>
+        <td style="padding-top: 50px;">
+            <a  target="_blank">Utilizaremos para executar a metodologia Kanban</a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <img src="../drive.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Drive
+        </td>
+        <td style="padding-top: 50px;">
+            <a  target="_blank">Compartilhar documentos entre a equipe</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <img src="../figma.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Figma
+        </td>
+        <td style="padding-top: 50px;">
+            <a  target="_blank">Utilizaremos para prototipagem de projetos de design baseado principalmente no navegador web</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="../github.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+           Github
+        </td>
+        <td style="padding-top: 50px;">
+            <a target="_blank">
+            Será utilizado como plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.</a>
+        </td>
+    </tr>
+</table>
+
 ## Referências Bibliográficas
 https://www.ieepeducacao.com.br/Scrum
 
 https://www.totvs.com/Kanbam
 
-## Versionamento
-
-| Data |Versão|         Descrição          |       Autor      |
-|:----:|:----:|:--------------------------:|:----------------:|
-| 02/02/2022 |  1.0 | Criação da página  | Victor Rayan |
-| 03/02/2022 |  1.1 | Adicionando Metodologia  | Victor Rayan |
