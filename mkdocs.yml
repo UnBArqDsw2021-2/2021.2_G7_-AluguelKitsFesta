@@ -19,10 +19,13 @@ nav:
           - Home: index.md
           - Apresentações: ''
           - 1. Base:
+                - Pré-rastreabilidade:
+                      - Richpicture: 'Elicitacao/Richicture.md'  
                 - Elicitação:
                       - Brainstorming: 'Elicitacao/Brainstorm.md'
                       - Estimativas: 'Elicitacao/Estimativas.md'
                       - Léxico: 'Elicitacao/Lexico.md'
+                      - Storyboard: 'Elicitacao/Storyboard.md'
                 - Priorização:
                       - MoSCoW: 'Elicitacao/Moscow.md'
                       - First Thing First: 'Elicitacao/FtF.md'
