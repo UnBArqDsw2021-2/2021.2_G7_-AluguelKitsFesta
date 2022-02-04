@@ -1,8 +1,9 @@
 ## Versionamento
 
-| Data       | Versão | Descrição            | Autor(es)    |
-| ---------- | ------ | -------------------- | ------------ |
-| 02/02/2022 | 1.0    | Criação do Documento | Luis Marques |
+| Data       | Versão | Descrição                  | Autor(es)    |
+| ---------- | ------ | -------------------------- | ------------ |
+| 02/02/2022 | 1.0    | Criação do Documento       | Luis Marques |
+| 04/02/2022 | 2.0    | Atualização dos requisitos | Luis Marques |
 
 # MoSCoW
 
@@ -15,43 +16,42 @@ MoSCoW e um frameworde de priorização. o seu nome na verdade e um Acronimo,ond
 
 ### Must Have
 
-| Código | Requisito                                                                     |
-| ------ | ----------------------------------------------------------------------------- |
-| RF01   | Permitir que o usuário reserve kits festa para aluguel                        |
-| RF02   | emitir um código que representa a reserva realizada pelo cliente              |
-| RF03   | Os produtos devem ser cadastrados na plataforma                               |
-| RF04   | O cliente deve informar seu nome, endereço e telefone ao realizar uma reserva |
-| RF05   | Um mesmo item não pode ser alugado em duplicidade                             |
+| Código | Requisito                                                                         |
+| ------ | --------------------------------------------------------------------------------- |
+| RF01   | O cliente deve ser capaz de reservar produtos para aluguel                        |
+| RF02   | O sistema deve emitir um código que representa a reserva realizada pelo cliente   |
+| RF03   | O admnistrador deve ser capaz de cadastrar produtos na plataforma                 |
+| RF04   | O cliente deve informar seu nome, endereço e telefone ao realizar uma reserva     |
+| RF05   | O sistema deve fazer controle de estoque                                          |
 
 ### Should Have
 
-| Código | Requisito                                                                                                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------------- |
-| RF06   | O usuário deve receber um email contenta os dados dos itens que foram reservados, data e local.                         |
-| RF07   | Customizar os itens separadamente.                                                                                      |
-| RF08   | Manter registro do que foi alugado e quando estará disponível novamente                                                 |
-| RF09   | O usuário deve ser capaz de filtrar itens por nome                                                                      |
-| RF10   | Caso os itens alugados não forem coletados no dia determinado, o aluguel é cancelado e os itens liberados para aluguel. |
-| RF11   | O sistema deve permitir cancelar ou alterar a reserva                                                                   |
-| RF 12  | O dono da loja cancela o aluguel manualmente caso o cliente não recolha os itens requisitados no dia.                   |
+| Código | Requisito                                                                                   |
+| ------ | ------------------------------------------------------------------------------------------- |
+| RF06   | O sistema deve enviar e-mail ao usuário contendo os dados de sua reserva                    |
+| RF07   | O cliente deve ser capaz de adicionar produtos separadamente ou em conjunto na reseva.      |
+| RF08   | O sistema deve manter o registro do que foi alugado e quando estará disponível novamente.   |
+| RF09   | O cliente deve ser capaz de pesquisar produtos.                                             |
+| RF10   | O sistema deve permitir o admnistrador deve ser capaz de de cancelar a reserva .            |
+| RF11   | O sistema deve permitir cancelar a reserva.                                                 |
+| RF 12  | O sistema deve permitir editar a reserva .                                                  |
 
 ### Could Have
 
-| Código | Requisito                                                                                                                                                                                             |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RF13   | Caso o(s) item(s) selecionado(s) não esteja(m) disponível(is) no momento, o cliente terá acesso a informação de quando ele(s) estará(ão) disponível e, se desejar, alugalo(s) a partir deste período. |
-| RF14   | Os produtos devem possuir fotos e dimensões em sua descrição.                                                                                                                                         |
-| RF15   | deve ser possível visualizar todos os produtos e suas respectivas disponibilidades em estoque                                                                                                         |
-| RF16   | O sistema deve permitir o dono altere os itens disponíveis como parte do kit festa.                                                                                                                   |
-| RF17   | O sistema deve informar o tempo para o cancelamento de uma reserva                                                                                                                                    |
+| Código | Requisito                                                                |
+| ------ | ------------------------------------------------------------------------ |
+| RF13   | O sistema devem informar fotos e dimensões dos produtos.                 |
+| RF14   | O admnistrador deve ser capaz de definir a composição dos kits de fests. |
+| RF15   | O sistema deve informar o tempo para o cancelamento de uma reserva.      |
 
 ### Would Have
 
-| Código | Requisito                                                                                                  |
-| ------ | ---------------------------------------------------------------------------------------------------------- |
-| RF18   | O usuário deve possuir sistema de login                                                                    |
-| RF19   | O sistema deve ser capaz de armazenar o histórico de alugueis realizados pelo usuário                      |
-| RF20   | O sistema deve apresentar um dashboard financeiro contendo os itens alugados e seus respectivos pagamentos |
+| Código | Requisito                                                                                                   |
+| ------ | ----------------------------------------------------------------------------------------------------------- |
+| RF16   | O cliente deve realizar cadastro no sistema                                                                 |
+| RF18   | O cliente deve realizar login/logout no sistema                                                             |
+| RF19   | O sistema deve armazenar o histórico de alugueis realizados pelo usuário.                                   |
+| RF20   | O sistema deve apresentar um dashboard financeiro contendo os itens alugados e seus respectivos pagamentos. |
 
 ## Referências
 
