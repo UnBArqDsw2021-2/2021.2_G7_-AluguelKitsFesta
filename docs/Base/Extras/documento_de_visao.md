@@ -10,6 +10,7 @@
 | 31/07/2022 | 1.1    | Detalhamento                                              | Caio Gabriel |
 | 01/08/2022 | 1.2    | Revisão do Documento                                      | Caio Gabriel |
 | 03/08/2022 | 1.3    | Atualização dos Requisitos Funcionais/Adição N Funcionais | Caio Gabriel |
+| 04/08/2022 | 1.4    | Atualização dos Requisitos Funcionais/Adição N Funcionais | Caio Gabriel |
 
 ## 1 Introdução
 
@@ -219,35 +220,31 @@ O tempo de resposta de uma pesquisa no sistema não deve ultrapassar o prazo má
 ### 5.2.4 Funcionais
 
 | RF        | Descrição                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **RF01**  | O sistema deve permitir que o usuário reserve kits festa para aluguel                                                     |
-| **RF02**  | O sistema deve emitir um código que representa a reserva realizada pelo cliente                                           |
-| **RF03**  | Os produtos devem ser cadastrados na plataforma                                                                           |
-| **RF04**  | O cliente deve informar seu nome, endereço e telefone ao realizar uma reserva                                             |
-| **RF05**  | Um mesmo item não pode ser alugado em duplicidade                                                                         |
-| **RF06**  | O usuário deve receber um e-mail contenta os dados dos itens que foram reservados, data e local.                          |
-| **RF07**  | Customizar os itens separadamente.                                                                                        |
-| **RF08**  | Manter registro do que foi alugado e quando estará disponível novamente                                                   |                                                                                                      |
-| **RF09**  | O usuário deve ser capaz de filtrar itens por nome                                                                        |
-| **RF10**  | Caso os itens alugados não forem coletados no dia determinado, o aluguel é cancelado e os itens liberados para aluguel.   |
-| **RF11**  | O sistema deve permitir cancelar ou alterar a reserva                                                                     |
-| **RF12**  | O dono da loja cancela o aluguel manualmente caso o cliente não recolha os itens requisitados no dia.                     |
-| **RF13**  | Caso o(s) item(s) selecionado(s) não esteja(m) disponível(is) no momento, o cliente terá acesso a                         | informação de quando ele(s) estará(ão) disponível e, se desejar, aluga-lo(s) a partir deste período. |
-| **RF14**  | Os produtos devem possuir fotos e dimensões em sua descrição                                                              |
-| **RF15**  | Deve ser possível visualizar todos os produtos e suas respectivas disponibilidades em estoque                             |
-| **RF16**  | O sistema deve permitir o dono altere os itens disponíveis como parte do kit festa.                                       |
-| **RF17**  | O sistema deve informar o tempo para o cancelamento de uma reserva                                                        |
-| **RF18**  | O usuário deve possuir sistema de login                                                                                   |
-| **RF19**  | O sistema deve ser capaz de armazenar o histórico de alugueis realizados pelo usuário                                     |
-| **RF20**  | O sistema deve apresentar um dashboard financeiro contendo os itens alugados e seus respectivos pagamentos                |
+| --------- | ------------------------------------------------------------------------------------------------------------------------- | 
+| **RF01**  | O cliente deve ser capaz de reservar produtos para aluguel                                                                |
+| **RF02**  | O cliente deve informar seu nome, endereço e telefone ao realizar uma reserva                                             |
+| **RF03**  | O admnistrador deve ser capaz de cadastrar produtos na plataforma                                                         |
+| **RF04**  | O sistema deve fazer controle de estoque                                                                                  |
+| **RF05**  | O sistema deve permitir editar a reserva                                                                                  |
+| **RF06**  | O usuário deve ser capaz de pesquisar produtos                                                                            |
+| **RF07**  | O sistema deve permitir o dono altere os itens disponíveis como parte do kit festa.                                       |
+| **RF08**  | O sistema deve emitir um código que representa a reserva realizada pelo cliente                                           |                                                                                                        
+| **RF09**  | O usuário deve realizar cadastro no sistema                                                                               |
+| **RF10**  | O sistema deve permitir cancelar a reserva                                                                                |
+| **RF11**  | O sistema deve manter o registro do que foi alugado e quando estará disponível novamente                                  |
+| **RF12**  | O sistema devem informar fotos e dimensões dos produtos                                                                   |
+| **RF13**  | O sistema deve  emitir um e-mail contenta os dados dos itens que foram reservados                                         |
+| **RF14**  | O sistema deve  enviar e-mail ao usuário contendo os dados de sua reserva                                                 |
+| **RF15**  | O sistema deve permitir o admnistrador deve ser capaz de de cancelar a reserva                                            |
+| **RF16**  | O usuário deve ser capaz de adicionar produtos separadamente ou em conjunto na reseva                                     |
 
 ### 5.2.4 Não Funcionais  
 
 | RF     | Descrição                                                            |
-| ------ | -------------------------------------------------------------------- | --- |
-| RNF01  | O sistema deve suportar os principais navegadores web.               |     |
-| RNF02  | O sistema deve seguir boas práticas de usabilidade e acessibilidade. |     |
-| RNF03  | O sistema deve ser responsivo                                        |     |
+| ------ | -------------------------------------------------------------------- | 
+| RNF01  | O sistema deve suportar os principais navegadores web.               | 
+| RNF02  | O sistema deve seguir boas práticas de usabilidade e acessibilidade. |
+| RNF03  | O sistema deve ser responsivo                                        |
 
 ## 6 Referências
 
