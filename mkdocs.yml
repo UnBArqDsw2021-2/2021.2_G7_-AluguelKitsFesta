@@ -31,7 +31,9 @@ nav:
                 - Priorização:
                       - MoSCoW: 'Priorizacao/Moscow.md'
                       - First Thing First: 'Priorizacao/FtF.md'
-                - Processos/Metodologias:
+                - Prototipação:
+                      - Protótipo: 'Protótipo/Protótipo.md'
+                   - Processos/Metodologias:
                       - Metodologias: 'Metodologia/metodologia.md'
                       - Design Sprint: 'Metodologia/design_sprint.md'
                       - Diagramas BPMN: 'Metodologia/diagramas_BPMN.md'
