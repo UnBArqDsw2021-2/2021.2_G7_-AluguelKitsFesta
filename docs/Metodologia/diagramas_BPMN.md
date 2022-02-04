@@ -6,8 +6,8 @@
 | -------- | -------- | -------- | ---|
 | 02/02/2022     |  1.0  | Criação do documento  | Flavio Vieira
 | 02/02/2022    |  1.1    | Diagrama principais artefatos e Definir tema     |  Flavio Vieira
-| 04/02/2022    |  1.2    | Diagrama metodologias, desenvolvimento e visao geral     |  Flavio Vieira
-
+| 04/02/2022    |  1.2    | Diagrama metodologias e desenvolvimento     |  Flavio Vieira
+| 04/02/2022    |  1.2    | Diagrama visao geral     |  Flavio Vieira
 
 
 ## Modelagem
@@ -16,7 +16,8 @@
 BPMN (Business Process Model and Notation) é uma notação gráfica de gerenciamento de processos de negócio e tem como objetivo facilitar o entendimento do usuário acerca dos processos.  
 
 
-### Visão geral do projeto  
+## Visão geral do projeto  
+<p align="center">  <img src="./visaoGeral.png" width="900"></p>
  
 ### Definir tema
 <p align="center">  <img src="../definirTema.png" width="800"></p>
