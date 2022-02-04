@@ -19,6 +19,7 @@ nav:
           - Home: index.md
           - Apresentações: ''
           - 1. Base:
+             - 1.1 Projeto Não Orientado a Abordagem Específicas :   
                 - Pré-rastreabilidade:
                       - 5W2H: 'Pre-rastreabilidade/5W2H.md'
                       - Causa e Efeito: 'Pre-rastreabilidade/Causa&Efeito.md'
@@ -32,15 +33,15 @@ nav:
                       - MoSCoW: 'Priorizacao/Moscow.md'
                       - First Thing First: 'Priorizacao/FtF.md'
                 - Prototipação:
-                      - Protótipo: 'Protótipo/Protótipo.md'
-                   - Processos/Metodologias:
-                      - Metodologias: 'Metodologia/metodologia.md'
-                      - Design Sprint: 'Metodologia/design_sprint.md'
-                      - Diagramas BPMN: 'Metodologia/diagramas_BPMN.md'
-                - Extras:
-                      - Documento de Visão: 'Extras/documento_de_visao.md'
-                      - Horário disponiveis: 'horarios/Horario_disponibilidade.md'
-                      - Politicas do Repositorio: 'Extras/PoliticasRepositorio.md'
+                      - Protótipo: 'Prototipo/Prototipo.md'     
+             - 1.2 Processos/Metodologias/Abordagens:
+               - Metodologias: 'Metodologia/metodologia.md'
+               - Design Sprint: 'Metodologia/design_sprint.md'
+               - Diagramas BPMN: 'Metodologia/diagramas_BPMN.md'
+               - Extras:
+                  - Documento de Visão: 'Extras/documento_de_visao.md'
+                  - Horários disponíveis: 'horarios/Horario_disponibilidade.md'
+                  - Politicas do Repositório: 'Extras/PoliticasRepositorio.md'
           #   - 2. Modelagem: ''
           #   - 3. Padrões de Projeto: ''
           #   - 4. Arquitetura de Software e Reutilização: ''

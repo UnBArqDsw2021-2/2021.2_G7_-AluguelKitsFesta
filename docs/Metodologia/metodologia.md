@@ -17,7 +17,7 @@ A equipe scrum é formada Scrum master: a pessoa que lidera a equipe orientando-
 <p align="justify"> Dessa forma, para o projeto a equipe utilizará os seguintes elementos do Scrum:  </p>
 
 
-| Elementos | Descrição |
+| Pipelines | Descrição |
 |---------|--------------------|
 | Sprints | Pequeno ciclo iterativo de 2 a 4 semanas |
 | Sprint Planning |  Evento que abre um novo ciclo de execução |
