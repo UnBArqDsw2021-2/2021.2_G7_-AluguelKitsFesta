@@ -10,4 +10,4 @@ Rich picture é uma ferramenta composta por imagens, textos, símbolos e ícones
 ## 3. Versionamento
 |Data |Versão |Descrição| Autor|
 |--- |--- |--- |--- |
-|03/02/2022 |1.0 | Criação do Documento| João Victor Max|
+|03/02/2022 |1.0 | Criação do Documento| João Victor Max|  

@@ -13,7 +13,7 @@
 ## 2. Whiteboard
 
 -   Utilizamos a ferramente microsoft whiteboard para que de forma colaborativa fosse possível cada integrante preencher sua ideia de requisito necessário para a aplicação.
-
+ 
 ![whiteboard](Whiteboard.png)
 
 ## 3. Divisão dos requisitos
