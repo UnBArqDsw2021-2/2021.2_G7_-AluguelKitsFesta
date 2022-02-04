@@ -19,16 +19,16 @@ BPMN (Business Process Model and Notation) é uma notação gráfica de gerencia
 ### Visão geral do projeto  
  
 ### Definir tema
-[defenirTema.png](definirTema.png)  
+<p align="center">  <img src="./definirTema.png" width="800"></p>
 
 ### Principais artefatos
-[principaisArtefatos.png](principaisArtefatos.png)  
+<p align="center">  <img src="./principaisArtefatos.png" width="800"></p>
 
 ### Levantamento de metodologias
-[metodologias.png](metodologias.png)  
+<p align="center">  <img src="./metodologias.png" width="800"></p> 
 
 ### Desenvolvimento do projeto
-[desenvolvimento.png](desenvolvimento.png)  
+<p align="center">  <img src="./desenvolvimento.png" width="800"></p>
 
 
 ## Referências Bibliográficas

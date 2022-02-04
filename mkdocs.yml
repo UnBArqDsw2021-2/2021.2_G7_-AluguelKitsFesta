@@ -34,6 +34,7 @@ nav:
                 - Processos/Metodologias:
                       - Metodologias: 'Metodologia/metodologia.md'
                       - Design Sprint: 'Metodologia/design_sprint.md'
+                      - Diagramas BPMN: 'Metodologia/diagramas_BPMN.md'
                 - Extras:
                       - Documento de Visão: 'Extras/documento_de_visao.md'
                       - Horário disponiveis: 'horarios/Horario_disponibilidade.md'
