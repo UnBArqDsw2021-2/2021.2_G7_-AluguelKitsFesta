@@ -6,16 +6,17 @@
 | -------- | -------- | -------- | ---|
 | 01/02/2022     |  1.0  | Criação do documento  | Caio Araújo
 | 01/02/2022    |  1.1    | Objetivos e Metodologia     |  Caio Araújo
+| 03/02/2022    |  1.2    | Revisão  |  Caio Araújo
 
 
 
 ## Introdução
 
-Desenvolvido pelo Google Ventures o Design Sprint é um processo de duração de 5 dias para responder questões criticas do negócio por meio dos artefatos base de um produto. Ao final da atividade, a equipe espera entender o problema de fato e também poder validar se a ideia construída ao longo do design sprint é uma solução viável para assim, ser possível prosseguir com a implementação do produto com maior confiabilidade.
+Desenvolvido pelo Google Ventures, o Design Sprint é um processo de duração de 5 dias para responder questões criticas do negócio por meio dos artefatos base de um produto. Ao final da atividade, a equipe espera entender o problema de fato e também poder validar se a ideia construída ao longo do design sprint é uma solução viável para assim, ser possível prosseguir com a implementação do produto com maior confiabilidade.
 
 ### Objetivos do processo
 
-* Tarefa impulsionadora para o processo de design do produto, dando uma direção inicial mais completa para a equipe de desenvolvimento.
+* Impulsionar o processo de design do produto, dando uma direção inicial mais completa para a equipe de desenvolvimento.
 
 * Utilizado para uma produção eficaz dos artefatos de elicitação e pré-rastreabilidade do projeto.
 
@@ -24,10 +25,10 @@ Desenvolvido pelo Google Ventures o Design Sprint é um processo de duração de
 ### Aplicação do Design Sprint - Adaptado
 O Processo de Design Sprint em uso, será composto pelas 4 fases inicias do *Google Ventures*, que serão detalhadas a seguir. O uso da última etapa nao foi visto como necessário, pois, o foco desta etapa seria a validação do protótipo com o cliente final.
 Etapas:
-1. Targeting
-2. Sketch
-3. Sketch Refinement
-4. Prototyping
+1. Targeting (Alvo Inicial)
+2. Sketch (Esboço)
+3. Sketch (Refinamento do Escopo)
+4. Prototyping (Prototipação)
 
 
 | Data | Atividades | 
