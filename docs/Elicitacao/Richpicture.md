@@ -4,7 +4,7 @@ Rich picture é uma ferramenta composta por imagens, textos, símbolos e ícones
 
 ## 2. Resultado
 
-
+![richpicture_PR](richpicture_PR.png)
 
 
 ## 3. Versionamento
