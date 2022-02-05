@@ -23,21 +23,17 @@ A PartyRent é uma pequena empresa voltada a realização de aluguel para artigo
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+![Entrega1_p1](Imagem/Print_entrega1_p1.png)
+
+![Entrega1_p2](Imagem/Print_entrega1_p2.png)
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 
-<p align = "justify"> 1.1 Projeto Não Orientado a Abordagem Específicas </p>
+[1.1 Projeto Não Orientado a Abordagem Específicas](https://youtu.be/0TakkRStXLM)
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/0TakkRStXLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[1.2 Processos/Metodologias/Abordagens](https://youtu.be/OKHi1pNN1YU)
 
-<p align = "justify"> 1.2 Processos/Metodologias/Abordagens </p>
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/OKHi1pNN1YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p align = "justify"> 1.3 Extras </p>
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/0MUihEyvvKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[1.3 Extras](https://www.youtube.com/embed/0MUihEyvvKA)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
