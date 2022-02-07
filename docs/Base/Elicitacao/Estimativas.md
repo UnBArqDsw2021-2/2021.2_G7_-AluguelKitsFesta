@@ -1,9 +1,11 @@
 ## 4. Versionamento
 
-| Data       | Versão | Descrição                 | Autor                  |
-| ---------- | ------ | ------------------------- | ---------------------- |
-| 02/02/2022 | 1.0    | Criação do Documento      | Marcos Gabriel Tavares |
-| 04/02/2022 | 2.0    | Padronização do documento | Luis Marques           |
+| Data       | Versão | Descrição                     | Autor                  |
+| ---------- | ------ | ----------------------------- | ---------------------- |
+| 02/02/2022 | 1.0    | Criação do Documento          | Marcos Gabriel Tavares |
+| 04/02/2022 | 2.0    | Padronização do documento     | Luis Marques           |
+| 07/02/2022 | 2.1    | Correção do numero de membros | Marcos Gabriel Tavares |
+
 
 ## 1.Introdução
 
@@ -17,35 +19,35 @@ Como todos os membros da equipe irão participar de todo o projeto pelo tempo es
 
 | Função                   | Quantidade | Salário   | Tempo de Execução | Total       |
 | ------------------------ | ---------- | --------- | ----------------- | ----------- |
-| Desenvolvedor Full Stack | 8          | R$3060,00 | 3 meses           | R$73.440,00 |
+| Desenvolvedor Full Stack | 9          | R$3060,00 | 3 meses           | R$82.620,00 |
 
 ### 2.2.Custo de ferramentas
 
 | Ferramenta                     | Finalidade                                | Quantidade | Valor unitário | Total       |
 | ------------------------------ | ----------------------------------------- | ---------- | -------------- | ----------- |
-| Notebook                       | Planejamento e Desenvolvimento            | 8          | R$3.159,10     | R$25.272,80 |
-| Internet                       | Conta da Internet                         | 8          | R$100          | R$800,00    |
-| MS Teams                       | Reuniões da equipe                        | 8          | 0              | R$0,00      |
-| Telegram                       | Comunicação da equipe                     | 8          | 0              | R$0,00      |
-| Python, Django, Banco de dados | Tecnologias usadas para o desenvolvimento | 8          | 0              | R$0,00      |
-| **Valor Total**                |                                           |            |                | R$26.072,80 |
+| Notebook                       | Planejamento e Desenvolvimento            | 9          | R$3.159,10     | R$28.431,90 |
+| Internet                       | Conta da Internet                         | 9          | R$100          | R$900,00    |
+| MS Teams                       | Reuniões da equipe                        | 9          | 0              | R$0,00      |
+| Telegram                       | Comunicação da equipe                     | 9          | 0              | R$0,00      |
+| Python, Django, Banco de dados | Tecnologias usadas para o desenvolvimento | 9          | 0              | R$0,00      |
+| **Valor Total**                |                                           |            |                | R$29.331,90 |
 
 ### 2.3.Custo de Capacitação
 
 | Capacitação     | Finalidade                                              | Quantidade | Valor unitário | Total    |
 | --------------- | ------------------------------------------------------- | ---------- | -------------- | -------- |
-| Python e Django | Capacitar a equipe com a tecnologias de desenvolvimento | 8          | R$34,90        | R$279,20 |
-| Banco de dados  | Capacitar a equipe com a tecnologias de desenvolvimento | 8          | R$27,90        | R$223,20 |
-| **Valor Total** |                                                         |            |                | R$502,40 |
+| Python e Django | Capacitar a equipe com a tecnologias de desenvolvimento | 9          | R$34,90        | R$314,10 |
+| Banco de dados  | Capacitar a equipe com a tecnologias de desenvolvimento | 9          | R$27,90        | R$251,10 |
+| **Valor Total** |                                                         |            |                | R$565,20 |
 
 ### 2.4.Custo Total
 
 | Custo                | Valor        |
 | -------------------- | ------------ |
-| Custo pessoal        | R$73.440,00  |
-| Custo de ferramentas | R$26.072,80  |
-| Custo de Capacitação | R$502,40     |
-| Total                | R$100.015,20 |
+| Custo pessoal        | R$82.620,00  |
+| Custo de ferramentas | R$29.331,90  |
+| Custo de Capacitação | R$565,20     |
+| Total                | R$112.517,10 |
 
 ## 3.Referências
 
