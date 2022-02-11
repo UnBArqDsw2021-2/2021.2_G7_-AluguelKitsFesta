@@ -1,12 +1,3 @@
----
-name: Issue Template
-about: Descreve a Issue
-title: Issue x
-labels: ''
-assignees: ''
-
----
-
 **Descreva brevemente a demanda:**
 Uma descrição clara e concisa da demanda.
 
