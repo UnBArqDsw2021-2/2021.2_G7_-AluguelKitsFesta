@@ -1,12 +1,3 @@
----
-name: Sprint Template
-about: Descreve a Documentação da Sprint
-title: Documentação da xª Sprint
-labels: ''
-assignees: ''
-
----
-
 <!-- Documentação da xª Sprint -->
 
 Descrição | Data
