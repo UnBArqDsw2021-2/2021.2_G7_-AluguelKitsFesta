@@ -5,14 +5,14 @@ Descrição | Data
 | **Data de início**   | dd/mm/2022
 | **Data de término** | dd/mm/2022
 
-| Issue | Responsável | Concluída | Causa |
-| :-:   | :-:         | :-:       | :-:   | 
-| Criar/Fazer/Implementar ... #nº | @nome | | |
-| Criar/Fazer/Implementar ... #nº | @nome | | |
-| Criar/Fazer/Implementar ... #nº | @nome | | |
-| Criar/Fazer/Implementar ... #nº | @nome | | |
+| Issue | Responsável | Concluída | 
+| :-:   | :-:         | :-:       |  
+| Criar/Fazer/Implementar ... #nº | @nome | |
+| Criar/Fazer/Implementar ... #nº | @nome | |
+| Criar/Fazer/Implementar ... #nº | @nome | |
+| Criar/Fazer/Implementar ... #nº | @nome | |
   
-<!-- ✔️✖️⚠️ -->
+<!-- ✔️ ⚠️ -->
 <!-- @CaioGabrielAraujo  --> 
 <!-- @flaviovl --> 
 <!-- @JaimeJuan11 --> 
