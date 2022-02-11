@@ -1,0 +1,68 @@
+
+  .md-header {
+    background: linear-gradient(90deg, rgba(234,229,209,1) 65%, rgba(232,232,232,1) 97%);
+    color: white;
+  }
+  
+  .md-tabs {
+      background: linear-gradient(90deg, rgba(234,229,209,1) 65%, rgba(232,232,232,1) 97%);
+  }
+  
+  .md-typeset table thead tr {
+    background: grey;
+      color:white;
+  }
+
+  .md-typeset__table table {
+    border-radius: 10px !important;
+}
+.md-tabs__link{
+      color: white;
+      font-weight: bold;
+}
+body {
+    color: rgba(0, 0, 0, 1);
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

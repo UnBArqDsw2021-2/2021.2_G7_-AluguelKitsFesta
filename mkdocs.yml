@@ -4,6 +4,7 @@ repo_url: https://github.com/UnBArqDsw2021-2/2021.2_G7_-AluguelKitsFesta
 
 theme:
     name: material
+    # logo: assets/logo.png
     language: pt
     features:
         - navigation.tabs
@@ -13,6 +14,9 @@ theme:
 
 hide:
     - toc
+
+extra_css:
+  - assets/extra.css    
 
 nav:
   - Home: index.md
@@ -41,7 +45,11 @@ nav:
           - Documento de Visão: 'Base/Extras/documento_de_visao.md'
           - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
           - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
-    #   - 2. Modelagem: ''
+  - 2. Modelagem: 
+      - 1.1 Projeto Orientado a Abordagens Tradicionais:
+          - Diagramas de implementação: 'modelagem/diagramasdeimplementacao.md' 
+      - 1.3 Extras: 
+          - Diagramas UML: 'modelagem/diagramasuml.md' 
     #   - 3. Padrões de Projeto: ''
     #   - 4. Arquitetura de Software e Reutilização: ''
 
