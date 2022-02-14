@@ -59,6 +59,7 @@ A equipe scrum é formada Scrum master: a pessoa que lidera a equipe orientando-
     <li>O projeto será elaborado utilizando metodologias ágeis. Utilizaremos parte do Scrum modificado com Xp.</li>
     <li>Foi atribuido para o integrante <a href="https://github.com/JaimeJuan11" target="_blank">Jaime</a> a função de Scrum Master .</li>
     <li>Foi atribuído para o Integrando <a href="https://github.com/luisgfmarques" target="_blank">Luis Marques</a> O papel de Product Owner.</li>
+    <li>Foi atribuído para o Integrando <a href="https://github.com/CaioGabrielAraujo" target="_blank">Caio Gabriel</a> O papel de DevOps.</li>
     <li> Todos os membros do projeto serão desenvolvedores.</li>
     <li>Será feito Sprints mais curtas, com duração de uma semana, por conta do tempo curto para desenvolvimento do projeto.</li>
     <li>Ao final de cada ciclo será realizado as “Sprints Reviews”, será averiguado o quadro Kanban e atualizaremos o BackLog conforme as necessidades da equipe.</li>
