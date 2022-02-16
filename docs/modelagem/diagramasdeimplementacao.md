@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição                                                 | Autores      |
 | ---------- | ------ | --------------------------------------------------------- | ------------ |
-| 09/01/2022 | 1.0    | Criação do documento                                      | Victor |
+| 09/01/2022 | 1.0    | Criação do documento                                      |  |
 
 
 # Diagrama de implementação

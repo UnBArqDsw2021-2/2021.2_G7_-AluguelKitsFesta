@@ -1,15 +1,19 @@
 
   .md-header {
-    background: linear-gradient(90deg, rgba(234,229,209,1) 65%, rgba(232,232,232,1) 97%);
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
     color: white;
   }
   
   .md-tabs {
-      background: linear-gradient(90deg, rgba(234,229,209,1) 65%, rgba(232,232,232,1) 97%);
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
+    color: white;
   }
   
   .md-typeset table thead tr {
-    background: grey;
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
       color:white;
   }
 
@@ -23,6 +27,12 @@
 body {
     color: rgba(0, 0, 0, 1);
     font-family: "Poppins", sans-serif;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  fill: currentColor;
+  display: block;
+  height: 1.2rem;
+  width: 1.7rem;
 }
 
 
