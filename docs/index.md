@@ -9,7 +9,9 @@
 <img src="./assets/logo.png" alt="logo" align="middle">
 </center>
 
+
 ## Equipe
+<center>
 
 <table>
         <td align="center"><a href="https://github.com/CaioGabrielAraujo"target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/20951137?v=4" width="100px;" alt=""/><br /><sub><b>Caio Gabriel</b></sub></a><br /><a href="https://github.com/brunocmo"target="_blank"></a>
@@ -23,3 +25,4 @@
         <a href="https://github.com/matheusclemente"target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15328891?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Clemente</b></sub></a><br /><a href="https://github.com/matheusclemente"target="_blank"></a>
         <a href="https://github.com/victor-rayan"target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77134807?v=4" width="100px;" alt=""/><br /><sub><b>Victor Rayan</b></sub></a><br /><a href="https://github.com/victor-rayan"target="_blank"></a></td>
 </table>
+</center>
