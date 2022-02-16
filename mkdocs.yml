@@ -20,7 +20,8 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Apresentações: 'apresentacoes.md'
+  - Apresentações:
+          - Apresentação 1: 'Apresentacoes/apresentacao1.md'
   - 1. Base:
       - 1.1 Projeto Não Orientado a Abordagem Específicas:
           - Design Sprint: 'Base/Metodologia/design_sprint.md'   
@@ -69,4 +70,3 @@ features:
 plugins:
     - search
     - awesome-pages
-  
