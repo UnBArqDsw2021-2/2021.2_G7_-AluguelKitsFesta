@@ -15,33 +15,34 @@ hide:
     - toc
 
 nav:
-  - Home: index.md
-  - Apresentações: 'apresentacoes.md'
-  - 1. Base:
-      - 1.1 Projeto Não Orientado a Abordagem Específicas:
-          - Design Sprint: 'Base/Metodologia/design_sprint.md'   
-          - Pré-rastreabilidade:
-              - 5W2H: 'Base/Pre-rastreabilidade/5W2H.md'
-              - Causa e Efeito: 'Base/Pre-rastreabilidade/Causa&Efeito.md'
-              - Rich picture: 'Base/Pre-rastreabilidade/Richpicture.md'
-          - Elicitação:
-              - Brainstorming: 'Base/Elicitacao/Brainstorm.md'
-              - Estimativas: 'Base/Elicitacao/Estimativas.md'
-              - Léxico: 'Base/Elicitacao/Lexico.md'
-              - Storyboard: 'Base/Elicitacao/Storyboard.md'
-          - Priorização:
-              - MoSCoW: 'Base/Priorizacao/Moscow.md'
-              - First Thing First: 'Base/Priorizacao/FtF.md'
-          - Prototipação:
-              - Protótipo: 'Base/Prototipo/Prototipo.md'     
-      - 1.2 Processos/Metodologias/Abordagens:
-          - Metodologias: 'Base/Metodologia/metodologia.md'
-          - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
-      - 1.3 Extras:
-          - Documento de Visão: 'Base/Extras/documento_de_visao.md'
-          - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
-          - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
-    #   - 2. Modelagem: ''
+    - Home: index.md
+    - Apresentações:
+          - Apresentação 1: 'Apresentacoes/apresentacao1.md'
+    - 1. Base:
+          - 1.1 Projeto Não Orientado a Abordagem Específicas:
+                - Design Sprint: 'Base/Metodologia/design_sprint.md'
+                - Pré-rastreabilidade:
+                      - 5W2H: 'Base/Pre-rastreabilidade/5W2H.md'
+                      - Causa e Efeito: 'Base/Pre-rastreabilidade/Causa&Efeito.md'
+                      - Rich picture: 'Base/Pre-rastreabilidade/Richpicture.md'
+                - Elicitação:
+                      - Brainstorming: 'Base/Elicitacao/Brainstorm.md'
+                      - Estimativas: 'Base/Elicitacao/Estimativas.md'
+                      - Léxico: 'Base/Elicitacao/Lexico.md'
+                      - Storyboard: 'Base/Elicitacao/Storyboard.md'
+                - Priorização:
+                      - MoSCoW: 'Base/Priorizacao/Moscow.md'
+                      - First Thing First: 'Base/Priorizacao/FtF.md'
+                - Prototipação:
+                      - Protótipo: 'Base/Prototipo/Prototipo.md'
+          - 1.2 Processos/Metodologias/Abordagens:
+                - Metodologias: 'Base/Metodologia/metodologia.md'
+                - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
+          - 1.3 Extras:
+                - Documento de Visão: 'Base/Extras/documento_de_visao.md'
+                - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
+                - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
+    - 2. Modelagem: ''
     #   - 3. Padrões de Projeto: ''
     #   - 4. Arquitetura de Software e Reutilização: ''
 
@@ -61,4 +62,3 @@ features:
 plugins:
     - search
     - awesome-pages
-  
