@@ -24,7 +24,7 @@
 
 <p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta Draw.io </p>
 
-[![Diagrama](..\modelagem\imagensdiagramas\componentes.png)](..\modelagem\imagensdiagramas\componentes.png)
+[![Diagrama](../modelagem/imagensdiagramas/componentes.png)](../modelagem/imagensdiagramas/componentes.png)
 
 <figcaption>Diagrama de componentes. Autor: Victor Rayan</figcaption>
 
