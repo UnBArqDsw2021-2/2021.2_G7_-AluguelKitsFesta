@@ -47,10 +47,13 @@ nav:
           - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
           - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
   - 2. Modelagem: 
-      - 1.1 Projeto Orientado a Abordagens Tradicionais:
-          - Diagramas de implementação: 'modelagem/diagramasdeimplementacao.md' 
-      - 1.3 Extras: 
-          - Identidade Visual: 'modelagem/identidadevisual.md' 
+      - 2.1 Projeto Orientado a Abordagens Tradicionais:
+            - Notação UML - Diagramas Estáticos:
+              - Diagramas de Componentes: 'modelagem/diagramacomponentes.md' 
+            - Notação UML - Diagramas Dinâmicos:
+              - Diagramas de : 'Base/horarios/Horario_disponibilidade.md'                                        
+            - Extras: 
+              - Identidade Visual: 'modelagem/identidadevisual.md' 
     #   - 3. Padrões de Projeto: ''
     #   - 4. Arquitetura de Software e Reutilização: ''
 

@@ -17,7 +17,8 @@ O documento de identidade visual tem o objetivo de listar os componentes visíve
 ### &emsp; 2.1 Composição do corpo do site
 
  &emsp;A paleta de cores escolhida para o site apresenta uma variação de tonalidades predominantemente roxa, chamada Russian violet.
- ![Russian Violet](\modelagem\imagensmodel\palettecolors.png)
+
+ [![Russian Violet](../modelagem/imagensmodel/palettecolors.png)](../modelagem/imagensmodel/palettecolors.png)
  
 
 #### &emsp; 2.1.1 Código hexadecimal das cores
@@ -46,7 +47,7 @@ O documento de identidade visual tem o objetivo de listar os componentes visíve
  &emsp;Foi escolhida para a logotipo uma composição básica de elementos, sendo apenas a palavra *PartyRent* na fonte *Offside*, com um ícone na cor Plump Purple.
 
  <center>
-<img src="/assets/logo.png" alt="logo" align="middle">
+<img src="../../assets/logo.png" alt="logo" align="middle">
 </center>
 
 ## &ensp; 4. Tipografia
