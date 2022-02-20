@@ -11,14 +11,17 @@
 | 18/02/2022 | 1.3 | Adição da nova versão do diagrama | Caio Gabriel |
 
 
-
 ## Introdução
 
-Primeiramente, um diagrama de classe como um diagrama estrutural estático. Seu desenvolvimento durante a criação de um produto é de extrema importância pois mostra a estruturação de um software baseada em classes, interfaces, restrições e relacionamentos e outros recursos. O diagrama de classe fornece uma visão geral dos esquemas de um software. Não somente isso, mas também deixa claro as reais necessidades da aplicação de uma maneira intuitiva, não importando a complexidade do produto a ser implementado.
+<p align="justify">Primeiramente, um diagrama de classe como um diagrama estrutural estático. Seu desenvolvimento durante a criação de um produto é de extrema importância pois mostra a estruturação de um software baseada em classes, interfaces, restrições e relacionamentos e outros recursos.</p> 
+<p align="justify">O diagrama de classe fornece uma visão geral dos esquemas de um software. Não somente isso, mas também deixa claro as reais necessidades da aplicação de uma maneira intuitiva, não importando a complexidade do produto a ser implementado.</p>
+
 
 ## Diagramas
+
 ### Versão 1.0
 [![Diagrama](../modelagem/imagensdiagramas/diagrama_de_classes_3.jpg)](../modelagem/imagensdiagramas/diagrama_de_classes_3.jpg)
+
 ### Versão 2.0
 [![Diagrama](../modelagem/imagensdiagramas/diagrama_de_classes_4.jpg)](../modelagem/imagensdiagramas/diagrama_de_classes_4.jpg)
 
