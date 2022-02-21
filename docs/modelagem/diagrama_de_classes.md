@@ -1,15 +1,14 @@
-# Diagrama de Classe
+## Histórico de Versão
 
-
-## Versionamento
-
-| Data | Versão | Descrição | Autores |
+| Data | Versão | Descrição | Autor(es) |
 | ---------- | ----- | ------------------------------- | ------------ |
 | 16/02/2022 | 1.0 | Criação do Documento              | Caio Gabriel |
 | 17/02/2022 | 1.1 | Atualização da Imagem             | Caio Gabriel |
 | 17/02/2022 | 1.2 | Revisão do documento              | Caio Gabriel |
 | 18/02/2022 | 1.3 | Adição da nova versão do diagrama | Caio Gabriel |
+| 21/02/2022 | 1.4 | Revisão | Jaime Juan |
 
+# Diagrama de Classe
 
 ## Introdução
 
@@ -22,8 +21,12 @@
 ### Versão 1.0
 [![Diagrama](../modelagem/imagensdiagramas/diagrama_de_classes_3.jpg)](../modelagem/imagensdiagramas/diagrama_de_classes_3.jpg)
 
+<center>[Figura 1: Diagrama v1.0](diagrama_de_classes_3.jpg)</center>
+
 ### Versão 2.0
 [![Diagrama](../modelagem/imagensdiagramas/diagrama_de_classes_4.jpg)](../modelagem/imagensdiagramas/diagrama_de_classes_4.jpg)
+
+<center>[Figura 2: Diagrama v2.0](diagrama_de_classes_4.jpg)</center>
 
 
 ## Referências
