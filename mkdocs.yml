@@ -44,7 +44,7 @@ nav:
                 - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
           - 1.3 Extras:
                 - Documento de Visão: 'Base/Extras/documento_de_visao.md'
-                - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
+                - Disponibilidade de Horários: 'Base/horarios/Horario_disponibilidade.md'
                 - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
     - 2. Modelagem:
           - 2.1 Projeto Orientado a Abordagens Tradicionais:
