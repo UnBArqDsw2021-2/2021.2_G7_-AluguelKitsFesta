@@ -1,16 +1,17 @@
-# Diagrama de Estados
-
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor(es)    |
 | ---------- | ------ | -------------------- | ------------ |
 | 19/02/2022 | 1.0    | Criação do Documento | Luis Marques |
+| 21/02/2022 | 1.1    | Revisão | Jaime Juan |
 
-## Diagramas de Estados.
+# Diagrama de Estados
 
-O Diagrama de estado e um dos diagramas pertencentes a linguagem unificada de modelagem(UML), este diagrama mostra todos os estados possíveis que objetos de uma certa classe podem se encontrar e mostra também quais são os eventos do sistemas que provocam tais mudanças.
+## Introdução
 
-## Metodologia.
+O Diagrama de Estados é um dos diagramas pertencentes a Linguagem Unificada de Modelagem (UML), este diagrama mostra todos os estados possíveis que objetos de uma certa classe podem se encontrar e mostra também quais são os eventos do sistemas que provocam tais mudanças.
+
+## Metodologia
 
 Para realização dos diagramas foi utilizada a ferramente [LucidChart](https://www.lucidchart.com/pages/pt). A ferramenta e extremamente intuitiva e possui módulos para realização de gráficos UML e demais outros gráficos de produto de software.
 
@@ -20,13 +21,19 @@ Para realização dos diagramas foi utilizada a ferramente [LucidChart](https://
 
 ![DiagramadeLogin](../modelagem/imagensmodel/Diagrama_Login.png)
 
-### Diagrama de cadastro de produto
+<center>[Figura 1: Diagrama de Login](Diagrama_Login.png)</center>
+
+### Diagrama de Cadastro de Produto
 
 ![Diagramadecadastro](../modelagem/imagensmodel/Diagrama_Produto.png)
 
-### Diagrama de reserva de produto
+<center>[Figura 2: Diagrama de Cadastro de Produto](Diagrama_Produto.png)</center>
+
+### Diagrama de Reserva de Produto
 
 ![Diagramadecadastro](../modelagem/imagensmodel/Diagrama_Reserva.png)
+
+<center>[Figura 3: Diagrama de Reserva de Produto](Diagrama_Reserva.png)</center>
 
 ## Referências
 
