@@ -50,7 +50,7 @@ nav:
           - 2.1 Projeto Orientado a Abordagens Tradicionais:
                 - Notação UML - Diagramas Estáticos:
                       - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
-                      - Diagramas de Componentes: 'modelagem/diagramacomponentes.md'
+                      - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
                 - Notação UML - Diagramas Dinâmicos:
                       - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
