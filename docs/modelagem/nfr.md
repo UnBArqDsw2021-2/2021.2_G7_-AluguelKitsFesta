@@ -50,7 +50,7 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 ![NFR Portabilidade](nfr-portabilidade.png)
 
-<center>[Figura 7: NFR Portabilidade](nfr-portabilidade.png)</center>
+<center>[Figura 6: NFR Portabilidade](nfr-portabilidade.png)</center>
 
 ## Referências
 
