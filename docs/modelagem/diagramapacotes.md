@@ -3,9 +3,9 @@
 | Data       | Versão | Descrição                         | Autor(es)    |
 | ---------- | ------ | --------------------------------- | ------------ |
 | 21/02/2022 | 1.0    | Criação do Documento              | João Victor Max |
-| 21/02/2022 | 1.4    | Revisão                           | Jaime Juan   |
+| 21/02/2022 | 1.1    | Revisão                           | Jaime Juan   |
 
-# Diagrama de Classe
+# Diagrama de Pacotes
 
 ## Introdução
 
@@ -15,9 +15,9 @@
 
 ### Versão 1.0
 
-[![Diagrama](../modelagem/imagensdiagramas/diagrama_pacotes1.jpg)](../modelagem/imagensdiagramas/diagrama_pacotes1.jpg)
+![Diagrama](../modelagem/imagensdiagramas/diagrama_pacotes1.png)
 
-<center>[Figura 1: Diagrama v1.0](diagrama_pacotes1.jpg)</center>
+<center>[Figura 1: Diagrama v1.0](diagrama_pacotes1.png)</center>
 
 
 ## Referências

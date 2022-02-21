@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                         | Autor(es)    |
 | ---------- | ------ | --------------------------------- | ------------ |
 | 21/02/2022 | 1.0    | Criação do Documento              | João Victor Max |
-| 21/02/2022 | 1.4    | Revisão                           | Jaime Juan   |
+| 21/02/2022 | 1.1   | Revisão                           | Jaime Juan   |
 
 # Diagrama de Casos de Uso
  
