@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição            | Autor(es)    |
 | ---------- | ------ | -------------------- | ------------ |
 | 19/02/2022 | 1.0    | Criação do Documento | Luis Marques |
-| 21/02/2022 | 1.1    | Criação do Documento | Jaime Juan |
+| 21/02/2022 | 1.1    | Revisão | Jaime Juan |
 
 # Backlog Do Produto
 
