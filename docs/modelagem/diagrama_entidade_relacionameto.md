@@ -1,11 +1,11 @@
 ## Histórico de Versão
 
-| Data       | Versão | Descrição                                                 | Autor(es)      |
-| ---------- | ------ | --------------------------------------------------------- | ------------ |
-| 19/02/2022 | 1.0    | Criação Diagrama Entidade Relacionamento v1 e v2          | Flavio e Matheus |
-| 20/02/2022 | 1.1    | Criação documento                                         | Flavio |
-| 21/02/2022 | 1.2    | Revisão                                                   | Matheus |
-
+| Data       | Versão | Descrição                                        | Autor(es)        |
+| ---------- | ------ | ------------------------------------------------ | ---------------- |
+| 19/02/2022 | 1.0    | Criação Diagrama Entidade Relacionamento v1 e v2 | Flavio e Matheus |
+| 20/02/2022 | 1.1    | Criação documento                                | Flavio           |
+| 21/02/2022 | 1.2    | Revisão                                          | Matheus          |
+| 21/02/2022 | 1.3    | Alteração padrão de referências                  | Luis Marques     |
 
 # Diagrama Entidade Relacionameto - DER
 
@@ -15,7 +15,7 @@
 
 ## Usos de diagramas entidade relacionamento
 
-<p align="justify">O Diagrama Entidade Relacionamento é usado para modelar ou analisar banco de dados relacionais e resolver problemas de lógica ou implementação. 
+<p align="justify">O Diagrama Entidade Relacionamento é usado para modelar ou analisar banco de dados relacionais e resolver problemas de lógica ou implementação.
 
 Foi projetado um Diagrama entidade-relacionamento (DER) que documenta tipos de entidades, tipos de relacionamento, tipos de atributos e cardinalidade e restrições fundamentais. O DER é um modelo de dados conceitual projetado com o objetivo de entender dados em um determinado domínio.
 
@@ -27,9 +27,6 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 
 <figcaption>Diagrama Entidade Relacionamento. Autor: Flavio e Matheus</figcaption>
 
-
 ## Referências
 
-<ul align="justify">
-    <li>https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento/#section_4</li>
-</ul>
+> O que é um diagrama entidade relacionamento?: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento/#section_4>. Acesso em: 21 de fevereiro de 2022.
