@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------------- | ------------ |
 | 21/02/2022 | 1.0    | Criação do Documento | Jaime Juan   |
 | 21/02/2022 | 2.0    | Revisão do documento | Luis Marques |
-
+ 
 # NFR
 
 ## 1. Introdução
