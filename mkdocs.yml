@@ -52,6 +52,8 @@ nav:
                       - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
                       - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
                       - Diagrama de Sequencia: 'modelagem/diagramadesequencia.md'
+                      - Diagrama de Casos de Uso: 'modelagem/diagramacasosdeuso.md'
+                      - Diagrama de Pacotes: 'modelagem/diagramapacotes.md'
                 - Notação UML - Diagramas Dinâmicos:
                       - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
