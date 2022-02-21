@@ -51,7 +51,7 @@ nav:
                 - Notação UML - Diagramas Estáticos:
                       - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
                       - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
-                      - Diagrama de Sequencia: 'modelagem/diagramadesequencia.md'
+                      - Diagrama de Sequência: 'modelagem/diagramadesequencia.md'
                       - Diagrama de Casos de Uso: 'modelagem/diagramacasosdeuso.md'
                       - Diagrama de Pacotes: 'modelagem/diagramapacotes.md'  
                 - Notação UML - Diagramas Dinâmicos:
@@ -63,8 +63,8 @@ nav:
                       - Protótipo de Alta Fidelidade: 'modelagem/prototipodealtafidelidade.md'
                       - Identidade Visual: 'modelagem/identidadevisual.md'
                       - Backlog do Produto: 'modelagem/backlog.md'
-                      - NFR: 'modelagem/nfr.md'
                       - Diagrama Entidade Relacionamento (DER): 'modelagem/diagrama_entidade_relacionameto.md'
+                      - NFR: 'modelagem/nfr.md'
       #   - 3. Padrões de Projeto: ''
       #   - 4. Arquitetura de Software e Reutilização: ''
 
