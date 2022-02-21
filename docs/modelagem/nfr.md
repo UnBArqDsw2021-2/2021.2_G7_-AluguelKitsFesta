@@ -44,19 +44,13 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 ![NFR Manutenibilidade](NFR-Manutenibilidade.png)
 
-<center>[Figura 5: NFR Manutenilidade](NFR-Manutenibilidade.png)</center>
+<center>[Figura 5: NFR Manutenibilidade](NFR-Manutenibilidade.png)</center>
 
-### 3.5. NFR Confiabilidade
-
-![NFR Confiabilidade](NFR-Confiabilidade.png)
-
-<center>[Figura 6: Confiabilidade](NFR-Confiabilidade.png)</center>
-
-### 3.6. NFR Portabilidade
+### 3.5. NFR Portabilidade
 
 ![NFR Portabilidade](nfr-portabilidade.png)
 
-<center>[Figura 1: Legenda](nfr-portabilidade.png)</center>
+<center>[Figura 7: NFR Portabilidade](nfr-portabilidade.png)</center>
 
 ## Referências
 
