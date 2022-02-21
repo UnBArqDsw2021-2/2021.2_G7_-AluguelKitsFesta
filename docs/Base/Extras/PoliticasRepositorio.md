@@ -1,10 +1,12 @@
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor(es)    |
 | ---------- | ------ | -------------------- | ------------ |
 | 02/02/2022 | 1.0    | Criação do Documento | Luis Marques |
+| 21/02/2022 | 1.1    | Revisão | Luis Marques |
 
-# Política de Criação de Branch
+# Políticas do Repositório
+## Política de Criação de Branch
 
 -   O repositório do projeto terá uma branch principal e estável, a master.
 -   A partir da main será criada outra branch, a develop.
@@ -14,7 +16,9 @@
 
 ![branchpolicy.png](git-flow.png)
 
-## Nomeação da branch
+<center>[Figura 1: Git Flow](git-flow.png)</center>
+
+### Nomeação da branch
 
 Para dar um nome para sua branch, deve ser especificado o propósito da branch, nomeando com uma das seguintes opções:
 
@@ -25,12 +29,12 @@ Após essa especificação, deverá ser inserido uma barra para fazer a separaç
 
 -   O nome da branch deverá ser escrito seguindo o padrão Snake Case
 
-### Exemplos práticos
+#### Exemplos práticos
 
     feature/dashboard_relatorio
     bugfix/dashboard_relatorio
 
-# Politica de _commits_
+## Política de _commits_
 
 Os _commits_ devem seguir o seguinte padrão:
 
@@ -54,7 +58,7 @@ Cria um novo documento
     Creates a new class
     ```
 
-# Políticas de Criação de Issues
+## Políticas de Criação de Issues
 
 As issues devem seguir o seguinte padrão:
 
@@ -63,37 +67,33 @@ As issues devem seguir o seguinte padrão:
 -   Adicione os assignees, ou seja, as pessoas responsáveis pelo trabalho da issue.
 -   Adicione as labels que representam o trabalho a ser realizado na issues.
 
-# Política de Pull Request(PR)
+## Política de Pull Request(PR)
 
 -   Os PRs passaram por revisões pelos integrantes da equipe e, ao fim de cada Sprint, ou em casos excepcionais, serão aceitos pelos mesmos.
 
 -   Os PR deverão ser criados, após a conclusão da feature ou bugfix
 
-## Criação de um Pull Request
+### Criação de um Pull Request
 
 Para a criação de um pull request direcionado a branch master, deve-se seguir os seguintes passos:
 
-### 1)Adicione uma descrição
-
--   Utilize o template de issue destinado ao pull request, informando principalmente os campos de descrição e issue relacionada.
-
-### 2) Adicione os reviewers
+#### 2) Adicione os reviewers
 
 -   Assinale o reviewer, ou seja, o integrante da equipe responsável pela análise do pull request daquela sprint.
 
-### 3) Adicione os assignees
+#### 3) Adicione os assignees
 
 -   Assinale os colaboradores do pull request
 
-### 4) Adicione as devidas labels
+#### 4) Adicione as devidas labels
 
 -   Marque as labels relacionadas ao pull request. Geralmente será as mesmas assinaladas na issue referente.
 
-### Conflitos
+#### Conflitos
 
 -   Se um pull request causar algum tipo de conflito, deve ser resolvido primeiro pela equipe que desenvolveu o que está causando conflito, prezando pela integridade e organização do histórico de commits, e então deve ser refeito o pedido para avaliação do merge.
 
-## Política de Aprovação do Código
+### Política de Aprovação do Código
 
 -   Para a aprovação do código, este deve ser aprovado pelo integrante da equipe que não tenha participado diretamente da produção do código daquele pull request.
 -   O integrante responsável pela analise deverá verificar se todos os critérios de aceitação foram satisfeitos para aquela feature ou bugfix.
