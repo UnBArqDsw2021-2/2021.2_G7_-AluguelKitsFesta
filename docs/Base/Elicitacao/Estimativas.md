@@ -51,8 +51,8 @@ Como todos os membros da equipe irão participar de todo o projeto pelo tempo es
 
 ## Referências
 
-MENDES DA SILVA FILHO, Antonio. Estimativa de custo de software: roteiro e dicas para estimativas de projeto. Revista Espaço Acadêmico nº156, maio de 2014.
-
+>MENDES DA SILVA FILHO, Antonio. Estimativa de custo de software: roteiro e dicas para estimativas de projeto. Revista Espaço Acadêmico nº156, maio de 2014.
+>
 > [Vagas: Desenvolvedor Full Stack](https://www.vagas.com.br/cargo/desenvolvedor-full-stack), acessado dia 02 de fevereiro de 2022.
 >
 > [Amazon: Notebook Lenovo](https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-IdeaPad-82MFS00100/dp/B09LVLN4L4), acessado dia 02 de fevereiro de 2022.
