@@ -1,9 +1,10 @@
-## 1. Versionamento
+## 1. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor           |
 | ---------- | ------ | -------------------- | --------------- |
 | 03/02/2022 | 1.0    | Criação do Documento | João Victor Max |
 | 03/02/2022 | 2.0    | Introduzindo novo tópico | João Victor Max |
+| 21/02/2022 | 2.1    | Revisão | Jaime Juan |
 
 ## 2. Metodologia
 
@@ -17,3 +18,4 @@ Para a execução do Storyboard foi utilizada a ferramenta Storyboard That, uma 
 
 ![storyboard_PR](storyboard_PR.png)
 
+<center>[Figura 1: Storyboard](storyboard_PR.png)</center>
