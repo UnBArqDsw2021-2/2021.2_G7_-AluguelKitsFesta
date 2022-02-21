@@ -17,7 +17,7 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 -   Legenda:
 
-![Legenda](/modelagem/imagensmodel/legenda-nfrf.png)
+![Legenda](../modelagem/imagensmodel/legenda-nfrf.png)
 
 <center>[Figura 1: Legenda](legenda-nfrf.png)</center>
 
@@ -25,31 +25,31 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 ### 3.1. NFR Segurança
 
-![NFR Segurança](/modelagem/imagensmodel/nfr-seguranca.png)
+![NFR Segurança](../modelagem/imagensmodel/nfr-seguranca.png)
 
 <center>[Figura 2: NFR Segurança](nfr-seguranca.png)</center>
 
 ### 3.2. NFR Usabilidade
 
-![NFR Usabilidade](/modelagem/imagensmodel/nfr-usabilidade.png)
+![NFR Usabilidade](../modelagem/imagensmodel/nfr-usabilidade.png)
 
 <center>[Figura 3: NFR Usabilidade](nfr-usabilidade.png)</center>
 
 ### 3.3. NFR Performance
 
-![NFR Performance](/modelagem/imagensmodel/nfr-performance.png)
+![NFR Performance](../modelagem/imagensmodel/nfr-performance.png)
 
 <center>[Figura 4: NFR Perfomance](nfr-performance.png)</center>
 
 ### 3.4. NFR Manutenibilidade
 
-![NFR Manutenibilidade](/modelagem/imagensmodel/NFR-Manutenibilidade.png)
+![NFR Manutenibilidade](../modelagem/imagensmodel/NFR-Manutenibilidade.png)
 
 <center>[Figura 5: NFR Manutenibilidade](NFR-Manutenibilidade.png)</center>
 
 ### 3.5. NFR Portabilidade
 
-![NFR Portabilidade](/modelagem/imagensmodel/nfr-portabilidade.png)
+![NFR Portabilidade](../modelagem/imagensmodel/nfr-portabilidade.png)
 
 <center>[Figura 6: NFR Portabilidade](nfr-portabilidade.png)</center>
 

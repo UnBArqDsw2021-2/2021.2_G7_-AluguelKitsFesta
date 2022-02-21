@@ -1,11 +1,10 @@
-## Documento de Identidade Visual
-
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição                                                 | Autores      |
 | ---------- | ------ | --------------------------------------------------------- | ------------ |
 | 14/01/2022 | 1.0    | Criação do documento e adição de conteúdo                 | Victor |
 
+# Identidade Visual
 
 ## 1.Introdução
 
