@@ -1,4 +1,4 @@
-## Versionamento
+## Histórico de Versão
 
 |    Data    | Versão |           Descrição           |    Autor     |
 | :--------: | :----: | :---------------------------: | :----------: |
@@ -6,42 +6,47 @@
 | 03/02/2022 |  1.1   |    Adicionando Metodologia    | Victor Rayan |
 | 04/02/2022 |  1.2   |   Adicionando Ferramerntas    | Victor Rayan |
 | 09/02/2022 |  1.3   | Atualização/revisão dos dados | Luis Marques |
+| 21/02/2022 |  1.4   | Revisão | Jaime Juan |
 
+# Metodologias
 ## 1. Objetivo
 
 <p align="justify">O objetivo principal deste documento é definir as metodologias e abordagens que serão utilizadas durante o desenvolvimento do projeto. </p>
 
 ## 2. Introdução
 
-<p align="justify"> Pela dificuldade de se seguir as metodologias ágeis ao pé da letra, por obstáculos como tempo da disciplina de Arquitetura e Desenho de software e desencontro de horários por parte dos membros da equipe. O grupo optou utilizar uma metodologia modificada que atendesse as necessidades da equipe. </p>
+<p align="justify"> Pela dificuldade de se seguir as metodologias ágeis ao pé da letra, por obstáculos como tempo da disciplina de Arquitetura e Desenho de Software e desencontro de horários por parte dos membros da equipe. O grupo optou utilizar uma metodologia modificada que atendesse as necessidades da equipe. </p>
 
 #### SCRUM
 
 <p align="justify"> Scrum é uma metodologia ágil utilizada no desenvolvimento de Software baseado em processos iterativos e incrementais. Para isso, utiliza-se de  um  conjunto de práticas e papéis bem definidos que devem ser envolvidos durante o processo de desenvolvimento de software. 
  </p>
 
-<p align="justify"> O scrum é feito em Sprints, um pequeno ciclo iterativo, de 2 a 4 semanas, que fornece um resultado completo, uma variação do produto final. 
-A equipe scrum é formada Scrum master: a pessoa que lidera a equipe orientando-os a cumprir as regras e processos da metodologia. Product owner (PO), e a equipe com conhecimento técnico necessário que desenvolve o projeto em conjunto. </p>
+<p align="justify"> O Scrum é feito em Sprints, um pequeno ciclo iterativo, de 2 a 4 semanas, que fornece um resultado completo, uma variação do produto final. 
+A equipe Scrum é formada por:
+* Scrum master: a pessoa que lidera a equipe orientando-os a cumprir as regras e processos da metodologia.
+* Product owner (PO): a pessoa responsável pelo notório saber e atribuições do produto.
+* E a equipe com conhecimento técnico necessário que desenvolve o projeto em conjunto, desenvolvedores. </p>
 
 <p align="justify"> Dessa forma, para o projeto a equipe utilizará os seguintes elementos do Scrum:  </p>
 
 | Pipelines       | Descrição                                                       |
 | --------------- | --------------------------------------------------------------- |
-| Sprints         | Pequeno ciclo iterativo de 2 a 4 semanas                        |
+| Sprints         | Pequeno ciclo iterativo de 1 semana*                             |
 | Sprint Planning | Evento que abre um novo ciclo de execução                       |
 | Sprint Review   | Revisão da situação do projeto no final de cada Sprint          |
 | Product Backlog | Lista de atividades que precisam ser feitas durante uma Sprint. |
 | Planning poker  | Estratégia que busca uma estimativa via consenso da equipe.     |
 
-<p align="justify"> Além disso utilizaremos o tradicional modelo que forma a equipe scrum, com Scrum master, Product Owner e  equipe com conhecimento técnico necessário.  </p>
+<p align="justify"> Assim sendo, utilizaremos modelo tradicional com pequenas alterações, como a utilização de Sprints de 1 semana.  </p>
 
-#### Extreme Programming Xp
+#### Extreme Programming XP
 
-<p align="justify"> Xp também é uma metodologia ágil, que também visa entregas frequentes em pequenos espaços de tempo para melhorar a qualidade do software e a capacidade de resposta às mudanças nos requisitos do cliente. O extreme Programming possui como um dos principais elementos o Code review e o Pair Programming, técnica ágil onde dois programadores trabalham juntos, onde um escreve enquanto o outro observa e revisa. Sendo assim, do xp será adotado no projeto a técnica de Pair Programming. </p>
+<p align="justify"> XP também é uma metodologia ágil, que também visa entregas frequentes em pequenos espaços de tempo para melhorar a qualidade do software e a capacidade de resposta às mudanças nos requisitos do cliente. O Extreme Programming possui como um dos principais elementos o Code Review e o Pair Programming, técnica ágil onde dois programadores trabalham juntos, onde um escreve enquanto o outro observa e revisa. Sendo assim, do XP será adotado no projeto a utilização de tais técnicas. </p>
 
 #### Kanban
 
-<p align="justify"> Com origem na área automotiva, o kanban é uma metodologia  visual de gestão de trabalho. É bastante útil para se fazer uma boa gestão de projetos. Por isso, a equipe decidiu utilizar esse sistema, através da ferramenta Zen-hub. Nessa ferramenta utilizaremos de 5 colunas ou pipelines:</p>
+<p align="justify"> Com origem na área automotiva, o Kanban é uma metodologia  visual de gestão de trabalho. É bastante útil para se fazer uma boa gestão de projetos. Por isso, a equipe decidiu utilizar esse sistema, através da ferramenta Zen-Hub. Nessa ferramenta utilizaremos de 5 colunas ou pipelines:</p>
 
 | Elementos     | Descrição                             |
 | ------------- | ------------------------------------- |
@@ -149,6 +154,6 @@ A equipe scrum é formada Scrum master: a pessoa que lidera a equipe orientando-
 
 ## Referências Bibliográficas
 
-https://www.ieepeducacao.com.br/Scrum
+> O que é um Scrum Master e qual o seu papel?. Disponível em: https://www.ieepeducacao.com.br/Scrum. Acesso em: 2 de fevereiro de 2022.
 
-https://www.totvs.com/Kanbam
+> Kanban: Conceito, como funciona, vantagens e implementação. Disponível em: https://www.totvs.com/blog/negocios/kanban/. Acesso em: 2 de fevereiro de 2022.
