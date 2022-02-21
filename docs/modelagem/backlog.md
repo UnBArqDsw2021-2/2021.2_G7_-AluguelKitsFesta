@@ -1,16 +1,17 @@
-# Backlog Do Produto
-
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor(es)    |
 | ---------- | ------ | -------------------- | ------------ |
 | 19/02/2022 | 1.0    | Criação do Documento | Luis Marques |
+| 21/02/2022 | 1.1    | Criação do Documento | Jaime Juan |
+
+# Backlog Do Produto
 
 ## Product Backlog
 
-O product Backlog é uma lista com as funcionalidades desejadas de um produto de software, facilitando assim o desenvolvimento do produto.
+O Product Backlog (ou Backlog do Produto, em tradução livre) é uma lista com as funcionalidades desejadas de um produto de Software, facilitando assim o desenvolvimento do produto.
 
-## Epicos
+## Épicos
 
 | ID   | Descrição           |
 | ---- | ------------------- |
@@ -38,8 +39,6 @@ O product Backlog é uma lista com as funcionalidades desejadas de um produto de
 | US12       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Editar uma reserva                                                         | EP03  |
 | US13       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Utilizar um sistema responsivo e compativel com os navegadores mais comuns | EP02  |
 | US14       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Editar Itens da Plataforma                                                 | EP01  |
-
-##
 
 ## Referências
 
