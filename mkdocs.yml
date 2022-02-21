@@ -16,47 +16,51 @@ hide:
     - toc
 
 extra_css:
-  - assets/extra.css    
+    - assets/extra.css
 
 nav:
-  - Home: index.md
-  - Apresentações:
+    - Home: index.md
+    - Apresentações:
           - Apresentação 1: 'Apresentacoes/apresentacao1.md'
-  - 1. Base:
-      - 1.1 Projeto Não Orientado a Abordagem Específicas:
-          - Design Sprint: 'Base/Metodologia/design_sprint.md'   
-          - Pré-rastreabilidade:
-              - 5W2H: 'Base/Pre-rastreabilidade/5W2H.md'
-              - Causa e Efeito: 'Base/Pre-rastreabilidade/Causa&Efeito.md'
-              - Rich picture: 'Base/Pre-rastreabilidade/Richpicture.md'
-          - Elicitação:
-              - Brainstorming: 'Base/Elicitacao/Brainstorm.md'
-              - Estimativas: 'Base/Elicitacao/Estimativas.md'
-              - Léxico: 'Base/Elicitacao/Lexico.md'
-              - Storyboard: 'Base/Elicitacao/Storyboard.md'
-          - Priorização:
-              - MoSCoW: 'Base/Priorizacao/Moscow.md'
-              - First Thing First: 'Base/Priorizacao/FtF.md'
-          - Prototipação:
-              - Protótipo: 'Base/Prototipo/Prototipo.md'     
-      - 1.2 Processos/Metodologias/Abordagens:
-          - Metodologias: 'Base/Metodologia/metodologia.md'
-          - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
-      - 1.3 Extras:
-          - Documento de Visão: 'Base/Extras/documento_de_visao.md'
-          - Horários disponíveis: 'Base/horarios/Horario_disponibilidade.md'
-          - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
-  - 2. Modelagem: 
-      - 2.1 Projeto Orientado a Abordagens Tradicionais:
-            - Notação UML - Diagramas Estáticos:
-              - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'   
-              - Diagramas de Componentes: 'modelagem/diagramacomponentes.md' 
-            - Notação UML - Diagramas Dinâmicos:
-              - Diagrama de Atividade: 'Base/DiagramaAtividade/DiagramaAtividade.md'                                        
-            - Extras: 
-              - Identidade Visual: 'modelagem/identidadevisual.md' 
-    #   - 3. Padrões de Projeto: ''
-    #   - 4. Arquitetura de Software e Reutilização: ''
+    - 1. Base: 
+          - 1.1 Projeto Não Orientado a Abordagem Específicas:
+                - Design Sprint: 'Base/Metodologia/design_sprint.md'
+                - Pré-rastreabilidade:
+                      - 5W2H: 'Base/Pre-rastreabilidade/5W2H.md'
+                      - Causa e Efeito: 'Base/Pre-rastreabilidade/Causa&Efeito.md'
+                      - Rich Picture: 'Base/Pre-rastreabilidade/Richpicture.md'
+                - Elicitação:
+                      - Brainstorming: 'Base/Elicitacao/Brainstorm.md'
+                      - Estimativas: 'Base/Elicitacao/Estimativas.md'
+                      - Léxico: 'Base/Elicitacao/Lexico.md'
+                      - Storyboard: 'Base/Elicitacao/Storyboard.md'
+                - Priorização:
+                      - MoSCoW: 'Base/Priorizacao/Moscow.md'
+                      - First Things First: 'Base/Priorizacao/FtF.md'
+                - Prototipação:
+                      - Protótipo: 'Base/Prototipo/Prototipo.md'
+          - 1.2 Processos / Metodologias / Abordagens:
+                - Metodologias: 'Base/Metodologia/metodologia.md'
+                - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
+          - 1.3 Extras:
+                - Documento de Visão: 'Base/Extras/documento_de_visao.md'
+                - Disponibilidade de Horários: 'Base/horarios/Horario_disponibilidade.md'
+                - Politicas do Repositório: 'Base/Extras/PoliticasRepositorio.md'
+    - 2. Modelagem:
+          - 2.1 Projeto Orientado a Abordagens Tradicionais:
+                - Notação UML - Diagramas Estáticos:
+                      - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
+                      - Diagramas de Componentes: 'modelagem/diagramacomponentes.md'
+                - Notação UML - Diagramas Dinâmicos:
+                      - Diagrama de Comunicação: 'modelagem/DiagramaComunicacao/DiagramaComunicacao.md'
+                      - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
+                      - Diagrama de Estado: 'modelagem/diagramadeestados.md'
+                - Extras:
+                      - Identidade Visual: 'modelagem/identidadevisual.md'
+                      - Backlog do Produto: 'modelagem/backlog.md'
+                      - NFR: 'modelagem/nfr.md'
+      #   - 3. Padrões de Projeto: ''
+      #   - 4. Arquitetura de Software e Reutilização: ''
 
 features:
     - content.code.annotate

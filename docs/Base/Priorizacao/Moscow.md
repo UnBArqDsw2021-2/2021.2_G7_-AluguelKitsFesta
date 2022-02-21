@@ -1,18 +1,23 @@
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição                  | Autor(es)    |
 | ---------- | ------ | -------------------------- | ------------ |
 | 02/02/2022 | 1.0    | Criação do Documento       | Luis Marques |
 | 04/02/2022 | 2.0    | Atualização dos requisitos | Luis Marques |
+| 21/02/2022 | 2.1    | Revisão | Jaime Juan |
 
 # MoSCoW
 
 <div style="text-align: justify">
-Para uma priorização dos requisitos levantados utilizamos a técnica de MoSCoW para uma pre-priorização dos requisitos levantados pela equipe. Para aplicação da técnica separamos os requisitos em 4 partes(Must Have,Should Have,Could Have, Would have) </div>
+Para uma priorização dos requisitos levantados utilizamos a técnica de MoSCoW para uma pré-priorização dos requisitos levantados pela equipe. Para aplicação da técnica separamos os requisitos em 4 partes:</div>
+* Must Have
+* Should Have
+* Could Have
+* Would Have 
 
-## A tecnica
+## Metodologia
 
-MoSCoW e um frameworde de priorização. o seu nome na verdade e um Acronimo,onde as letras em maiusculo na verdade são as 4 categorias que devem ser divididas os requisitos (**M**ust Have,**S**hould Have,**C**ould Have, **W**ould have). Com os Requisitos levantados Foi realizado a divisão nestas 4 categorias.
+MoSCoW é um framework de priorização. O seu nome na verdade é um acrônimo, onde as letras em maiúsculo na verdade são as 4 categorias que devem ser divididos os requisitos (**M**ust Have,**S**hould Have,**C**ould Have, **W**ould Have). Com os requisitos levantados foi realizado a divisão nestas 4 categorias.
 
 ### Must Have
 

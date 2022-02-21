@@ -1,11 +1,10 @@
-# Causa e Efeito
+## Histórico de Versão
 
-## Histórico de versão
-
-| Data       | Versão | Descrição                         | Autor      |
+| Data       | Versão | Descrição                         | Autor(es)      |
 | ---------- | ------ | --------------------------------- | ---------- |
 | 03/02/2022 | 1.0    | Criação e elaboração do documento | Jaime Juan |
 
+# Causa e Efeito
 ## 1. Introdução
 
 Um diagrama de causa e efeito, também conhecido como diagrama de Ishikawa ou diagrama de espinha de peixe, é um artefato visual sem orientação metodológica específica. O criador dessa ferramenta, Kaoru Ishikawa, a desenvolveu com uma ideia básica: fazer as pessoas pensarem sobre as possíveis causas e motivos de um problema, e ela pode ser usada por qualquer pessoa, desde simples funcionários até gerentes de projetos.
