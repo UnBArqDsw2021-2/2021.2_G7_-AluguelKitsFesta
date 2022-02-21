@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------------- | ----------------------------------------------------- |
 | 20/02/2022 | 1.0    | Criação do documento | Marcos Gabriel Tavares, Luis Gustavo Ferreira Marques |
 
-# Diagrama de Sequencia
+# Diagrama de Sequência
 
 ## Introdução
 
