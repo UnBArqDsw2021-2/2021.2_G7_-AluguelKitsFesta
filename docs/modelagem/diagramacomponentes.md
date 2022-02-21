@@ -13,16 +13,16 @@
 
 <p align="justify">O diagrama de componentes mostra o relacionamento entre diferentes componentes de um software. O diagrama ajuda a fornecer uma visualização de alto nível da estrutura física do sistema, além de enfatizar o comportamento de serviços quanto a interface. </p>
 
-<p align="justify"> Os diagramas de componentes vão permitir que a equipe identifique os diferentes componentes para que todo o sistema cumpra o seu objetivo. Contudo, o diagrama irá nos auxiliar na modularização do sistema permitirá a reutilização dos mesmos. Além disso, será possível :
+<p align="justify"> Os diagramas de componentes vão permitir que a equipe identifique os diferentes componentes para que todo o sistema cumpra o seu objetivo. Contudo, o diagrama irá nos auxiliar na modularização do sistema permitirá a reutilização dos mesmos. Além disso, será possível:
 </p>
 
 <ul align="justify">
     <li>Imaginar a estrutura física do sistema.</li>
     <li>Prestar atenção aos componentes do sistema e como eles se relacionam.</li> 
-    <li>Enfatiza o comportamento do serviço quanto à interface..</li> 
+    <li>Enfatizar o comportamento do serviço quanto à interface.</li> 
 </ul>
 
-<p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta Draw.io </p>
+<p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta Draw.io. </p>
 
 [![Diagrama](../modelagem/imagensdiagramas/componentes.png)](../modelagem/imagensdiagramas/componentes.png)
 
