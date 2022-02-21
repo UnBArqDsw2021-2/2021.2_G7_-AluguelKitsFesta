@@ -1,4 +1,4 @@
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição              | Autor(es)    |
 | ---------- | ------ | ---------------------- | ------------ |
@@ -6,11 +6,11 @@
 | 04/02/2022 | 2.0    | Atualização dos quadros | Luis Marques |
 | 04/02/2022 | 2.1    | Revisão | Jaime Juan |
 
-# Brainstorm
+# Brainstorming
 
 ## 1. Objetivo
 
-Foi utilizado o Brainstorm como uma das etapas do Design Sprint para um maior alinhamento das ideias do grupo para a aplicação que seria desenvolvida. Alinhando assim as expectativas sobre o projeto e o produto, facilitando assim a determinação de requisitos do projeto.
+Foi utilizado o Brainstorming como uma das etapas do Design Sprint para um maior alinhamento das ideias do grupo para a aplicação que seria desenvolvida. Alinhando assim as expectativas sobre o projeto e o produto, facilitando assim a determinação de requisitos do projeto.
 
 ## 2. Whiteboard
 

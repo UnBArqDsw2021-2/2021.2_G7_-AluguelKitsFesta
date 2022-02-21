@@ -1,6 +1,6 @@
 # Causa e Efeito
 
-## Histórico de versão
+## Histórico de Versão
 
 | Data       | Versão | Descrição                         | Autor(es)      |
 | ---------- | ------ | --------------------------------- | ---------- |
