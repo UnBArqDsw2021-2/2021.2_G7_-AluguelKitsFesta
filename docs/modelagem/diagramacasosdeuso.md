@@ -1,15 +1,16 @@
 ## Histórico de Versão
 
-| Data       | Versão | Descrição                         | Autor(es)    |
-| ---------- | ------ | --------------------------------- | ------------ |
-| 21/02/2022 | 1.0    | Criação do Documento              | João Victor Max |
-| 21/02/2022 | 1.1   | Revisão                           | Jaime Juan   |
+| Data       | Versão | Descrição            | Autor(es)       |
+| ---------- | ------ | -------------------- | --------------- |
+| 21/02/2022 | 1.0    | Criação do Documento | João Victor Max |
+| 21/02/2022 | 1.1    | Revisão              | Jaime Juan      |
 
 # Diagrama de Casos de Uso
- 
+
 ## Introdução
 
 <p align="justify">O diagrama de casos de uso descreve a funcionalidade proposta para um novo sistema que será projetado. Esse diagrama documenta o que o sistema faz do ponto de vista do usuário.
+</p>
 
 ## Diagramas
 
