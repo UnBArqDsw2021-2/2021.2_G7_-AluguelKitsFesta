@@ -59,6 +59,7 @@ nav:
                       - Identidade Visual: 'modelagem/identidadevisual.md'
                       - Backlog do Produto: 'modelagem/backlog.md'
                       - NFR: 'modelagem/nfr.md'
+                      - Diagrama Entidade Relacionamento (DER): 'modelagem/diagrama_entidade_relacionameto.md'
       #   - 3. Padrões de Projeto: ''
       #   - 4. Arquitetura de Software e Reutilização: ''
 
