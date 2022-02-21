@@ -8,7 +8,7 @@
 
 ## 1. Introdução
 
-A estrutura NFR foi proposta em 1992 e desenvolvida pelo Dr. Lawrence Chung em 1999. Em suas palavras, NFR é "uma abordagem orientada a processos em que os requisitos não funcionais são explicitamente expressos como metas a serem alcançadas" [CHUNG, 1995]. ]. Use o modelo GIS (Softgoal Interdependency Graph), que descreve as dependências entre softgoals e como elas são decompostas. Para este projeto, o diagrama é útil para a especificação de requisitos não funcionais que foram elicitados e requisitos semelhantes. Ao entrar no nível de operacionalização, as atividades reais a serem/estão sendo realizadas podem ser observadas para atender adequadamente aos requisitos especificados. Dois SIGs são estudados, usabilidade e eficiência.
+A estrutura NFR foi proposta em 1992 e desenvolvida pelo Dr. Lawrence Chung em 1999. Em suas palavras, NFR é "uma abordagem orientada a processos em que os requisitos não funcionais são explicitamente expressos como metas a serem alcançadas" [CHUNG, 1995]. Utiliza-se o modelo GIS (Softgoal Interdependency Graph), que descreve as dependências entre softgoals e como elas são decompostas. 
 
 ## 2. Metodologia
 
@@ -19,6 +19,44 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 ![Legenda](legenda-nfrf.png)
 
 <center>[Figura 1: Legenda](legenda-nfrf.png)</center>
+
+## 3. NFRs 
+
+### 3.1. NFR Segurança
+
+![NFR Segurança](nfr-seguranca.png)
+
+<center>[Figura 2: NFR Segurança](nfr-seguranca.png)</center>
+
+### 3.2. NFR Usabilidade
+
+![NFR Usabilidade](nfr-usabilidade.png)
+
+<center>[Figura 3: NFR Usabilidade](nfr-usabilidade.png)</center>
+
+### 3.3. NFR Performance
+
+![NFR Performance](nfr-performance.png)
+
+<center>[Figura 4: NFR Perfomance](nfr-performance.png)</center>
+
+### 3.4. NFR Manutenibilidade
+
+![NFR Manutenibilidade](NFR-Manutenibilidade.png)
+
+<center>[Figura 5: NFR Manutenilidade](NFR-Manutenibilidade.png)</center>
+
+### 3.5. NFR Confiabilidade
+
+![NFR Confiabilidade](NFR-Confiabilidade.png)
+
+<center>[Figura 6: Confiabilidade](NFR-Confiabilidade.png)</center>
+
+### 3.6. NFR Portabilidade
+
+![NFR Portabilidade](nfr-portabilidade.png)
+
+<center>[Figura 1: Legenda](nfr-portabilidade.png)</center>
 
 ## Referências
 
