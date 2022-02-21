@@ -52,7 +52,7 @@ nav:
                       - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
                       - Diagramas de Componentes: 'modelagem/diagramacomponentes.md'
                 - Notação UML - Diagramas Dinâmicos:
-                      - Diagrama de Comunicação: 'modelagem/DiagramaComunicacao/DiagramaComunicacao.md'
+                      - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
                       - Diagrama de Estado: 'modelagem/diagramadeestados.md'
                 - Extras:
