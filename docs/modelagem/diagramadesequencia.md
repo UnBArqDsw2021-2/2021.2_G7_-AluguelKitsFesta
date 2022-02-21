@@ -17,19 +17,19 @@
 ## Diagramas de sequência
 
 ### Criar codigo de reserva
-![interactionCreateOrderCode](/imagensdiagramas/sequencediagram1)
+![interactionCreateOrderCode](imagensdiagramas/sequencediagram1.png)
 
 ### Criar Produto
-![interactionCreateProduct](/imagensdiagramas/sequencediagram2)
+![interactionCreateProduct](imagensdiagramas/sequencediagram2.png)
 
 ### Deletar Produto
-![interactionDeleteProduct](/imagensdiagramas/sequencediagram3)
+![interactionDeleteProduct](imagensdiagramas/sequencediagram3.png)
 
 ### Atualizar Produto
-![interactionUpdateProduct](/imagensdiagramas/sequencediagram4)
+![interactionUpdateProduct](imagensdiagramas/sequencediagram4.png)
 
 ### Atualizar Reserva
-![interactionDeleteProduct](/imagensdiagramas/sequencediagram5)
+![interactionDeleteProduct](imagensdiagramas/sequencediagram5.png)
 
 ## Referências
 
