@@ -4,7 +4,7 @@
 | ---------- | ------ | --------------------------------------------------------- | ------------ |
 | 18/02/2022 | 1.0    | Criação do documento                                      | Victor Rayan |
 | 19/02/2022 | 1.1    | Adição do diagrama e conteúdo                             | Victor Rayan |
-| 21/02/2022 | 1.2    | Adição do diagrama e conteúdo                             | Jaime Juan |
+| 21/02/2022 | 1.2    | Revisão                            | Jaime Juan |
 
 
 # Diagrama de Componentes
