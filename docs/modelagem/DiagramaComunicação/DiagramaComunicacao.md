@@ -14,10 +14,13 @@ Um diagrama de comunicação, também chamado de diagrama de colaboração, é u
 A seguir são apresentados os diagramas de comunicação elaborados com base na estrutura do projeto proposto, construídos utilizando a ferramenta on-line Diagrams.net.
 
 [![Diagrama Usuário](diagrama_comunicacao_1.png)](diagrama_comunicacao_1.png)
-<center>Figura 1: Diagrama de comunicação de cliente.</center>
+
+<center>[Figura 1: Diagrama de comunicação de cliente](diagrama_comunicacao_1.png)</center>
+
 
 [![Diagrama Admin](diagrama_comunicacao_2.png)](diagrama_comunicacao_2.png)
-<center>Figura 2: Diagrama de comunicação de administrador.</center>
+
+<center>[Figura 2: Diagrama de comunicação de administrador](diagrama_comunicacao_2.png)</center>
 
 ## Referências
 > "UML Communication Diagrams Overview." Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 20 de fevereiro de 2022.
