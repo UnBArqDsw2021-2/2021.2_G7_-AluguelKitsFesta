@@ -8,9 +8,9 @@
 
 ## Introdução
 
-<p align="justify">Os diagramas de sequência enfatizam a ordenação temporal das mensagens. As interações são mostradas na ordem que elas ocorrem, ou seja, este tipo de diagrama mostra uma sequencia de eventos. </p>
+<p align="justify">Os diagramas de sequência enfatizam a ordenação temporal das mensagens. As interações são mostradas na ordem que elas ocorrem, ou seja, este tipo de diagrama mostra uma sequência de eventos. </p>
 
-Para a construção dos diagramas de sequencias foi utilizada a ferramenta [SequenceDiagram](https://sequencediagram.org/)
+Para a construção dos diagramas de sequências foi utilizada a ferramenta [SequenceDiagram](https://sequencediagram.org/).
 
 ## Diagramas de sequência
 
