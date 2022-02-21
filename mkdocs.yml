@@ -51,8 +51,9 @@ nav:
                 - Notação UML - Diagramas Estáticos:
                       - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
                       - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
-                      - Diagrama de Sequencia: 'modelagem/diagramadesequencia.md'
+                      
                 - Notação UML - Diagramas Dinâmicos:
+                      - Diagrama de Sequência: 'modelagem/diagramadesequencia.md'
                       - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
                       - Diagrama de Estado: 'modelagem/diagramadeestados.md'
