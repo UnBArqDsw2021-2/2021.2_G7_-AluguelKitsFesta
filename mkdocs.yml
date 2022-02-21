@@ -39,7 +39,7 @@ nav:
                       - First Things First: 'Base/Priorizacao/FtF.md'
                 - Prototipação:
                       - Protótipo: 'Base/Prototipo/Prototipo.md'
-          - 1.2 Processos/Metodologias/Abordagens:
+          - 1.2 Processos / Metodologias / Abordagens:
                 - Metodologias: 'Base/Metodologia/metodologia.md'
                 - Diagramas BPMN: 'Base/Metodologia/diagramas_BPMN.md'
           - 1.3 Extras:
