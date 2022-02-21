@@ -7,14 +7,13 @@
 | 01/02/2022     |  1.0  | Criação do documento  | Caio Araújo
 | 01/02/2022    |  1.1    | Objetivos e Metodologia     |  Caio Araújo
 | 03/02/2022    |  1.2    | Revisão  |  Caio Araújo
-
-
+| 03/02/2022    |  1.2    | Revisão  |  Jaime Damasceno
 
 ## Introdução
 
-Desenvolvido pelo Google Ventures, o Design Sprint é um processo de duração de 5 dias para responder questões criticas do negócio por meio dos artefatos base de um produto. Ao final da atividade, a equipe espera entender o problema de fato e também poder validar se a ideia construída ao longo do design sprint é uma solução viável para assim, ser possível prosseguir com a implementação do produto com maior confiabilidade.
+Desenvolvido pelo Google Ventures, o Design Sprint é um processo de duração de 5 dias para responder questões críticas do negócio por meio dos artefatos base de um produto. Ao final da atividade, a equipe espera entender o problema de fato e também poder validar se a ideia construída ao longo do Design Sprint é uma solução viável para assim, ser possível prosseguir com a implementação do produto com maior confiabilidade.
 
-### Objetivos do processo
+### Objetivos do Processo
 
 * Impulsionar o processo de design do produto, dando uma direção inicial mais completa para a equipe de desenvolvimento.
 
@@ -23,7 +22,8 @@ Desenvolvido pelo Google Ventures, o Design Sprint é um processo de duração d
 * Melhorar o entendimento a cerca do escopo e a forma como a equipe de desenvolvimento vai trabalhar, tendo como prioridade, iterações e tomada de decisões em grupo. 
 
 ### Aplicação do Design Sprint - Adaptado
-O Processo de Design Sprint em uso, será composto pelas 4 fases inicias do *Google Ventures*, que serão detalhadas a seguir. O uso da última etapa nao foi visto como necessário, pois, o foco desta etapa seria a validação do protótipo com o cliente final.
+O Processo de Design Sprint em uso, será composto pelas 4 fases inicias do *Google Ventures*, que serão detalhadas a seguir. O uso da última etapa nao foi visto como necessário, pois o foco desta etapa seria a validação do protótipo com o cliente final.
+
 Etapas:
 1. Targeting (Alvo Inicial)
 2. Sketch (Esboço)
