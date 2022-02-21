@@ -1,9 +1,10 @@
 ## 1. Versionamento
 
-| Data       | Versão | Descrição            | Autor           |
+| Data       | Versão | Descrição            | Autor(es)           |
 | ---------- | ------ | -------------------- | --------------- |
 | 03/02/2022 | 1.0    | Criação do Documento | João Victor Max |
 | 03/02/2022 | 2.0    | Introduzindo novo tópico | João Victor Max |
+| 03/02/2022 | 2.0    | Introduzindo novo tópico | Jaime Juan |
 
 ## 2. Metodologia
 
@@ -17,4 +18,4 @@ Para a execução do Rich Picture foi utilizada a ferramenta draw.io, uma aplica
 
 ![richpicture_PR](richpicture_PR.png)
 
-
+<center>[Figura 1: Rich picture](richpicture_PR.png)</center>

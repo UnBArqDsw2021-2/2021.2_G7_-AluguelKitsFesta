@@ -2,12 +2,12 @@
 ---
 
 ## Versionamento
-| Data | Versão | Descrição | Autores |
+| Data | Versão | Descrição | Autor(es) |
 | -------- | -------- | -------- | ---|
 | 01/02/2022     |  1.0  | Criação do documento  | Caio Araújo
 | 01/02/2022    |  1.1    | Objetivos e Metodologia     |  Caio Araújo
 | 03/02/2022    |  1.2    | Revisão  |  Caio Araújo
-| 03/02/2022    |  1.2    | Revisão  |  Jaime Damasceno
+| 03/02/2022    |  1.2    | Revisão  |  Jaime Juan
 
 ## Introdução
 

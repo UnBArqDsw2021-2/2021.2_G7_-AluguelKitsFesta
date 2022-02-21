@@ -2,7 +2,7 @@
 
 ## Histórico de versão
 
-| Data       | Versão | Descrição                         | Autor      |
+| Data       | Versão | Descrição                         | Autor(es)      |
 | ---------- | ------ | --------------------------------- | ---------- |
 | 03/02/2022 | 1.0    | Criação e elaboração do documento | Jaime Juan |
 
