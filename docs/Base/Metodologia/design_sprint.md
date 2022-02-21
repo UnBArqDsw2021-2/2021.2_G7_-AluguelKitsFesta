@@ -1,6 +1,3 @@
-# Design Sprint
----
-
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor(es) |
 | -------- | -------- | -------- | ---|
@@ -8,6 +5,8 @@
 | 01/02/2022    |  1.1    | Objetivos e Metodologia     |  Caio Araújo
 | 03/02/2022    |  1.2    | Revisão  |  Caio Araújo
 | 21/02/2022    |  1.3    | Revisão  |  Jaime Juan
+
+# Design Sprint
 
 ## Introdução
 

@@ -6,6 +6,8 @@
 | 03/02/2022 | 2.0    | Introduzindo novo tópico | João Victor Max |
 | 21/02/2022 | 2.1    | Revisão | Jaime Juan |
 
+# Rich Picture
+
 ## 1. Metodologia
 
 Rich Picture é uma ferramenta composta por imagens, textos, símbolos e ícones, que servem para expressar ideias. Resumidamente, é o esboço que vai definir o ponto de partida da solução que será proposta, definindo suas entidades e relacionamentos, diante do problema apresentado.

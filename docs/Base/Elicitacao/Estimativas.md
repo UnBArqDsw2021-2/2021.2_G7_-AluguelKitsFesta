@@ -7,6 +7,7 @@
 | 07/02/2022 | 2.1    | Correção do numero de membros | Marcos Gabriel Tavares |
 | 21/02/2022 | 2.2    | Correção do numero de membros | Jaime Juan |
 
+# Estimativas
 ## 1. Introdução
 
 As estimativas foram realizadas após o Brainstorming dos requisitos iniciais deste projeto. Com o entendimento inicial adquirido nós realizamos uma estimativa do esforço, conhecimento e custo para a realização deste projeto.

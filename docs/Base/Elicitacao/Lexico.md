@@ -6,6 +6,7 @@
 | 04/02/2022 | 2.0    | Correção documento e correção do nome | Luis Marques & Marcos Gabriel Tavares |
 | 21/02/2022 | 2.1    | Revisão | Jaime Juan |
 
+# Léxico
 ## 1. Introdução
 
 Segundo Pedro Leite (1994), Léxico consiste em uma técnica de descrição de símbolos de uma linguagem através da notação LAL (Léxico Ampliado da Linguagem). O objetivo do seu uso é a expressão do vocabulário do universo cognitivo de um problema sem que o problema seja levado em conta, mas sim o seu contexto. Desta forma, é possível a identificação de palavras, frases e termos que sejam peculiares ao domínio de uma aplicação .
