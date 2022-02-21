@@ -12,7 +12,7 @@
 
 ## Introdução
 
-<p align="justify">Primeiramente, um diagrama de classe como um diagrama estrutural estático. Seu desenvolvimento durante a criação de um produto é de extrema importância pois mostra a estruturação de um software baseada em classes, interfaces, restrições e relacionamentos e outros recursos.</p> 
+<p align="justify">Primeiramente, um diagrama de classe como um diagrama estrutural estático. Seu desenvolvimento durante a criação de um produto é de extrema importância pois mostra a estruturação de um software baseada em classes, interfaces, restrições e relacionamentos e outros recursos.</p>
 <p align="justify">O diagrama de classe fornece uma visão geral dos esquemas de um software. Não somente isso, mas também deixa claro as reais necessidades da aplicação de uma maneira intuitiva, não importando a complexidade do produto a ser implementado.</p>
 
 ## Diagramas
