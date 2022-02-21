@@ -23,7 +23,7 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 
 <p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta BRMODELO </p>
 
-[![Diagrama](../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png)](../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png))
+[![Diagrama](../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png)](../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png)
 
 <figcaption>Diagrama Entidade Relacionamento. Autor: Flavio e Matheus</figcaption>
 
