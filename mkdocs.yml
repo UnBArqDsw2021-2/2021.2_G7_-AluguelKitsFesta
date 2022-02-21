@@ -56,6 +56,7 @@ nav:
                       - Diagrama de Estado: 'modelagem/diagramadeestados.md'
                 - Extras:
                       - Identidade Visual: 'modelagem/identidadevisual.md'
+                      - Backlog do Produto: 'modelagem/backlog.md'
       #   - 3. Padrões de Projeto: ''
       #   - 4. Arquitetura de Software e Reutilização: ''
 
