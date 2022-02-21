@@ -1,11 +1,10 @@
-# Diagrama de Comunicação
-
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição                       | Autor(es)        |
 | ---------- | ------ | ------------------------------- | ---------------- |
 | 20/02/2022 | 1.0    | Criação do Documento e Diagramas| Matheus Clemente |
 
+# Diagrama de Comunicação
 ## 1. Introdução
 
 Um diagrama de comunicação, também chamado de diagrama de colaboração, é um tipo de diagrama UML de interação que demostra interações entre objetos e/ou partes, utilizando mensagens sequenciadas.

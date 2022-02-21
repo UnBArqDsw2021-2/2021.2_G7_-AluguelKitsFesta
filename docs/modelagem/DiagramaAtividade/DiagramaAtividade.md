@@ -1,10 +1,10 @@
-# Diagrama de Atividade
-
-## Versionamento
+## Histórico de Versão
 
 | Data       | Versão | Descrição                       | Autor(es)        |
 | ---------- | ------ | ------------------------------- | ---------------- |
 | 20/02/2022 | 1.0    | Criação do Documento e Diagramas| Matheus Clemente |
+
+# Diagrama de Atividade
 
 ## 1. Introdução
 
