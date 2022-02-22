@@ -41,7 +41,11 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entr
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+[1.1 Diagramas Estáticos](https://youtu.be/pXTeUW1cIAY)
+
+[1.2 Diagramas Dinâmicos](https://youtu.be/28nr1x4xEpI)
+
+[1.3 Iniciativa Extras](https://youtu.be/YmTdhNQjAko)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
