@@ -49,7 +49,7 @@ nav:
     - 2. Modelagem:
           - 2.1 Projeto Orientado a Abordagens Tradicionais:
                 - Notação UML - Diagramas Estáticos:
-                      - Diagrama de Classes: 'modelagem/diagrama_de_classes.md'
+                      - Diagrama de Classe: 'modelagem/diagrama_de_classes.md'
                       - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
                       - Diagrama de Casos de Uso: 'modelagem/diagramacasosdeuso.md'
                       - Diagrama de Pacotes: 'modelagem/diagramapacotes.md'  

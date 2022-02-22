@@ -8,7 +8,7 @@
 | 18/02/2022 | 1.3    | Adição da nova versão do diagrama | Caio Gabriel |
 | 21/02/2022 | 1.4    | Revisão                           | Jaime Juan   |
 
-# Diagrama de Classe
+# Diagrama de Classes
 
 ## Introdução
 
