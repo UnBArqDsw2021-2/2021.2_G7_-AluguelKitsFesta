@@ -37,7 +37,11 @@ A PartyRent é uma pequena empresa voltada a realização de aluguel para artigo
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+![image](https://user-images.githubusercontent.com/49578168/155055221-7ad0eef1-6f19-4bfe-944d-e37e81b74f4d.png)
+
+![image](https://user-images.githubusercontent.com/49578168/155055122-31e45c4b-9434-4182-9335-3556b7746b37.png)
+
+![image](https://user-images.githubusercontent.com/49578168/155055180-a70b4cc0-92d5-425d-ae76-b267f342c13d.png)
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
