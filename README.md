@@ -49,6 +49,8 @@ A PartyRent é uma pequena empresa voltada a realização de aluguel para artigo
 
 [1.2 Diagramas Dinâmicos](https://youtu.be/28nr1x4xEpI)
 
+Sem vídeo dedicado à Modelagem Ágil (OBS: Professora)
+
 [1.3 Iniciativa Extras](https://youtu.be/YmTdhNQjAko)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
