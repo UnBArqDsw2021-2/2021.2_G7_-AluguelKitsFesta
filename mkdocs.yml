@@ -65,16 +65,15 @@ nav:
                       - Backlog do Produto: 'modelagem/backlog.md'
                       - Diagrama Entidade Relacionamento (DER): 'modelagem/diagrama_entidade_relacionameto.md'
                       - NFR: 'modelagem/nfr.md'
-      - 3. Padrões de Projeto:
-            - 3.1 Padrões de Projeto:
-                  - GRASP(s): 'padrao/grasp.md'
-                  - GoF(s):
-                        - Criacionais: 'padrao/.md'
-                        - Estruturais: 'padrao/.md'
-                        - Comportamentais: 'padrao/.md'
-                  - Iniciativas Extras:
-                        - Padrões Emergentes: 'padrao/.md'
-                        - Correções: 'padrao/.md'
+      #- 3. Padrões de Projeto:
+      #      - GRASP(s): 'padrao/grasp.md'
+      #      - GoF(s):
+      #            - Criacionais: 'padrao/.md'
+      #            - Estruturais: 'padrao/.md'
+      #            - Comportamentais: 'padrao/.md'
+      #      - Iniciativas Extras:
+      #            - Padrões Emergentes: 'padrao/.md'
+      #            - Correções: 'padrao/.md'
       #   - 4. Arquitetura de Software e Reutilização: ''
 
 features:
