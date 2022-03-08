@@ -66,7 +66,7 @@ nav:
                       - Diagrama Entidade Relacionamento (DER): 'modelagem/diagrama_entidade_relacionameto.md'
                       - NFR: 'modelagem/nfr.md'
       - 3. Padrões de Projeto:
-            - GRASP(s): 'padrao/.md'
+            - GRASP(s): 'padrao/grasp.md'
             - GoF(s):
                   - Criacionais: 'padrao/.md'
                   - Estruturais: 'padrao/.md'
