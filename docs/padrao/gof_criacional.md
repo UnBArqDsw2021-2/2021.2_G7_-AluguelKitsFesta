@@ -3,7 +3,8 @@
 | Data       | Versão | Descrição                  | Autor(es)        |
 | ---------- | ------ | -------------------------- | ---------------- |
 | 07/03/2022 | 1.0    | Criação do documento base  | Matheus Clemente |
-| 08/03/2022 | 1.1    | criação da Introdução      | Caio Gabriel |
+| 08/03/2022 | 1.1    | criação da Introdução      | Caio Gabriel     |
+| 08/03/2022 | 1.2    | Factory e Prototype        | Caio Gabriel     |
 
 
 # GOFs Criacionais
@@ -24,6 +25,13 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 
 ## Prototype
+
+O padrão de projeto *Prototype* tem como premissa criar um objeto, no qual, irá ser a cópia de um objeto existente. Isso permite com que a 
+implementação utilize a cópia de um objeto utilizável, com variáveis já pré-definidas com um valor significativo atribuido para cada replicação em 
+questão, em vez de depender de algum estado inicial definido no construtor do objeto. De acordo com Sean Bradley, na interface de protótipo,
+é necessário criar um método clone estático que deve ser implementado por todas as classes que usam a interface. Como o método cópia vai ser
+implementado na classe concreta, fica inteiramente a critério do desenvolvedor.
+
 
 ### Modelagem
 
