@@ -6,11 +6,9 @@
 | 08/03/2022 | 1.1    | criação da Introdução      | Caio Gabriel |
 
 
-# GoF Criacional
+# GOFs Criacionais
 
 ## Factory Method
-
-### Introdução
 
 Quando estamos realizando a implementação de um código, normalmente os objetos são instâciados diretamente pelas classes implementadas. 
 Apesar disso parecer mais usual, algumas implementações necessitam de um nível maior de abstração de acordo com o escopo do produto. 
@@ -18,3 +16,15 @@ Desse modo, o padrão *Factory* pode ajudar quanto a este tipo de abstração, p
 pode ser criado fora da classe ou método. Assim, seguindo o padrão, é melhor definir uma interface para a criação de objetos e deixar para
 a subclasse em questão, a decisão de qual classe instanciar. Seguindo somente a teoria, isso pode parecer complexo, mas após a implementação
 deste tipo de padrão, essa separação torna o código escrito mais fácil de se entender e mais documentável. 
+
+### Modelagem
+
+### Aplicação
+
+
+
+## Prototype
+
+### Modelagem
+
+### Aplicação
