@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                  | Autor(es)        |
 | ---------- | ------ | -------------------------- | ---------------- |
 | 07/03/2022 | 1.0    | Criação do documento base  | Matheus Clemente |
-| 08/03/2022 | 1.1    | criação da Introdução      | Caio Gabriel     |
+| 08/03/2022 | 1.1    | Criação da Introdução      | Caio Gabriel     |
 | 08/03/2022 | 1.2    | Factory e Prototype        | Caio Gabriel     |
 
 
@@ -20,6 +20,8 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 ### Modelagem
 
+![Sean Bradley-Factory UML Diagram](../padrao/imagens/Design_Patterns_Factory.png)
+
 ### Aplicação
 
 
@@ -34,5 +36,7 @@ implementado na classe concreta, fica inteiramente a critério do desenvolvedor.
 
 
 ### Modelagem
+
+![Sean Bradley-Prototype UML Diagram](../padrao//imagens/Design_Patterns_Prototype.png)
 
 ### Aplicação
