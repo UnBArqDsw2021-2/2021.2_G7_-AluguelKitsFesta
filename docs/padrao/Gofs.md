@@ -14,3 +14,10 @@ O Adapter é um padrão bem simples de compreender,sendo sua principal funcional
 # É possível adaptar a nossa forma de organização de projeto com este padrão?
 Sim no futuro existe grande possibilidade de termos que utilizar esse padrão,pois os softwares sempre estão em constate evolução.Isso se deve a necessidade de sempre ajustar e melhorar o produto.Portanto é bem provável que em realeses para melhorias seja necessário utilizar o adapter.
 
+# Composite
+É possível usar o padrão composite quando o modelo central da aplicação pode ser representado como uma árvore.Se trantando de orientação a objetos,isso significa aplicarmos o polimorfismo para chamar métodos de um objeto na árvore sem nos preocuparmos se é uma folha(objetos individuais) ou um composto(grupos de objetos).Resumindo a intenção do padrão é comor objetos em estruturas de árvore para representar hierarquia partes-todo.
+Podemos aplicar o Composite quando queremos trabalhar uma hierarquia de objetos que representem uma mesma super-classe,de modo a tornar sua operação padronizada,podemos exemplficar através da elaboração de um sistema de arquivos que são dividios em arquivos concretos(vídeos,textos,etc.) e arquivos pastas que armazenam outros arquivos.O problema é como fazer um desing que atenda estes requisitos?Por meio do padrão Composite,todos terão uma forma comum de serem reconhecidos e trabalhados ,através de uma super-classe.
+
+
+
+
