@@ -42,6 +42,10 @@ implementado na classe concreta, fica inteiramente a critério do desenvolvedor.
 
 ### Aplicação
 
+![Aplicação Prototype](../padrao//imagens/aplicacao_prototype.png)
+
+O padrão Prototype pode ser utilizado em nosso projeto no instanciamento de produtos, permitindo que apenas um objeto seja instanciado e, a partir dele, outros sejam clonados e modificados para suprir as necessidades do programa.
+
 
 ### Referências
 > BRADLEY, Sean. Design Patterns In Python: Common GoF (Gang of Four) Design Patterns Implemented In Python. 2019-2021
