@@ -5,6 +5,7 @@
 | 07/03/2022 | 1.0    | Criação do documento base  | Matheus Clemente |
 | 08/03/2022 | 1.1    | Criação da Introdução      | Caio Gabriel     |
 | 08/03/2022 | 1.2    | Factory e Prototype        | Caio Gabriel     |
+| 10/03/2022 | 1.3    | Aplicação Prototype e referências | Matheus Clemente |
 
 
 # GOFs Criacionais
@@ -40,3 +41,11 @@ implementado na classe concreta, fica inteiramente a critério do desenvolvedor.
 ![Sean Bradley-Prototype UML Diagram](../padrao//imagens/Design_Patterns_Prototype.png)
 
 ### Aplicação
+
+![Aplicação Prototype](../padrao//imagens/aplicacao_prototype.png)
+
+O padrão Prototype pode ser utilizado em nosso projeto no instanciamento de produtos, permitindo que apenas um objeto seja instanciado e, a partir dele, outros sejam clonados e modificados para suprir as necessidades do programa.
+
+
+### Referências
+> BRADLEY, Sean. Design Patterns In Python: Common GoF (Gang of Four) Design Patterns Implemented In Python. 2019-2021
