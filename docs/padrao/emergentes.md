@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                                                 | Autor(es)      |
 | ---------- | ------ | --------------------------------------------------------- | ------------ |
 | 10/03/2022 | 1.0    | Criação do documento                                      | Marcos Gabriel Tavares|
-| 10/03/2022 | 1.1    | Adição do padrão MVT                                      | Marcos Gabriel Tavares|
+| 10/03/2022 | 1.1    | Adição do padrão MVT e atualização das referências        | Marcos Gabriel Tavares|
 
 
 # Padrões de projeto emergentes
@@ -25,3 +25,5 @@ MVT é um padrao utilizado pelo Django e sua sigla significa Model, View, Templa
 -   Design Patterns – O que são e quais os benefícios?:  [https://www.opus-software.com.br/design-patterns/](https://www.opus-software.com.br/design-patterns/). Último acesso em 10/03/2022.
 
 - Django MVT Architecture: [https://www.askpython.com/django/django-mvt-architecture](https://www.askpython.com/django/django-mvt-architecture). Último acesso em 10/03/2022.
+
+- Python Django 7 Hour Course: [https://www.youtube.com/watch?v=PtQiiknWUcI](https://www.youtube.com/watch?v=PtQiiknWUcI). Último acesso em 10/03/2022.
