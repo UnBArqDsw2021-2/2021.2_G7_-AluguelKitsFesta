@@ -5,7 +5,8 @@
 | Data | Versão | Descrição | Autores |
 | -------- | -------- | -------- | ---|
 | 07/03/2022     |  1.0  | Criação do documento  | Mateus Brandão Teixeira
-| 010/03/2022     |  1.0  | incluindo padrão Composite | Mateus Brandão Teixeira
+| 10/03/2022     |  1.0  | incluindo padrão Composite | Mateus Brandão Teixeira
+ 10/03/2022     |  1.0  | incluindo código Composite | Mateus Brandão Teixeira
 
 Os padrões estruturais se preocupam com a forma como classes e objetos são compostos para formar estruturas maiores. Os de classes utilizam a herança para compor interfaces ou implementações, e os de objeto ao invés de compor interfaces ou implementações, eles descrevem maneiras de compor objetos para obter novas funcionalidades. A flexibilidade obtida pela composição de objetos provém da capacidade de mudar a composição em tempo de execução o que não é possível com a composição estática (herança de classes).
 
@@ -22,6 +23,30 @@ Podemos aplicar o Composite quando queremos trabalhar uma hierarquia de objetos 
 # É possível adaptar a nossa forma de organização de projeto com este padrão?
 Sim,nossa aplicação terá um carrinho com os produtos que serão reservados.A partir disso surge a necessidade de calcular o preço total de um carrinho de compras ou de um único produto da nossa loja,portanto podemos utilizar uma estrtura de árvore para representar o carrinho de reservas da loja.
 
+# Exemplificando como usar o composite no carrinho com o c#
+Então, vamos começar com a classe de ProdutoBase:
+
+![Composite_01](../padrao/imagens/Composite_01.png)
+
+Nossa classe consiste em dois campos protegidos e um método abstrato.
+
+![Composite_01](../padrao/imagens/Composite_02.png)
+
+Agora criamos uma interface com dois métodos que serão implementandos na classe Composite.
+
+![Composite_01](../padrao/imagens/Composite_03.png)
+
+Na classe CarrinhoComprasComposite  temos a lista de produtos na qual armazenamos nossos produtos ou outros objetos compostos. Podemos adicionar ou remover esses objetos da nossa lista, implementando os métodos Add e Remove da nossa interface. Finalmente, estamos calculando o preço total do nosso carrinho de compras com todos os produtos dentro dele.
+
+![Composite_01](../padrao/imagens/Composite_04.png)
+
+Por último criamos nossa classe produto que não possui subníveis,portanto não é necessario adicionar ou remover recursos.
+
+![Composite_01](../padrao/imagens/Composite_05.png)
+
+![Composite_01](../padrao/imagens/Composite_06.png)
+
+Mesmo que a implementação deste padrão pareça um pouco complexo ainda é muito vantajoso utiliza-lo quando temos estruturas de árvore complexas em nosso código.
 
 
 
