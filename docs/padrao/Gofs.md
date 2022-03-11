@@ -20,6 +20,14 @@ Sim no futuro existe grande possibilidade de termos que utilizar esse padrão,po
 É possível usar o padrão composite quando o modelo central da aplicação pode ser representado como uma árvore.Se trantando de orientação a objetos,isso significa aplicarmos o polimorfismo para chamar métodos de um objeto na árvore sem nos preocuparmos se é uma folha(objetos individuais) ou um composto(grupos de objetos).Resumindo a intenção do padrão é comor objetos em estruturas de árvore para representar hierarquia partes-todo.
 Podemos aplicar o Composite quando queremos trabalhar uma hierarquia de objetos que representem uma mesma super-classe,de modo a tornar sua operação padronizada,podemos exemplficar através da elaboração de um sistema de arquivos que são dividios em arquivos concretos(vídeos,textos,etc.) e arquivos pastas que armazenam outros arquivos.O problema é como fazer um desing que atenda estes requisitos?Por meio do padrão Composite,todos terão uma forma comum de serem reconhecidos e trabalhados ,através de uma super-classe.
 
+# Como Aplicar o Adapter
+
+![Adapter_01](../padrao/imagens/Adapter_01.PNG)
+
+![Adapter_02](../padrao/imagens/Adapter_02.PNG)
+
+Normalmente o cliente faz uma chamada usando a tomada de dois pinos,porém surge a necessidade de fazer chamadas de três pinos e para isso ser possível é necessário a implementação de uma classe adpater.Assim temos duas interfaces que não eram compatíveis entre si conversando normalmente.
+
 # É possível adaptar a nossa forma de organização de projeto com este padrão?
 Sim,nossa aplicação terá um carrinho com os produtos que serão reservados.A partir disso surge a necessidade de calcular o preço total de um carrinho de compras ou de um único produto da nossa loja,portanto podemos utilizar uma estrtura de árvore para representar o carrinho de reservas da loja.
 
@@ -48,5 +56,8 @@ Por último criamos nossa classe produto que não possui subníveis,portanto nã
 
 Mesmo que a implementação deste padrão pareça um pouco complexo ainda é muito vantajoso utiliza-lo quando temos estruturas de árvore complexas em nosso código.
 
+# Bibliografia
+Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra. Head First Design Patterns. O'Reilly Media, 2004.
+Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 2010.
 
 
