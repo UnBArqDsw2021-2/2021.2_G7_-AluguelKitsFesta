@@ -26,25 +26,25 @@ Sim,nossa aplicação terá um carrinho com os produtos que serão reservados.A 
 # Exemplificando como usar o composite no carrinho com o c#
 Então, vamos começar com a classe de ProdutoBase:
 
-![Composite_01](../padrao/imagens/Composite_01.png)
+![Composite_01](../padrao/imagens/Composite_01.PNG)
 
 Nossa classe consiste em dois campos protegidos e um método abstrato.
 
-![Composite_01](../padrao/imagens/Composite_02.png)
+![Composite_02](../padrao/imagens/Composite_02.PNG)
 
 Agora criamos uma interface com dois métodos que serão implementandos na classe Composite.
 
-![Composite_01](../padrao/imagens/Composite_03.png)
+![Composite_03](../padrao/imagens/Composite_03.PNG)
 
 Na classe CarrinhoComprasComposite  temos a lista de produtos na qual armazenamos nossos produtos ou outros objetos compostos. Podemos adicionar ou remover esses objetos da nossa lista, implementando os métodos Add e Remove da nossa interface. Finalmente, estamos calculando o preço total do nosso carrinho de compras com todos os produtos dentro dele.
 
-![Composite_01](../padrao/imagens/Composite_04.png)
+![Composite_04](../padrao/imagens/Composite_04.PNG)
 
 Por último criamos nossa classe produto que não possui subníveis,portanto não é necessario adicionar ou remover recursos.
 
-![Composite_01](../padrao/imagens/Composite_05.png)
+![Composite_05](../padrao/imagens/Composite_05.PNG)
 
-![Composite_01](../padrao/imagens/Composite_06.png)
+![Composite_06](../padrao/imagens/Composite_06.PNG)
 
 Mesmo que a implementação deste padrão pareça um pouco complexo ainda é muito vantajoso utiliza-lo quando temos estruturas de árvore complexas em nosso código.
 
