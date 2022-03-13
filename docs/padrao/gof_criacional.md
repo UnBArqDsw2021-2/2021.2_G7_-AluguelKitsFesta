@@ -6,7 +6,7 @@
 | 08/03/2022 | 1.1    | Criação da Introdução      | Caio Gabriel     |
 | 08/03/2022 | 1.2    | Factory e Prototype        | Caio Gabriel     |
 | 10/03/2022 | 1.3    | Aplicação Prototype e referências | Matheus Clemente |
-| 13/03/2022 | 1.3    | Aplicação Factory Method | Caio Gabriel |
+| 13/03/2022 | 1.4    | Aplicação Factory Method | Caio Gabriel |
 
 
 # GOFs Criacionais
