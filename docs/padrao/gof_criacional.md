@@ -25,7 +25,7 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 ### Aplicação
 
-
+![Aplicação Factory Method](../padrao//imagens/aplicacao_factory.png)
 
 ## Prototype
 
