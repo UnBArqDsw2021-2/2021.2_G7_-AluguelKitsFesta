@@ -73,7 +73,7 @@ nav:
                 - Comportamentais: 'padrao/gof_comportamental.md'
           - Iniciativas Extras:
                 - Padrões Emergentes: 'padrao/emergentes.md'
-      #            - Correções: 'padrao/.md'
+                - Correções: 'padrao/correcoes.md'
       #   - 4. Arquitetura de Software e Reutilização: ''
 
 features:
