@@ -70,7 +70,7 @@ nav:
           - 3.2 GoF(s):
                 - Criacionais: 'padrao/gof_criacional.md'
       #            - Estruturais: 'padrao/.md'
-      #            - Comportamentais: 'padrao/.md'
+                - Comportamentais: 'padrao/gof_comportamental.md'
       #      - Iniciativas Extras:
       #            - Padrões Emergentes: 'padrao/.md'
       #            - Correções: 'padrao/.md'
