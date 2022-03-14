@@ -19,6 +19,14 @@ MVT é um padrao utilizado pelo Django e sua sigla significa Model, View, Templa
 
 ![mvtfiles](../padrao/imagens/mvtfiles_image.png)
 
+### Model
+![modelexample](../padrao/imagens/modelexample.png)
+
+### View
+![viewexample](../padrao/imagens/viewexample.png)
+
+### Template
+![templateexample](../padrao/imagens/templateexample.png)
 
 
 ## Referências
@@ -27,3 +35,4 @@ MVT é um padrao utilizado pelo Django e sua sigla significa Model, View, Templa
 - Django MVT Architecture: [https://www.askpython.com/django/django-mvt-architecture](https://www.askpython.com/django/django-mvt-architecture). Último acesso em 10/03/2022.
 
 - Python Django 7 Hour Course: [https://www.youtube.com/watch?v=PtQiiknWUcI](https://www.youtube.com/watch?v=PtQiiknWUcI). Último acesso em 10/03/2022.
+- StudyBud: [https://github.com/divanov11/StudyBud](https://github.com/divanov11/StudyBud). Último acesso em 14/03/2022.
