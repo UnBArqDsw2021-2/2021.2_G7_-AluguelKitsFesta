@@ -69,7 +69,7 @@ nav:
           - 3.1 GRASP(s): 'padrao/grasp.md'
           - 3.2 GoF(s):
                 - Criacionais: 'padrao/gof_criacional.md'
-                  - Estruturais: 'padrao/gof_estrutural.md'
+                - Estruturais: 'padrao/gof_estrutural.md'
                 - Comportamentais: 'padrao/gof_comportamental.md'
           - Iniciativas Extras:
                 - Padrões Emergentes: 'padrao/emergentes.md'
