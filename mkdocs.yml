@@ -71,7 +71,7 @@ nav:
                 - Criacionais: 'padrao/gof_criacional.md'
                 - Estruturais: 'padrao/gof_estrutural.md'
                 - Comportamentais: 'padrao/gof_comportamental.md'
-          - Iniciativas Extras:
+          - 3.3 Iniciativas Extras:
                 - Padrões Emergentes: 'padrao/emergentes.md'
                 - Correções: 'padrao/correcoes.md'
       #   - 4. Arquitetura de Software e Reutilização: ''
