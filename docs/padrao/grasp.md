@@ -15,7 +15,7 @@ Assim sendo, temos os seguintes padrões utilizados:
 2. Criador (Creator)
 3. Indireção (Indirection)
 4. Especialista na informação (Information expert)
-5. Alta coesão (High Cohesion)
+5. Alta coesão (High cohesion)
 6. Baixo acoplamento (Loose coupling)
 7. Polimorfismo (Polymorphism)
 8. Variações protegidas (Protected variations), e
@@ -24,8 +24,16 @@ Assim sendo, temos os seguintes padrões utilizados:
 Esses padrões servem para a resolução de problemas comuns e bastante típicos de desenvolvimento de software orientado a objeto. Com isso, o uso de tais técnicas apenas documentam e normatizam as práticas já consolidadas, testadas e conhecidas no mercado.
 
 ## Padrões
+### Controlador (Controller)
 
-
+### Criador (Creator)
+### Indireção (Indirection)
+### Especialista na informação (Information expert)
+### Alta coesão (High cohesion)
+### Baixo acoplamento (Loose coupling)
+### Polimorfismo (Polymorphism)
+### Variações protegidas (Protected variations)
+### Invenção pura (Pure fabrication)
 ## Referências
 
 > 
