@@ -33,7 +33,14 @@ Ele é definido como o primeiro objeto fora da camada de interface do usuário q
 
 ### 2.2. Criador (Creator)
 
+Criar objetos é uma das atividades mais comuns em sistemas orientados a objetos. Descobrir qual classe é responsável pela criação de um objeto é uma propriedade fundamental do relacionamento entre objetos de uma determinada classe.
 
+Em geral, a classe `B` deve ser responsável por criar instâncias da classe `A` se uma ou mais das seguintes declarações se aplicarem:
+
+* Instâncias de `B` contêm ou agregam instâncias de `A`;
+* Instâncias de `B` gravam instâncias de `A`;
+* Instâncias de `B` utilizam de perto instâncias de `A`;
+* Instâncias de `B` têm as informações de iniciação das instâncias de `A` e passam isso na criação.
 
 ### 2.3. Indireção (Indirection)
 
