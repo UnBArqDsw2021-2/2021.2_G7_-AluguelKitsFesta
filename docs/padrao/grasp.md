@@ -2,7 +2,8 @@
 
 | Data       | Versão | Descrição                         | Autor(es)    |
 | ---------- | ------ | --------------------------------- | ------------ |
-| 07/03/2022 | 1.0    | Criação do Documento              | Jaime Juan e Flavio |
+| 07/03/2022 | 1.0    | Criação do documento              | Jaime Juan e Flavio |
+| 16/03/2022 | 1.1    | Inserção de padrões              | Jaime Juan |
 
 # GRASP(s)
 
@@ -30,7 +31,7 @@ O padrão Controller atribui a responsabilidade de manipular eventos do sistema 
 
 Um caso de uso de controlador deve ser usado para lidar com todos os eventos de caso de uso e pode ser usado para vários casos de uso (por exemplo, para casos de uso como criar usuário e excluir usuário, ele pode ter um controlador de usuário em vez de dois casos de uso de controlador separados ).
 
-Ele é definido como o primeiro objeto fora da camada de interface do usuário que recebe e coordena as operações do sistema ("controles"). O controlador deve delegar o trabalho que precisa ser feito a outros objetos; ele coordena ou controla a atividade. Ele não pode fazer muito trabalho sozinho. O controlador GRASP pode ser pensado como parte da camada de aplicação/serviço [2] (assumindo que a aplicação tem uma distinção clara entre a camada de aplicação/serviço e a camada de domínio em um sistema orientado a objetos, com uma camada comum na lógica arquitetura) sistema de informação).
+Ele é definido como o primeiro objeto fora da camada de interface do usuário que recebe e coordena as operações do sistema ("controles"). O controlador deve delegar o trabalho que precisa ser feito a outros objetos; ele coordena ou controla a atividade. Ele não pode fazer muito trabalho sozinho. O controlador GRASP pode ser pensado como parte da camada de aplicação/serviço (assumindo que a aplicação tem uma distinção clara entre a camada de aplicação/serviço e a camada de domínio em um sistema orientado a objetos, com uma camada comum na lógica arquitetura) sistema de informação).
 
 ### 2.2. Criador (Creator)
 
