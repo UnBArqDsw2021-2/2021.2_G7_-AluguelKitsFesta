@@ -44,27 +44,35 @@ Em geral, a classe `B` deve ser responsável por criar instâncias da classe `A`
 
 ### 2.3. Indireção (Indirection)
 
-
+O padrão de Indireção suporta o baixo acoplamento (e a possibilidade de reutilização) entre dois elementos, dando aos objetos intermediários a responsabilidade de atuar como mediadores entre eles. Um exemplo é a introdução de componentes do controlador para mediar entre dados (modelos) e suas representações (visualizações) no padrão MVC.
 
 ### 2.4. Especialista na informação (Information expert)
 
+Especialista na informação são os princípios usados ​​para determinar onde delegar responsabilidades. Essas responsabilidades incluem métodos, campos computacionais e muito mais.
 
+Usando os princípios do especialista em informações, a abordagem geral para atribuir responsabilidades é examinar uma responsabilidade específica, determinar as informações necessárias para executar a responsabilidade e, em seguida, determinar onde essas informações são armazenadas.
+
+O Guia do Especialista em Informações colocará o ônus sobre a aula e fornecerá a maioria das informações necessárias para completá-la
 
 ### 2.5. Alta coesão (High cohesion)
 
-
+A alta coesão é um critério de avaliação que tenta manter os objetos adequadamente focados, gerenciáveis ​​e compreensíveis. A alta coesão é geralmente usada para suporte de baixo acoplamento. Alta coesão significa que as responsabilidades de um determinado elemento estão intimamente relacionadas e altamente concentradas. Decompor um programa em classes e subsistemas é um exemplo de adição de propriedades coesivas a um sistema. Alternativamente, baixa coesão refere-se a uma situação em que um determinado elemento tem muitas responsabilidades diferentes e não relacionadas. Elementos com baixa coesão são muitas vezes difíceis de entender, reutilizar, manter e avessos a mudanças.
 
 ### 2.6. Baixo acoplamento (Loose coupling)
 
+O acoplamento é uma medida de quão fortemente um elemento se conecta, percebe ou depende de outros elementos. O baixo acoplamento é um critério de avaliação que determina como as responsabilidades de suporte são distribuídas: 
 
+* Há menos dependências entre classes;
+* Mude uma classe com menos impacto em outras classes;
+* Maior potencial de reutilização.
 
 ### 2.7. Polimorfismo (Polymorphism)
 
-
+De acordo com o princípio do polimorfismo, a responsabilidade de definir as mudanças de comportamento baseadas no tipo é atribuída ao tipo que muda. Isto é conseguido usando operações polimórficas. Os usuários de tipos devem usar operações polimórficas em vez de ramificações explícitas baseadas em tipos.
 
 ### 2.8. Variações protegidas (Protected variations)
 
-
+A fabricação/invenção pura são classes artificiais que não representam conceitos no domínio do problema, especificamente projetadas para alcançar baixo acoplamento, alta coesão e potencial de reutilização de derivação (quando a solução fornecida pelo padrão especialista em informações não o é). Esse tipo de classe é chamado de "serviço" em Padrões Orientados a Domínio.
 
 ### 2.9. Invenção pura (Pure fabrication)
 ## Referências
