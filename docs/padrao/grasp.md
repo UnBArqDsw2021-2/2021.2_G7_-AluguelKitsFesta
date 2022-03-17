@@ -74,7 +74,7 @@ De acordo com o princípio do polimorfismo, a responsabilidade de definir as mud
 
 ### 2.8. Variações protegidas (Protected variations)
 
-O padrão Protected Change protege os elementos de alterações em outros elementos (objetos, sistemas, subsistemas) combinando o foco de instabilidade com uma interface e usando polimorfismo para criar várias implementações dessa interface.
+O padrão Protected Variations protege os elementos de alterações em outros elementos (objetos, sistemas, subsistemas) combinando o foco de instabilidade com uma interface e usando polimorfismo para criar várias implementações dessa interface.
 ### 2.9. Invenção pura (Pure fabrication)
 
 A fabricação/invenção pura são classes artificiais que não representam conceitos no domínio do problema, especificamente projetadas para alcançar baixo acoplamento, alta coesão e potencial de reutilização de derivação (quando a solução fornecida pelo padrão especialista em informações não o é). Esse tipo de classe é chamado de "serviço" em Padrões Orientados a Domínio.
