@@ -2,16 +2,15 @@
 
 | Data       | Versão | Descrição                         | Autor(es)    |
 | ---------- | ------ | --------------------------------- | ------------ |
-| 19/03/2022 | 1.0    | Criação do Documento              | Victor Rayan |
 | 19/03/2022 | 2.0    | Adicionando correção 1            | Victor Rayan |
 
 # Correções
 
 ## Backlog do produto
 
-Referente a entrega 2 (Modelagem), foi corrigido o Backlog do produto.
+Com base no feedback da professora referente a entrega 2 (Modelagem), foi corrigido o Backlog do produto.
 
-Foram feito as seguintes verificações:
+Foram feito as seguintes verificações para garantir o cumprimento de todos os requisitos solicitados nas diretrizes da segunda entrega. 
 
 | Questão a corrigir | Resposta |
 |:----:|:----:|
@@ -22,10 +21,3 @@ O Documento está com versionamento correto|✅|
 Está gramaticalmente sem erros?|✅|
 Possui a descrição em forma de história de usário? |✅|
 
-
-
-## ..
-
-## Referências
-
-> 
