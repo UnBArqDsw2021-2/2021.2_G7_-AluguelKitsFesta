@@ -59,10 +59,11 @@ nav:
                       - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
                       - Diagrama de Estado: 'modelagem/diagramadeestados.md'
+                - Modelagem Ágil: 
+                      - Backlog do Produto: 'modelagem/backlog.md'     
                 - Extras:
                       - Protótipo de Alta Fidelidade: 'modelagem/prototipodealtafidelidade.md'
                       - Identidade Visual: 'modelagem/identidadevisual.md'
-                      - Backlog do Produto: 'modelagem/backlog.md'
                       - Diagrama Entidade Relacionamento (DER): 'modelagem/diagrama_entidade_relacionameto.md'
                       - NFR: 'modelagem/nfr.md'
     - 3. Padrões de Projeto:
