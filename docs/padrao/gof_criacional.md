@@ -28,13 +28,9 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 ### Aplicação
 
-Foi feito inicialmente uma implementação base, no qual, ainda não estava funcional, mas foi adicionado para seguir a proposta correta do factory method.
-Em seguida, a classe foi refatorada para acompanhar os padrões e a metodologia de desenvolvimento da tecnologia utilizada. O modelo de utilização toma como base a criação da classe produto baseada em sua categoria, visto que, é a primeira informação que a classe deve ter previamente, para que assim, possa ser utilizada de forma correta no restante da aplicação. A classe ProductCreator é responsável por definir os campos de entrada de dado de um usuário, ou seja os atributos necessários para a instanciade um determinado tipo de produto.
+ O projeto PartyRental_backend está utilizando como tecnologia Django Rest API, e ela possui um módulo chamado Forms no qual ela é responsável por definir os campos necessários para que seja construido um objeto deste tipo. Este Forms em específico é responsável por definir quais os campos de entrada para que posteriormente seja instanciação um objeto do tipo Produto. Logo após a definição das classes do tipo form, a classe meta irá definir inicialmente a modelo, que sera utilizada na construção do formulario, e logo após serão definidos os fields que compões os dados necessários para a construção deste objeto.
 
-![Exemplo - Aplicação Factory Method v1](../padrao//imagens/aplicacao_factory.png)
-
-
-![Implementação real - Aplicação Factory Method v2](../padrao//imagens/factory_v2.png)
+![Aplicação Factory](../padrao//imagens/factory_method_v3.png)
 
 ## Prototype
 
