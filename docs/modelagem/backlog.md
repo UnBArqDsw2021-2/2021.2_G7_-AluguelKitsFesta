@@ -15,7 +15,7 @@ O Product Backlog (ou Backlog do Produto, em tradução livre) é uma lista com 
 
 ## Tema
 
-Sistema que permite o aluguél de Artigos para festas 
+Sistema que permite o aluguel de Artigos para festas 
 
 ## Épico
 
@@ -51,8 +51,7 @@ Sistema que permite o aluguél de Artigos para festas
 | US010       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Desejo ser capaz de cancelar uma reserva                                | F03  | EP01 |
 | US11       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Desejo cancelar uma reserva                                          | F03  | EP01 |
 | US012       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Editar uma reserva                                                      | F03  | EP01 |
-| US013       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Utilizar um sistema responsivo e compativel com os navegadores mais comuns | F02  | EP01 |
-| US014       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Editar Itens da Plataforma                                                 | F01  | EP02 |
+| US013       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Editar Itens da Plataforma                                                 | F01  | EP02 |
 
 ## Referências
 
