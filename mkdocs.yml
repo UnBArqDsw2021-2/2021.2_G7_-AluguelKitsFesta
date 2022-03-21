@@ -75,6 +75,7 @@ nav:
           - 3.3 Iniciativas Extras:
                 - Padrões Emergentes: 'padrao/emergentes.md'
                 - Correções: 'padrao/correcoes.md'
+                - Documento de Arquitetura: padrao/extra/achitecture_document.md
       #   - 4. Arquitetura de Software e Reutilização: ''
 
 features:

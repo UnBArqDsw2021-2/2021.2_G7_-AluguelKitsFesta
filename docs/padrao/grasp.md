@@ -78,6 +78,15 @@ O padrão Protected Variations protege os elementos de alterações em outros el
 ### 2.9. Invenção pura (Pure fabrication)
 
 A fabricação/invenção pura são classes artificiais que não representam conceitos no domínio do problema, especificamente projetadas para alcançar baixo acoplamento, alta coesão e potencial de reutilização de derivação (quando a solução fornecida pelo padrão especialista em informações não o é). Esse tipo de classe é chamado de "serviço" em Padrões Orientados a Domínio.
+
+<p align="center">
+	<img src="./imagens/diagram_class1.png">
+</p>
+<p align="center">
+	<img src="./imagens/diagram_class2.png">
+</p>
+
+
 ## Referências
 
 > Larman, C. (2005) Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Prentice Hall PTR.
