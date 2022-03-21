@@ -7,6 +7,8 @@
 | 08/03/2022 | 1.2    | Factory e Prototype        | Caio Gabriel     |
 | 10/03/2022 | 1.3    | Aplicação Prototype e referências | Matheus Clemente |
 | 13/03/2022 | 1.4    | Aplicação Factory Method | Caio Gabriel |
+| 18/03/2022 | 1.5    | Refatoração Factory Method | Caio Gabriel |
+
 
 
 # GOFs Criacionais
@@ -26,7 +28,13 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 ### Aplicação
 
-![Aplicação Factory Method](../padrao//imagens/aplicacao_factory.png)
+Foi feito inicialmente uma implementação base, no qual, ainda não estava funcional, mas foi adicionado para seguir a proposta correta do factory method.
+Em seguida, a classe foi refatorada para acompanhar os padrões e a metodologia de desenvolvimento da tecnologia utilizada. O modelo de utilização toma como base a criação da classe produto baseada em sua categoria, visto que, é a primeira informação que a classe deve ter previamente, para que assim, possa ser utilizada de forma correta no restante da aplicação. A classe ProductCreator é responsável por definir os campos de entrada de dado de um usuário, ou seja os atributos necessários para a instanciade um determinado tipo de produto.
+
+![Exemplo - Aplicação Factory Method v1](../padrao//imagens/aplicacao_factory.png)
+
+
+![Implementação real - Aplicação Factory Method v2](../padrao//imagens/factory_v2.png)
 
 ## Prototype
 
