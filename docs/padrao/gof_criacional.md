@@ -28,7 +28,7 @@ deste tipo de padrão, essa separação torna o código escrito mais fácil de s
 
 ### Aplicação
 
- O projeto PartyRental_backend está utilizando como tecnologia Django Rest API, e ela possui um módulo chamado Forms no qual ela é responsável por definir os campos necessários para que seja construido um objeto deste tipo. Este Forms em específico é responsável por definir quais os campos de entrada para que posteriormente seja instanciação um objeto do tipo Produto. Logo após a definição das classes do tipo form, a classe meta irá definir inicialmente a modelo, que sera utilizada na construção do formulario, e logo após serão definidos os fields que compões os dados necessários para a construção deste objeto.
+ O projeto PartyRental_backend está utilizando como tecnologia Django Rest API, e ela possui um módulo chamado Forms no qual ela é responsável por definir os campos necessários para que seja construido um objeto deste tipo. Este Forms em específico é responsável por definir quais os campos de entrada para que posteriormente seja instanciado um objeto do tipo Produto. Logo após a definição das classes do tipo form, a classe meta irá definir inicialmente a modelo, que sera utilizada na construção do formulario, e logo após serão definidos os fields que compões os dados necessários para a construção deste objeto.
 
 ![Aplicação Factory](../padrao//imagens/factory_method_v3.png)
 
