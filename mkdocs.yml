@@ -23,6 +23,7 @@ nav:
     - Apresentações:
           - Base: 'Apresentacoes/apresentacao1.md'
           - Modelagem: 'Apresentacoes/apresentacao2.md'
+          - Padrões de Projeto: 'Apresentacoes/apresentacao3.md'
     - 1. Base: 
           - 1.1 Projeto Não Orientado a Abordagem Específicas:
                 - Design Sprint: 'Base/Metodologia/design_sprint.md'
