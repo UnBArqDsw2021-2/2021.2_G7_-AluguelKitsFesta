@@ -55,11 +55,19 @@ Sem vídeo dedicado à Modelagem Ágil (OBS: Professora)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+<img width="1421" alt="ScreenShot" src="https://user-images.githubusercontent.com/49294754/159396878-e06d0342-3dd9-448f-abf7-e3dc0d996dda.png">
+<img width="1439" alt="ScreenShot" src="https://user-images.githubusercontent.com/49294754/159396892-db4e83c8-6790-4531-8dd5-04bc9134a120.png">
+<img width="1435" alt="ScreenShot" src="https://user-images.githubusercontent.com/49294754/159396894-464b4b6c-ecc0-4224-8f77-8fc6859ebd9e.png">
+
+
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-Adicione o(s)s vídeo(s) da Terceira Entrega.
+[Entrega 3.1 Grasp(s)](https://youtu.be/GumChCJuBbY)
+
+[Entrega 3.2 GoF(s)](https://youtu.be/p7XSDCEZl8w)
+
+[Extra 3.3 Extras](https://youtu.be/RyAwOCwsFxA)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
