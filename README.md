@@ -69,7 +69,7 @@ Sem vídeo dedicado à Modelagem Ágil (OBS: Professora)
 
 Sem vídeo dedicado aos Padrões Emergentes (OBS: Professora)
 
-[Extra 3.3 Extras](https://youtu.be/RyAwOCwsFxA)
+[Entrega 3.3 Extras](https://youtu.be/RyAwOCwsFxA)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
