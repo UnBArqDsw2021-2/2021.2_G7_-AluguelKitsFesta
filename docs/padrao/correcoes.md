@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição                         | Autor(es)    |
 | ---------- | ------ | --------------------------------- | ------------ |
-| 19/03/2022 | 2.0    | Adicionando correção 1            | Victor Rayan |
+| 19/03/2022 | 1.0    | Criação do documento            | Victor Rayan |
 
 # Correções
 
