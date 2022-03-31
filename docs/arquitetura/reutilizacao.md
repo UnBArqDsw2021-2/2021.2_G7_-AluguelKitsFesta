@@ -4,7 +4,7 @@
 | ---------- | ------ | --------------------------------- | ------------ |
 | 30/03/2022 | 1.0    | Criação do documento              | Jaime Juan |
 
-# Estilos Arquiteturais Repositório
+# Documento de Reutilização
 
 ## 1. Introdução
 
