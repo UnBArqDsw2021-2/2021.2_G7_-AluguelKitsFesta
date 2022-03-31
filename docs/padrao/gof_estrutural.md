@@ -3,9 +3,9 @@
 | Data | Versão | Descrição | Autores |
 | -------- | -------- | -------- | ---|
 | 07/03/2022     |  1.0  | Criação do documento  | Mateus Brandão Teixeira, João Victor Max
-| 10/03/2022     |  1.0  | incluindo padrão Composite | Mateus Brandão Teixeira
- 10/03/2022     |  1.0  | incluindo código Composite | Mateus Brandão Teixeira
-  10/03/2022     |  1.0  | Padronizando documento | João Victor Max
+| 10/03/2022     |  1.1  | incluindo padrão Composite | Mateus Brandão Teixeira
+ 10/03/2022     |  1.2  | incluindo código Composite | Mateus Brandão Teixeira
+  10/03/2022     |  1.3  | Padronizando documento | João Victor Max
 
 Os padrões estruturais se preocupam com a forma como classes e objetos são compostos para formar estruturas maiores. Os de classes utilizam a herança para compor interfaces ou implementações, e os de objeto ao invés de compor interfaces ou implementações, eles descrevem maneiras de compor objetos para obter novas funcionalidades. A flexibilidade obtida pela composição de objetos provém da capacidade de mudar a composição em tempo de execução o que não é possível com a composição estática (herança de classes).
 
