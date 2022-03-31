@@ -127,4 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Editable files
 template.md
+docs/padrao/Template_Method.py
+docs/padrao/Template_Method.md

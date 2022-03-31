@@ -24,7 +24,7 @@ nav:
           - Base: 'Apresentacoes/apresentacao1.md'
           - Modelagem: 'Apresentacoes/apresentacao2.md'
           - Padrões de Projeto: 'Apresentacoes/apresentacao3.md'
-    - 1. Base: 
+    - 1. Base:
           - 1.1 Projeto Não Orientado a Abordagem Específicas:
                 - Design Sprint: 'Base/Metodologia/design_sprint.md'
                 - Pré-rastreabilidade:
@@ -54,14 +54,14 @@ nav:
                       - Diagrama de Classe: 'modelagem/diagrama_de_classes.md'
                       - Diagrama de Componentes: 'modelagem/diagramacomponentes.md'
                       - Diagrama de Casos de Uso: 'modelagem/diagramacasosdeuso.md'
-                      - Diagrama de Pacotes: 'modelagem/diagramapacotes.md'  
+                      - Diagrama de Pacotes: 'modelagem/diagramapacotes.md'
                 - Notação UML - Diagramas Dinâmicos:
                       - Diagrama de Sequência: 'modelagem/diagramadesequencia.md'
                       - Diagrama de Comunicação: 'modelagem/DiagramaComunicação/DiagramaComunicacao.md'
                       - Diagrama de Atividade: 'modelagem/DiagramaAtividade/DiagramaAtividade.md'
                       - Diagrama de Estado: 'modelagem/diagramadeestados.md'
-                - Modelagem Ágil: 
-                      - Backlog do Produto: 'modelagem/backlog.md'     
+                - Modelagem Ágil:
+                      - Backlog do Produto: 'modelagem/backlog.md'
                 - Extras:
                       - Protótipo de Alta Fidelidade: 'modelagem/prototipodealtafidelidade.md'
                       - Identidade Visual: 'modelagem/identidadevisual.md'
@@ -77,9 +77,9 @@ nav:
                 - Padrões Emergentes: 'padrao/emergentes.md'
                 - Correções: 'padrao/correcoes.md'
     - 4. Arquitetura de Software e Reutilização:
-            - 4.1 DAS: padrao/achitecture_document.md
-            - 4.2 Documento de Reutilização: arquitetura/reutilizacao.md
-            - 4.3 Iniciativas Extras:
+          - 4.1 DAS: arquitetura/achitecture_document.md
+          - 4.2 Documento de Reutilização: arquitetura/reutilizacao.md
+          - 4.3 Iniciativas Extras:
                 - Post Mortem: 'arquitetura/postmortem.md'
 
 features:
