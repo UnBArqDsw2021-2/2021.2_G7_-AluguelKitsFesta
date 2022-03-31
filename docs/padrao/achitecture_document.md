@@ -1,6 +1,6 @@
 # DAS
 
-## Histórico de revisão
+## Histórico de Versão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 19/03/2022 | 0.1 | Adição da estrutura documento |  Flavio Vieira |
