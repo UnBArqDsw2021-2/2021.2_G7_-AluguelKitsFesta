@@ -78,8 +78,8 @@ nav:
                 - Correções: 'padrao/correcoes.md'
             #     - Documento de Arquitetura: padrao/extra/achitecture_document.md
     - 4. Arquitetura de Software e Reutilização:
-            - 4.1 Estilos Arquiteturais Standalone: 'standalone.md'
-            - 4.2 Estilos Arquiteturais Repositório: 'repositorio.md'
+            - 4.1 Estilos Arquiteturais Standalone: 'arquitetura/standalone.md'
+            - 4.2 Estilos Arquiteturais Repositório: 'arquitetura/repositorio.md'
 
 features:
     - content.code.annotate
