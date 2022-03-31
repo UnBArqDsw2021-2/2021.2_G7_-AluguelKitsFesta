@@ -30,7 +30,7 @@ ser utilizada por diversas outras aplicações.
 
 ### 1.3 Modelo MTV
 
-![Django MTV](../padrao//imagens/django_mtv.png)
+![Django MTV](../padrao/imagens/django_mtv.png)
 
 A **Model** é a camada de acesso dos dados. Nessa camada contém 
 as classes que abstraem os dados, as lógicas de validação, de 
@@ -68,7 +68,7 @@ O sistema será desenvolvido utilizando o framework web Django Rest
 em conjunto com o React.JS. Esses sistemas irão se comunicar através 
 de uma API REST fornecida pelo backend da aplicação.
 
-![Django Arch](../padrao//imagens/django_arch.png)
+![Django Arch](../padrao/imagens/django_arch.png)
 
 ## 2. Visão de implementação
 ### 2.1 Diagrama de classes e serviços geral
@@ -81,23 +81,23 @@ a estrutura do projeto em alto nível e auxiliar no entendimento
 do escopo. Durante o processo de desenvolvimento do documento a Linguagem 
 de Modelagem Unificada (UML) foi utilizada. 
 
-![Django DRF](../padrao//imagens/django_drf.png)
+![Django DRF](../padrao/imagens/django_drf.png)
 
 ### 2.1.1 Diagrama de classes users
 
-![App User](../padrao//imagens/app_user.png)
+![App User](../padrao/imagens/app_user.png)
 
 ### 2.1.2 Diagrama de classes products
 
-![App Products](../padrao//imagens/app_products.png)    
+![App Products](../padrao/imagens/app_products.png)    
 
 ### 2.1.3 Diagrama de classes shopping
 
-![App Shopping](../padrao//imagens/app_shopping.png)
+![App Shopping](../padrao/imagens/app_shopping.png)
 
 ### 2.1.4 Diagrama de classes review
 
-![App Review](../padrao//imagens/app_review.png)
+![App Review](../padrao/imagens/app_review.png)
 
 Vale ressaltar a existência de dois aspectos que influenciaram diretamente na
 concepção do diagrama de classes, estas são as **relações do framework Django Rest**,
