@@ -3,8 +3,8 @@
 | Data       | Versão | Descrição                   | Autor(es)    |
 | ---------- | ------ | --------------------------- | ------------ |
 | 07/03/2022 | 1.0    | Criação do documento        | Victor       |
-| 14/03/2022 | 2.0    | Adicionando exemplo         | Victor       |
-| 14/03/2022 | 3.0    | Adicionando Template Method | Luis Marques |
+| 14/03/2022 | 1.1    | Adicionando exemplo         | Victor       |
+| 14/03/2022 | 1.2    | Adicionando Template Method | Luis Marques |
 
 # GOFs Comportamentais
 
