@@ -228,12 +228,12 @@ Exemplo 2: Template Method implementada em python, aplicada no projeto.
 
 ### Referências
 
-> SERRANO, Milene. Arquitetura e Desenho de Software: Aula GoFs Comportamentais, disponível em: aprender3.unb
+> SERRANO, Milene. Arquitetura e Desenho de Software: Aula GoFs Comportamentais, disponível em: <aprender3.unb>.
 
-> DevMedia. Estudo e Aplicação do Padrão de Projeto Strategy Disponível em: https://www.devmedia.com.br/estudo-e-aplicacao-do-padrao-de-projeto-strategy/25856.
+> DevMedia. Estudo e Aplicação do Padrão de Projeto Strategy Disponível em: <https://www.devmedia.com.br/estudo-e-aplicacao-do-padrao-de-projeto-strategy/25856>.
 
-> DevMedia. Design Patterns: Padrões “GoF” Disponível em https://www.devmedia.com.br/design-patterns-padroes-gof/16781
+> DevMedia. Design Patterns: Padrões “GoF”. Disponível em <https://www.devmedia.com.br/design-patterns-padroes-gof/16781>.
 
 > GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Padrões de Projeto: Soluções reutilizáveis de software orientado a objetos. Porto Alegre: Bookman, 2007.
 
-> API-3.0-Python disponível em: [API-3.0-Python](https://github.com/DeveloperCielo/API-3.0-Python#readme) (último acesso: dia 14 de março de 2022).
+> API-3.0-Python disponível em: [API-3.0-Python](https://github.com/DeveloperCielo/API-3.0-Python#readme). Último acesso em: 14 de março de 2022).
