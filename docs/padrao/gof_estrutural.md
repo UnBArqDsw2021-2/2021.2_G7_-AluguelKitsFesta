@@ -58,7 +58,8 @@ Por último criamos nossa classe produto que não possui subníveis,portanto nã
 Mesmo que a implementação deste padrão pareça um pouco complexo ainda é muito vantajoso utiliza-lo quando temos estruturas de árvore complexas em nosso código.
 
 # Referências
-Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra. Head First Design Patterns. O'Reilly Media, 2004.
-Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 2010.
+
+>Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra. Head First Design Patterns. O'Reilly Media, 2004.
+>Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 2010.
 
 
