@@ -87,5 +87,7 @@ A fabricação/invenção pura são classes artificiais que não representam con
 ## Referências
 
 > Larman, C. (2005) Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Prentice Hall PTR.
+
 > Design Patterns [Addison-Wesley Professional Computing Series] Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides, Addison-Wesley Professional, 1994.
-> BASSETTO, Nelson. RDD – Responsibility Driven Design e GRASP – General Responsibility Assignment Software Principles (2 de 2). 2011. Disponível em: http://nelsonbassetto.com/blog/tags/grasp/. Acesso em: 16 de Março de 2021.
+
+> BASSETTO, Nelson. RDD – Responsibility Driven Design e GRASP – General Responsibility Assignment Software Principles (2 de 2). 2011. Disponível em: <http://nelsonbassetto.com/blog/tags/grasp/>. Acesso em: 16 de Março de 2021.
