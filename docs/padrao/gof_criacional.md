@@ -53,4 +53,4 @@ O padrão Prototype pode ser utilizado em nosso projeto no instanciamento de pro
 
 
 ### Referências
-> BRADLEY, Sean. Design Patterns In Python: Common GoF (Gang of Four) Design Patterns Implemented In Python. 2019-2021 - Data de acesso: 07/03/2022
+> BRADLEY, Sean. Design Patterns In Python: Common GoF (Gang of Four) Design Patterns Implemented In Python. 2019-2021. Data de acesso: 07/03/2022

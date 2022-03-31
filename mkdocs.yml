@@ -77,7 +77,7 @@ nav:
                 - Padrões Emergentes: 'padrao/emergentes.md'
                 - Correções: 'padrao/correcoes.md'
     - 4. Arquitetura de Software e Reutilização:
-            - 4.1 DAS: padrao/extra/achitecture_document.md
+            - 4.1 DAS: padrao/achitecture_document.md
             - 4.2 Documento de Reutilização: arquitetura/reutilizacao.md
             - 4.3 Iniciativas Extras:
                 - Post Mortem: 'arquitetura/postmortem.md'

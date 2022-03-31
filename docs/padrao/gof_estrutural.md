@@ -60,6 +60,7 @@ Mesmo que a implementação deste padrão pareça um pouco complexo ainda é mui
 # Referências
 
 >Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra. Head First Design Patterns. O'Reilly Media, 2004.
+
 >Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 2010.
 
 
