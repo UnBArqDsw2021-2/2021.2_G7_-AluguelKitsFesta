@@ -8,9 +8,20 @@
 
 ## 1. Introdução
 
-A reutilização de software é sobre o uso de software existente ou conhecimento de software para criar um novo software. Um componente reutilizável pode ser software reutilizável ou conhecimento de software. Reusabilidade é uma propriedade de um componente de software que indica sua probabilidade de ser reutilizado.
+A reutilização de software é sobre o uso de software existente ou conhecimento de software para criar um novo software. Componente reutilizáveis podem ser tanto software reutilizável quanto conhecimento de software. Reusabilidade é uma propriedade de um componente de software que indica sua probabilidade de ser reutilizado.
 
-O objetivo da reutilização de software é melhorar a produtividade e a qualidade do software já implementando soluções que são reutilizáveis ​​em diferentes contextos. No projeto Diário da Saúde, as áreas que podem ser reaproveitadas estão descritas abaixo.
+O objetivo da reutilização de software é melhorar a produtividade e a qualidade do software implementando soluções que são reutilizáveis ​​em diferentes contextos.
+
+### Pontos Positivos
+
+* Redução de custo e tempo;
+* Redução em extensão de código.
+
+### Pontos Negativos
+
+* Alto custo de manutenção;
+* Difícil de reutilizar o software por terceiros;
+* Incerteza de compatibilidade com versões futuras.
 
 ## Frameworks
 
