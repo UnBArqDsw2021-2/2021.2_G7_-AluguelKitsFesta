@@ -31,9 +31,7 @@ ser utilizada por diversas outras aplicações.
 
 ### 1.3 Modelo MTV
 
-<p align="center">
-	<img src="./imagens/django_mtv.png">
-</p>
+![Django MTV](../padrao//imagens/django_mtv.png)
 
 A **Model** é a camada de acesso dos dados. Nessa camada contém 
 as classes que abstraem os dados, as lógicas de validação, de 
@@ -71,15 +69,9 @@ O sistema será desenvolvido utilizando o framework web Django Rest
 em conjunto com o React.JS. Esses sistemas irão se comunicar através 
 de uma API REST fornecida pelo backend da aplicação.
 
-<p align="center">
-	<img src="./imagens/django_arch.png">
-</p>
-
+![Django Arch](../padrao//imagens/django_arch.png)
 
 ## 2. Visão de implementação
-
-    
-
 ### 2.1 Diagrama de classes e serviços geral
 
 O diagrama de classe é uma representação estática para descrever 
@@ -90,43 +82,23 @@ a estrutura do projeto em alto nível e auxiliar no entendimento
 do escopo. Durante o processo de desenvolvimento do documento a Linguagem 
 de Modelagem Unificada (UML) foi utilizada. 
 
-<p align="center">
-	<img src="./imagens/class_diagram_drf.png">
-</p>
-
-    
+![Django DRF](../padrao//imagens/django_drf.png)
 
 ### 2.1.1 Diagrama de classes users
 
-<p align="center">
-	<img src="./imagens/app_user.png">
-</p>
-
-    
+![App User](../padrao//imagens/app_user.png)
 
 ### 2.1.2 Diagrama de classes products
 
-<p align="center">
-	<img src="./imagens/app_products.png">
-</p>
-
-    
+![App Products](../padrao//imagens/app_products.png)    
 
 ### 2.1.3 Diagrama de classes shopping
 
-<p align="center">
-	<img src="./imagens/app_shopping.png">
-</p>
-
-    
+![App Shopping](../padrao//imagens/app_shopping.png)
 
 ### 2.1.4 Diagrama de classes review
 
-
-<p align="center">
-	<img src="./imagens/app_review.png">
-</p>
-
+![App Review](../padrao//imagens/app_review.png)
 
 Vale ressaltar a existência de dois aspectos que influenciaram diretamente na
 concepção do diagrama de classes, estas são as **relações do framework Django Rest**,
@@ -163,17 +135,14 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 
 <p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta BRMODELO </p>
 
-<p align="center">
-	<img src="./../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png">
-</p>
-
+![DER](../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png)
 
 ## Referências
 
-[1] - GITHUB.com. Padrões Arquiteturais MVC x Arquitetura do Django. Disponível em:https://github.com/fga-gpp-mds/00-Disciplina/wiki/Padrões-Arquiteturais---MVC-X-Arquitetura-do-Django.
+> GITHUB.com. Padrões Arquiteturais MVC x Arquitetura do Django. Disponível em: <https://github.com/fga-gpp-mds/00-Disciplina/wiki/Padrões-Arquiteturais---MVC-X-Arquitetura-do-Django>. Acesso em: 21 de fevereiro de 2022.
 
-[2] - Andrew Pinkham. Livro. Disponível em: <https://django-unleashed.com>. 
+> Andrew Pinkham. Livro. Disponível em: <https://django-unleashed.com>. Acesso em: 21 de fevereiro de 2022.
 
-[2] - O que é um diagrama entidade relacionamento?: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento/#section_4>. Acesso em: 21 de fevereiro de 2022.
+> O que é um diagrama entidade relacionamento?: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento/#section_4>. Acesso em: 21 de fevereiro de 2022.
 
-[2] - DOCS.DJANGOPROJECT.com. FAQ: General. Disponível em: https://docs.djangoproject.com/en/1.10/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names.
+> DOCS.DJANGOPROJECT.com. FAQ: General. Disponível em: <https://docs.djangoproject.com/en/1.10/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names>. Acesso em: 21 de fevereiro de 2022.

@@ -80,7 +80,7 @@ nav:
             - 4.1 DAS: padrao/extra/achitecture_document.md
             - 4.2 Documento de Reutilização: arquitetura/reutilizacao.md
             - 4.3 Iniciativas Extras:
-                - Post Mortem: 'padrao/postmortem.md'
+                - Post Mortem: 'arquitetura/postmortem.md'
 
 features:
     - content.code.annotate
