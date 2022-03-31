@@ -32,7 +32,7 @@ ser utilizada por diversas outras aplicações.
 ### 1.3 Modelo MTV
 
 <p align="center">
-	<img src="../imagens/django_mtv.png">
+	<img src="./imagens/django_mtv.png">
 </p>
 
 A **Model** é a camada de acesso dos dados. Nessa camada contém 
@@ -72,7 +72,7 @@ em conjunto com o React.JS. Esses sistemas irão se comunicar através
 de uma API REST fornecida pelo backend da aplicação.
 
 <p align="center">
-	<img src="../imagens/django_arch.png">
+	<img src="./imagens/django_arch.png">
 </p>
 
 
@@ -91,7 +91,7 @@ do escopo. Durante o processo de desenvolvimento do documento a Linguagem
 de Modelagem Unificada (UML) foi utilizada. 
 
 <p align="center">
-	<img src="../imagens/class_diagram_drf.png">
+	<img src="./imagens/class_diagram_drf.png">
 </p>
 
     
@@ -99,7 +99,7 @@ de Modelagem Unificada (UML) foi utilizada.
 ### 2.1.1 Diagrama de classes users
 
 <p align="center">
-	<img src="../imagens/app_user.png">
+	<img src="./imagens/app_user.png">
 </p>
 
     
@@ -107,7 +107,7 @@ de Modelagem Unificada (UML) foi utilizada.
 ### 2.1.2 Diagrama de classes products
 
 <p align="center">
-	<img src="../imagens/app_products.png">
+	<img src="./imagens/app_products.png">
 </p>
 
     
@@ -115,7 +115,7 @@ de Modelagem Unificada (UML) foi utilizada.
 ### 2.1.3 Diagrama de classes shopping
 
 <p align="center">
-	<img src="../imagens/app_shopping.png">
+	<img src="./imagens/app_shopping.png">
 </p>
 
     
@@ -124,7 +124,7 @@ de Modelagem Unificada (UML) foi utilizada.
 
 
 <p align="center">
-	<img src="../imagens/app_review.png">
+	<img src="./imagens/app_review.png">
 </p>
 
 
@@ -164,7 +164,7 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 <p align="justify"> Para a construção do diagrama de componentes foi utilizado a ferramenta BRMODELO </p>
 
 <p align="center">
-	<img src="../../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png">
+	<img src="./../modelagem/imagensdiagramas/diagrama_entidade_relacionamento.png">
 </p>
 
 
