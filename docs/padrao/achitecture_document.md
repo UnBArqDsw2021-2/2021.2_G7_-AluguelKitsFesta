@@ -3,10 +3,10 @@
 ## Histórico de Versão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 19/03/2022 | 0.1 | Adição da estrutura documento |  Flavio Vieira |
-| 20/03/2022 | 0.2 | Adicão Introdução e principais conceitos|  Flavio Vieira |
-| 20/03/2022 | 0.2 | Adição de Visão de implementação e diagramas de classe|  Flavio Vieira |
-| 20/03/2022 | 0.2 | Adição do diagram ER de banco de dados|  Flavio Vieira |
+| 19/03/2022 | 1.0 | Adição da estrutura documento |  Flavio Vieira |
+| 20/03/2022 | 1.1 | Adicão Introdução e principais conceitos|  Flavio Vieira |
+| 20/03/2022 | 1.2 | Adição de Visão de implementação e diagramas de classe|  Flavio Vieira |
+| 20/03/2022 | 1.3 | Adição do diagram ER de banco de dados|  Flavio Vieira |
 
 ## 1. Introdução
 
