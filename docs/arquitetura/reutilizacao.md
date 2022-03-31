@@ -31,3 +31,5 @@ Bootstrap é uma biblioteca front-end que fornece uma estrutura CSS para criar s
 ## Referências
 
 > FRAKES, William B.; KANG, Kyo. Software Reuse Research: Status and Future. IEEE Transactions on Software Engineering. Vol. 31, Julho de 2005.
+
+> Framework: descubra o que é, para que serve e por que você precisa de um para o seu site. Disponível em: <https://rockcontent.com/br/blog/framework/>. Acesso em: 30 de março de 2022. 
