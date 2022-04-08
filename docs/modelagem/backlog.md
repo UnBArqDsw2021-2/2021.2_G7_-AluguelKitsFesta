@@ -48,10 +48,13 @@ Sistema que permite o aluguel de Artigos para festas
 | US07       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Adicionar diversos itens em uma mesma reserva                              | F03  | EP01 |
 | US08       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Receber um email codigo de reserva apresentado ao final da reserva         | F04  | EP01 |
 | US09       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Saber o tempo minimo de antecedencia para cancelar uma reserva             | F03  | EP01 |
-| US010       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Desejo ser capaz de cancelar uma reserva                                | F03  | EP01 |
-| US11       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Desejo cancelar uma reserva                                          | F03  | EP01 |
-| US012       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Editar uma reserva                                                      | F03  | EP01 |
-| US013       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista) | Editar Itens da Plataforma                                                 | F01  | EP02 |
+| US010       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista)| Desejo ser capaz de cancelar uma reserva                                  | F03  | EP01 |
+| US011       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente) | Desejo cancelar uma reserva                                                | F03  | EP01 |
+| US012       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Editar uma reserva                                                        | F03  | EP01 |
+| US013       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista)| Editar Itens da Plataforma                                                | F01  | EP02 |
+| US014       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Me cadastrar e fazer login para ter acesso as funcionaldidades a aplicação | F04    |  EP01    |
+| US015       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Ter a opção de receber um bolem informativo de descontos nos produtos para alugar |  F04    |  EP01   |
+| US016       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Salvar minhas informações para a próxima reserva |           F03                   |  EP01      |
 
 ## Referências
 
