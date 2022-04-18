@@ -15,16 +15,37 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 ## 2. Pontos Negativos
 
 * Desnivelamento de conhecimento sobre as tecnologias a serem adotadas no projeto;
+* Desistência de um integrante do grupo;
 * Ausência de um plano de gestão de riscos;
 * Maioria de equipe trabalha e divide carga acadêmica com a profissional;
 * Carga horária acadêmica excessiva por grande parte da equipe;
 * Situação adversa - Pandêmia;
 * Sobrecarga por descumprimentos de prazos e má previsibilidade das tarefas;
 * Má distribuição de tarefas à equipe, inutilização em grande parte do _pair programming_, por exemplo;
+* Ausência de eventos da metodologia adotada (Scrum);
 * Morosidade para começar a desenvolver (codar) de fato a aplicação;
-* Desentendimento inicial em como as apresentações deveriam ocorrer;
+* Desentendimento inicial em como as apresentações deveriam ocorrer.
 
 ## 3. Pontos Positivos
+
+* Comprometimento geral;
+* Equipe harmoniosa;
+* Divisão de papéis adequada;
+* Definição do tema de forma rápida e conjunta;
+* Bom desenvolvimento inicial na elaboração da documentação;
+* Boa estruturação dos repositórios em Front-End, Back-End e documentação;
+* GitHub-Pages bem elaborado;
+* Comprometimento em entregar o quê fora planejado.
+
+
+Comprometimento de toda a equipe;
+Equipe harmoniosa;
+Conhecimento da equipe se complementava;
+Definição de um produto consistente;
+Adequação a arquitetura escolhida;
+Conhecimentos prévios dos membros da equipe;
+Maioria dos membros disposta a terminar o que foi proposto;
+Produto embasado e com apoio em toda documentação;
 
 ## 4. Conclusão
 ## Referências
