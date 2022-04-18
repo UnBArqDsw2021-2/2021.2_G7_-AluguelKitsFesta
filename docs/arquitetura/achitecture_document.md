@@ -65,10 +65,6 @@ O **Template** é a camada de apresentação. Os templates são
 arquivos de texto, que isola os dados do sistema da forma como
 esses dados serão apresentados. O formato mais comum é o HTML.
 
-### 1.4 Django REST
-
-
-
 ## 2. Visão Geral
 
 O sistema será desenvolvido utilizando o framework web Django Rest
@@ -77,9 +73,9 @@ de uma API REST fornecida pelo backend da aplicação.
 
 ![Django Arch](./imagens/django_arch.png)
 
-## 2. Visão de implementação
+## 3. Visão de implementação
 
-### 2.1 Diagrama de classes e serviços geral
+### 3.1 Diagrama de classes e serviços geral
 
 O diagrama de classe é uma representação estática para descrever
 a arquitetura de um projeto. Tal documento tem como objetivo principal
@@ -89,19 +85,19 @@ a estrutura do projeto em alto nível e auxiliar no entendimento
 do escopo. Durante o processo de desenvolvimento do documento a Linguagem
 de Modelagem Unificada (UML) foi utilizada.
 
-### 2.1.1 Diagrama de classes users
+### 3.1.1 Diagrama de classes users
 
 ![App User](./imagens/app_user.png)
 
-### 2.1.2 Diagrama de classes products
+### 3.1.2 Diagrama de classes products
 
 ![App Products](./imagens/app_products.png)
 
-### 2.1.3 Diagrama de classes shopping
+### 3.1.3 Diagrama de classes shopping
 
 ![App Shopping](./imagens/app_shopping.png)
 
-### 2.1.4 Diagrama de classes review
+### 3.1.4 Diagrama de classes review
 
 ![App Review](./imagens/app_review.png)
 
@@ -125,9 +121,9 @@ soluciona esta problemática.
 Os **serializers** presentes dentro do diagrama possuem a função de tratar as informações
 das models e serializá-las, ou desserializá-las.
 
-## 2.2 Banco de Dados
+## 3.2 Banco de Dados
 
-### 2.2.1 Usos de diagramas entidade relacionamento
+### 3.2.1 Usos de diagramas entidade relacionamento
 
 Para o desenvolvimento do diagrama do banco de dados foi escolhido o Diagrama Entidade Relacionamento (DER) é usado para modelar ou analisar banco de dados relacionais e resolver problemas de lógica ou implementação.
 
@@ -139,11 +135,11 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 
 ![DER](../modelagem//imagensdiagramas/diagrama_entidade_relacionamento.png)
 
-## 3. Visão de Processos
+## 4. Visão de Processos
 
 A visão de processo tem como objetivo mostrar a visão do modelo de projeto, dessa forma fornece uma base para compreender a organização do processo do sistema, uma visualização arquitetural denominada visualização do processo.
 
-### 3.1 Diagrama de sequência
+### 4.1 Diagrama de Sequência
 
 <p align="justify">Os diagramas de sequência enfatizam a ordenação temporal das mensagens. As interações são mostradas na ordem que elas ocorrem, ou seja, este tipo de diagrama mostra uma sequência de eventos. </p>
 
@@ -167,18 +163,18 @@ A visão de processo tem como objetivo mostrar a visão do modelo de projeto, de
 
 ![interactionUpdateorder](../modelagem/imagensdiagramas/sequencediagram5.png)
 
-## 4. Visão Lógica
+## 5. Visão Lógica
 
 A visão lógica é a organização conceitual do software, que mostra um subconjunto do modelo de design significativo em termos de arquitetura, ou seja, um subconjunto das classes, subsistemas, pacotes e realizações de caso de uso.
 
-### 4.1 Diagrama de Pacotes
+### 5.1 Diagrama de Pacotes
 
 <p align="justify">Diagramas de pacotes são diagramas estruturais usados para mostrar, em uma forma de pacotes, a organização e disposição de vários elementos de modelos.
 </p>
 
 ![interactionUpdateorder](../modelagem/imagensdiagramas/diagrama_pacotes1.png)
 
-### 4.2 Diagrama de Comunicação
+### 5.2 Diagrama de Comunicação
 
 Um diagrama de comunicação, também chamado de diagrama de colaboração, é um tipo de diagrama UML de interação que demostra interações entre objetos e/ou partes, utilizando mensagens sequenciadas.
 
@@ -190,7 +186,7 @@ Um diagrama de comunicação, também chamado de diagrama de colaboração, é u
 
 <center>[Figura 2: Diagrama de comunicação de administrador](\modelagem\DiagramaComunicação\diagrama_comunicacao_2.png)</center>
 
-## 5. Qualidade
+## 6. Qualidade
 
 A qualidade de software pode ser interpretada como um conjunto de características a serem satisfeitas[5].
 
