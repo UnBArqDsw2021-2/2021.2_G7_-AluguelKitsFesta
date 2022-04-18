@@ -85,19 +85,19 @@ a estrutura do projeto em alto nível e auxiliar no entendimento
 do escopo. Durante o processo de desenvolvimento do documento a Linguagem
 de Modelagem Unificada (UML) foi utilizada.
 
-### 3.1.1 Diagrama de classes users
+#### 3.1.1 Diagrama de classes users
 
 ![App User](./imagens/app_user.png)
 
-### 3.1.2 Diagrama de classes products
+#### 3.1.2 Diagrama de classes products
 
 ![App Products](./imagens/app_products.png)
 
-### 3.1.3 Diagrama de classes shopping
+#### 3.1.3 Diagrama de classes shopping
 
 ![App Shopping](./imagens/app_shopping.png)
 
-### 3.1.4 Diagrama de classes review
+#### 3.1.4 Diagrama de classes review
 
 ![App Review](./imagens/app_review.png)
 
@@ -121,9 +121,9 @@ soluciona esta problemática.
 Os **serializers** presentes dentro do diagrama possuem a função de tratar as informações
 das models e serializá-las, ou desserializá-las.
 
-## 3.2 Banco de Dados
+### 3.2 Banco de Dados
 
-### 3.2.1 Usos de diagramas entidade relacionamento
+#### 3.2.1 Usos de diagramas entidade relacionamento
 
 Para o desenvolvimento do diagrama do banco de dados foi escolhido o Diagrama Entidade Relacionamento (DER) é usado para modelar ou analisar banco de dados relacionais e resolver problemas de lógica ou implementação.
 
