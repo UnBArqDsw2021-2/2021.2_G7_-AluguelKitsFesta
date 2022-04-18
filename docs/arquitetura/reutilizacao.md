@@ -36,6 +36,10 @@ React é uma estrutura de código aberto para interfaces gráficas de usuário (
 
 Bootstrap é uma biblioteca front-end que fornece uma estrutura CSS para criar sites e aplicativos responsivos de maneira rápida e fácil. Além disso, ele pode lidar com sites de desktop e páginas para dispositivos móveis. Originalmente desenvolvido para o Twitter por um grupo de desenvolvedores liderados por Mark Otto e Jacob Thornton Logo, o Bootstrap se tornou um dos frameworks de front-end e projetos de código aberto mais populares do mundo.
 
+#### Axios
+
+Axios é um cliente HTTP utilizado para fazer requisições baseado em Promises. É um projeto open source que pode ser utilizado tanto no navegador quanto Node.js ou em qualquer serviço de API.
+
 ### Back-End
 
 #### Django
