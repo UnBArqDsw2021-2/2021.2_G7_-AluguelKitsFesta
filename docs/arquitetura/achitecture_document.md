@@ -8,7 +8,7 @@
 | 20/03/2022 | 1.1    | Adição Introdução e principais conceitos               | Flavio Vieira |
 | 20/03/2022 | 1.2    | Adição de Visão de implementação e diagramas de classe | Flavio Vieira |
 | 20/03/2022 | 1.3    | Adição do diagram ER de banco de dados                 | Flavio Vieira |
-| 31/03/2022 | 1.4    | Conferencia de documento                               | Luis Marques  |
+| 31/03/2022 | 1.4    | Conferência de documento                               | Luis Marques  |
 
 ## 1. Introdução
 
