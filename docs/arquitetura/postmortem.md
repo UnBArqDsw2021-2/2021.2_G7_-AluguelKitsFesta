@@ -12,6 +12,12 @@ No contexto de um projeto de software, a análise post mortem pode ser utilizada
 
 Além disso, ao registrar sistematicamente o histórico dos projetos executados, escrever análises post-mortem ajuda a construir a memória institucional e desenvolver boas práticas de trabalho que as organizações devem seguir. A ideia é que assim possamos ser mais preventivos e menos reativos quando as coisas dão errado em nossos projetos.
 
+
+## 2. Pontos Positivos
+
+## 3. Pontos Negativos
+
+## 4. Conclusão
 ## Referências
 
 > DISOUZA, Leonardo. OKRs e a importância de Postmortems em projetos complexos. Disponível em: <https://medium.com/@leonardodisouza_59333/okrs-e-a-importância-de-postmortems-em-projetos-complexos-f7aa82229351>. Acesso em: 18 de abril de 2022.
