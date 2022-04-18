@@ -34,6 +34,16 @@ práticas desenvolvido pelo pesquisador Roy Fielding, que
 quando aplicados permitem uma interface concisa que pode
 ser utilizada por diversas outras aplicações.
 
+Assim sendo, O Django REST possui diversos módulos embutidos que
+facilitam a implementação dos princípios e boas práticas
+da arquitetura REST.
+
+Um exemplo de facilidade é o fato de que por padrão as rotas
+dos recursos selecionados serem codificadas para
+respeitar o padrão da arquitetura REST, assim não sendo
+necessário escrever todas as 7 rotas do REST (index, new,
+create, show, edit, update e destroy).
+
 ### 1.3 Modelo MTV
 
 ![Django MTV](./imagens/django_mtv.png)
@@ -57,16 +67,7 @@ esses dados serão apresentados. O formato mais comum é o HTML.
 
 ### 1.4 Django REST
 
-Assim contextualizado, podemos falar sobre o Django REST.
-O Django REST possui diversos módulos embutidos que
-facilitam a implementação dos princípios e boas práticas
-da arquitetura REST.
 
-Um exemplo de facilidade é o fato de que por padrão as rotas
-dos recursos selecionados serem codificadas para
-respeitar o padrão da arquitetura REST, assim não sendo
-necessário escrever todas as 7 rotas do REST (index, new,
-create, show, edit, update e destroy).
 
 ## 2. Visão Geral
 
