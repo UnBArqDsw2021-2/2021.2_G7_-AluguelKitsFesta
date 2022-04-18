@@ -26,6 +26,11 @@ O objetivo da reutilização de software é melhorar a produtividade e a qualida
 
 ## Frameworks
 
+### Docker
+
+Docker é uma plataforma open source que possibilita a criação e administração de ambientes isolados por meio do empacotamento de uma aplicação ou ambiente dentro de um container, se tornando portátil a qualquer host. 
+Nessa aplicação o Docker foi utilizado no desenvolvimento do back-end e do front-end.
+
 ### Front-End
 
 #### React
