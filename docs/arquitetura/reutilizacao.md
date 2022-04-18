@@ -1,8 +1,9 @@
 ## Histórico de Versão
 
-| Data       | Versão | Descrição                         | Autor(es)    |
-| ---------- | ------ | --------------------------------- | ------------ |
-| 30/03/2022 | 1.0    | Criação do documento              | Jaime Juan |
+| Data       | Versão | Descrição                                    | Autor(es)                  |
+| ---------- | ------ | -------------------------------------------- | -------------------------- |
+| 30/03/2022 | 1.0    | Criação do documento                         | Jaime Juan                 |
+| 17/04/2022 | 2.0    | Adição de Frameworks e revisão de documentos | Luis Marques e Victor Ryan |
 
 # Documento de Reutilização
 
@@ -14,14 +15,14 @@ O objetivo da reutilização de software é melhorar a produtividade e a qualida
 
 ### Pontos Positivos
 
-* Redução de custo e tempo;
-* Redução em extensão de código.
+-   Redução de custo e tempo;
+-   Redução em extensão de código.
 
 ### Pontos Negativos
 
-* Alto custo de manutenção;
-* Difícil de reutilizar o software por terceiros;
-* Incerteza de compatibilidade com versões futuras.
+-   Alto custo de manutenção;
+-   Difícil de reutilizar o software por terceiros;
+-   Incerteza de compatibilidade com versões futuras.
 
 ## Frameworks
 
@@ -37,10 +38,20 @@ Bootstrap é uma biblioteca front-end que fornece uma estrutura CSS para criar s
 
 ### Back-End
 
-#### a
+#### Djang
+
+O Django é um framework de aplicativos web gratuito e de código aberto escrito em Python, ele é descrito como uma estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
+
+### Swagger
+
+O Swagger é um framework composto por diversas ferramentas que, independente da linguagem, auxilia a descrição, consumo e visualização de serviços de uma API REST.
 
 ## Referências
 
 > FRAKES, William B.; KANG, Kyo. Software Reuse Research: Status and Future. IEEE Transactions on Software Engineering. Vol. 31, Julho de 2005.
 
-> Framework: descubra o que é, para que serve e por que você precisa de um para o seu site. Disponível em: <https://rockcontent.com/br/blog/framework/>. Acesso em: 30 de março de 2022. 
+> Framework: descubra o que é, para que serve e por que você precisa de um para o seu site. Disponível em: <https://rockcontent.com/br/blog/framework/>. Acesso em: 30 de março de 2022.
+
+> Documentando sua API Rest com Swagger. Disponivel em: <http://www2.decom.ufop.br/terralab/documentando-sua-api-rest-com-swagger/>. Acesso em: 17 de abril de 2022.
+
+> Django: o que é e como começar a usar este framework. Disponivel em: <https://blog.geekhunter.com.br/django-introducao-ao-framework/>. Acesso em 17 de abril de 2022.
