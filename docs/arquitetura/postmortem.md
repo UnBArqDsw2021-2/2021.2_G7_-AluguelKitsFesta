@@ -8,14 +8,13 @@
 
 ## 1. Introdução
 
-No contexto de um projeto de software, a análise post mortem pode ser utilizada como uma cerimônia de encerramento do projeto, onde o objetivo é apresentar os problemas ocorridos, as lições aprendidas e um plano de ação que será realizado para que o problema não se repita . Ou o sucesso de um projeto é replicado para outros projetos semelhantes. Em outras palavras, continue fazendo o que funciona e pare de fazer ou melhorar o que não funciona - como retrospectivas que já usamos no Scrum.
+No contexto de um projeto de software, o _Post Mortem_ pode ser utilizado como uma cerimônia de encerramento do projeto, onde o objetivo é apresentar os problemas ocorridos, as lições aprendidas e um plano de ação que será realizado para que os problemas não se repitam. Ou fazer com que os pontos positivos sejam replicados em projetos semelhantes. Ou seja, funciona como uma inspeção de o quê pode ser melhorado e o quê não funcionou - assim como nas reuniões de Restrospectiva da metodologia Scrum aqui adotada.
 
-Além disso, ao registrar sistematicamente o histórico dos projetos executados, escrever análises post-mortem ajuda a construir a memória institucional e desenvolver boas práticas de trabalho que as organizações devem seguir. A ideia é que assim possamos ser mais preventivos e menos reativos quando as coisas dão errado em nossos projetos.
+Além disso, ao registrar sistematicamente o histórico dos projetos executados, escrever análises _Post Mortem_ ajuda a construir a memória institucional e desenvolver boas práticas de trabalho que as organizações devem seguir. A ideia é que assim possamos ser mais preventivos e menos reativos quando as coisas dão errado nos projetos.
 
+## 2. Pontos Negativos
 
-## 2. Pontos Positivos
-
-## 3. Pontos Negativos
+## 3. Pontos Positivos
 
 ## 4. Conclusão
 ## Referências
