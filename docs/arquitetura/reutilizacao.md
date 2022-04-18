@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                                    | Autor(es)                  |
 | ---------- | ------ | -------------------------------------------- | -------------------------- |
 | 30/03/2022 | 1.0    | Criação do documento                         | Jaime Juan                 |
-| 17/04/2022 | 2.0    | Adição de Frameworks e revisão de documentos | Luis Marques e Victor Ryan |
+| 17/04/2022 | 2.0    | Adição de Frameworks e revisão de documentos | Luis Marques e Victor Rayan |
 
 # Documento de Reutilização
 
@@ -38,7 +38,7 @@ Bootstrap é uma biblioteca front-end que fornece uma estrutura CSS para criar s
 
 ### Back-End
 
-#### Djang
+#### Django
 
 O Django é um framework de aplicativos web gratuito e de código aberto escrito em Python, ele é descrito como uma estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
 

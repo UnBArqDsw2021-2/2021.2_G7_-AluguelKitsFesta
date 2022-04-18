@@ -9,6 +9,8 @@
 | 20/03/2022 | 1.2    | Adição de Visão de implementação e diagramas de classe | Flavio Vieira |
 | 20/03/2022 | 1.3    | Adição do diagram ER de banco de dados                 | Flavio Vieira |
 | 31/03/2022 | 1.4    | Conferência de documento                               | Luis Marques  |
+| 15/04/2022 | 1.5    | Adição visão lógica e visão de processos               | Victor Rayan  |
+| 17/04/2022 | 1.5    | Adição de diagramas e qualidade              | Luis Marques e Victor Rayan  |
 
 ## 1. Introdução
 
@@ -123,6 +125,7 @@ soluciona esta problemática.
 Os **serializers** presentes dentro do diagrama possuem a função de tratar as informações
 das models e serializá-las, ou desserializá-las.
 
+
 ## 2.2 Banco de Dados
 
 ### 2.2.1 Usos de diagramas entidade relacionamento
@@ -137,6 +140,72 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 
 ![DER](../modelagem//imagensdiagramas/diagrama_entidade_relacionamento.png)
 
+## 3. Visão de Processos
+
+A visão de processo tem como objetivo mostrar a visão do modelo de projeto, dessa forma fornece uma base para compreender a organização do processo do sistema, uma visualização arquitetural denominada visualização do processo.
+
+### 3.1 Diagrama de sequência
+
+<p align="justify">Os diagramas de sequência enfatizam a ordenação temporal das mensagens. As interações são mostradas na ordem que elas ocorrem, ou seja, este tipo de diagrama mostra uma sequência de eventos. </p>
+
+### Criar codigo de reserva
+
+![interactionCreateOrderCode](\modelagem\imagensdiagramas\sequencediagram1.png)
+
+
+### Criar Produto
+
+![interactionCreateProduct](\modelagem\imagensdiagramas/sequencediagram2.png)
+
+### Deletar Produto
+
+![interactionDeleteProduct](\modelagem\imagensdiagramas/sequencediagram3.png)
+
+### Atualizar Produto
+
+![interactionUpdateProduct](\modelagem\imagensdiagramas/sequencediagram4.png)
+
+### Atualizar Reserva
+
+![interactionUpdateorder](\modelagem\imagensdiagramas/sequencediagram5.png)
+
+## 4. Visão Lógica
+
+A visão lógica é a organização conceitual do software, que mostra um subconjunto do modelo de design significativo em termos de arquitetura, ou seja, um subconjunto das classes, subsistemas, pacotes e realizações de caso de uso.
+
+### 4.1 Diagrama de Pacotes
+
+<p align="justify">Diagramas de pacotes são diagramas estruturais usados para mostrar, em uma forma de pacotes, a organização e disposição de vários elementos de modelos.
+</p>
+
+![interactionUpdateorder](\modelagem\imagensdiagramas\diagrama_pacotes1.png)
+
+### 4.2 Diagrama de Comunicação
+
+Um diagrama de comunicação, também chamado de diagrama de colaboração, é um tipo de diagrama UML de interação que demostra interações entre objetos e/ou partes, utilizando mensagens sequenciadas.
+
+[![Diagrama Usuário](\modelagem\DiagramaComunicação\diagrama_comunicacao_1.png)](\modelagem\DiagramaComunicação\diagrama_comunicacao_1.png)
+
+<center>[Figura 1: Diagrama de comunicação de cliente](\modelagem\DiagramaComunicação\diagrama_comunicacao_1.png)</center>
+
+
+[![Diagrama Admin](\modelagem\DiagramaComunicação\diagrama_comunicacao_2.png)](diagrama_comunicacao_2.png)
+
+<center>[Figura 2: Diagrama de comunicação de administrador](\modelagem\DiagramaComunicação\diagrama_comunicacao_2.png)</center>
+
+## 5. Qualidade 
+
+A qualidade de software pode ser interpretada como um conjunto de características a serem satisfeitas[5]. 
+
+A Hewlett-Packard desenvolveu um modelo que referencia fatores da qualidade de software denominado FURPS: Functionality, Usability, Reliability, Performance e Supportability. Estes fatores estabelecem as métricas de qualidade de software para cada fase do processo de engenharia de software". (PRESSMAN, 2005, p. 539)
+
+Alguns pontos de qualidade que podem ser observadas no projeto PartyRent são:
+
+Portabilidade: No projeto foi utilizado o ambiente virtual Docker para garantir a portabilidade e criação de novos módulos do sistema.
+
+Usabilidade: A interface é de fácil aprendizado, ou seja, é fácil para os usuários empregar uma ferramenta ou mesmo um objeto para realizar uma tarefa, por possuir padrões já conhecidos em e-commerce no mercado.
+
+
 ## Referências
 
 > GITHUB.com. Padrões Arquiteturais MVC x Arquitetura do Django. Disponível em: <https://github.com/fga-gpp-mds/00-Disciplina/wiki/Padrões-Arquiteturais---MVC-X-Arquitetura-do-Django>. Acesso em: 21 de fevereiro de 2022.
@@ -146,3 +215,5 @@ Primeiro foi identificado quais seriam as entidades envolvidas no projeto. Após
 > O que é um diagrama entidade relacionamento?: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento/#section_4>. Acesso em: 21 de fevereiro de 2022.
 
 > DOCS.DJANGOPROJECT.com. FAQ: General. Disponível em: <https://docs.djangoproject.com/en/1.10/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names>. Acesso em: 21 de fevereiro de 2022.
+
+> https://www.cin.ufpe.br/
