@@ -21,6 +21,7 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 * Carga horária acadêmica excessiva por grande parte da equipe;
 * Situação adversa - Pandêmia;
 * Sobrecarga por descumprimentos de prazos e má previsibilidade das tarefas;
+* Ausência de um Roadmap bem estruturado;
 * Má distribuição de tarefas à equipe, inutilização em grande parte do _pair programming_, por exemplo;
 * Ausência de eventos da metodologia adotada (Scrum);
 * Morosidade para começar a desenvolver (codar) de fato a aplicação;
@@ -38,6 +39,13 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 * Comprometimento em entregar o quê fora planejado.
 
 ## 4. Conclusão
+
+A matéria é um desafio para os alunos, pois requer principalmente habilidades de gestão de projeto, elaboração de um produto, desenvolvimento de software e aplicação de padrões de projeto. Todas essas habilidades são vistas como novidades para a maioria dos membros, dificultando, assim, a entrega de um produto final bem adaptado e consistente, no entanto, o maior impasse da equipe foi na tomada de decisões e no planejamento. Avaliar o que uma equipe está tentando alcançar e como ela executa o processo de desenvolvimento de software complexo pode revelar como a preparação de um roadmap e do backlog do produto de maneira bem planejada pode afetar o andamento de um bom projeto. No entanto, graças aos esforços combinados da equipe, foi possível atingir os objetivos propostos.
+
+À medida que o projeto cresceu, a maturidade da equipe foi notável, no início houve um medo em tomar decisões que podiam ter um grande impacto em todo o produto, mas ao se decorrerar para a fase final a equipe demonstrou-se mais unida e madura, em termos de tomada de decisão e de discussões que levaram a decisões homogêneas para todos os membros. Isso se deve à movimentação tomada por todo o grupo nas últimas semanas, onde foi preciso analisar a situação dos prazos que propusemos na disciplina, e quais as principais partes que ainda faltavam para se alcançar o produto final e que estivesse de acordo com o nível esperado.
+
+É preciso destacar o empenho e dedicação de todos os integrantes, que, apesar de todos os problemas enfrentados no curso, mantiveram e alcançaram o que foi originalmente apresentado. Fica claro que com o comprometimento da equipe e sua homogeneidade, é possível entregar um produto de qualidade.
+
 ## Referências
 
 > DISOUZA, Leonardo. OKRs e a importância de Postmortems em projetos complexos. Disponível em: <https://medium.com/@leonardodisouza_59333/okrs-e-a-importância-de-postmortems-em-projetos-complexos-f7aa82229351>. Acesso em: 17 de abril de 2022.
