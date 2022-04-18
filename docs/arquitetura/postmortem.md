@@ -14,9 +14,19 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 
 ## 2. Pontos Negativos
 
+* Desnivelamento de conhecimento sobre as tecnologias a serem adotadas no projeto;
+* Ausência de um plano de gestão de riscos;
+* Maioria de equipe trabalha e divide carga acadêmica com a profissional;
+* Carga horária acadêmica excessiva por grande parte da equipe;
+* Situação adversa - Pandêmia;
+* Sobrecarga por descumprimentos de prazos e má previsibilidade das tarefas;
+* Má distribuição de tarefas à equipe, inutilização em grande parte do _pair programming_, por exemplo;
+* Morosidade para começar a desenvolver (codar) de fato a aplicação;
+* Desentendimento inicial em como as apresentações deveriam ocorrer;
+
 ## 3. Pontos Positivos
 
 ## 4. Conclusão
 ## Referências
 
-> DISOUZA, Leonardo. OKRs e a importância de Postmortems em projetos complexos. Disponível em: <https://medium.com/@leonardodisouza_59333/okrs-e-a-importância-de-postmortems-em-projetos-complexos-f7aa82229351>. Acesso em: 18 de abril de 2022.
+> DISOUZA, Leonardo. OKRs e a importância de Postmortems em projetos complexos. Disponível em: <https://medium.com/@leonardodisouza_59333/okrs-e-a-importância-de-postmortems-em-projetos-complexos-f7aa82229351>. Acesso em: 17 de abril de 2022.
