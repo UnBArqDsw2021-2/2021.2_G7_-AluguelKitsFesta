@@ -30,13 +30,14 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 ## 3. Pontos Positivos
 
 * Comprometimento geral;
+* Compartilhamento de experiência entre os membros da equipe.
 * Equipe harmoniosa;
 * Divisão de papéis adequada;
 * Definição do tema de forma rápida e conjunta;
 * Bom desenvolvimento inicial na elaboração da documentação;
 * Boa estruturação dos repositórios em Front-End, Back-End e documentação;
 * GitHub-Pages bem elaborado;
-* Comprometimento em entregar o quê fora planejado.
+* Comprometimento em entregar o que fora planejado.
 
 ## 4. Conclusão
 
