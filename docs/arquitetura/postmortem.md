@@ -22,9 +22,6 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 * Situação adversa - Pandêmia;
 * Sobrecarga por descumprimentos de prazos e má previsibilidade das tarefas;
 * Ausência de um Roadmap bem estruturado;
-* Má distribuição de tarefas à equipe, inutilização em grande parte do _pair programming_, por exemplo;
-* Ausência de eventos da metodologia adotada (Scrum);
-* Morosidade para começar a desenvolver (codar) de fato a aplicação;
 * Desentendimento inicial em como as apresentações deveriam ocorrer.
 
 ## 3. Pontos Positivos
