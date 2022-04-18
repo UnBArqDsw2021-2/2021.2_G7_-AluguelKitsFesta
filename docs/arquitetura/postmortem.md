@@ -37,16 +37,6 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 * GitHub-Pages bem elaborado;
 * Comprometimento em entregar o quê fora planejado.
 
-
-Comprometimento de toda a equipe;
-Equipe harmoniosa;
-Conhecimento da equipe se complementava;
-Definição de um produto consistente;
-Adequação a arquitetura escolhida;
-Conhecimentos prévios dos membros da equipe;
-Maioria dos membros disposta a terminar o que foi proposto;
-Produto embasado e com apoio em toda documentação;
-
 ## 4. Conclusão
 ## Referências
 
