@@ -19,6 +19,7 @@ Além disso, ao registrar sistematicamente o histórico dos projetos executados,
 * Ausência de um plano de gestão de riscos;
 * Maioria de equipe trabalha e divide carga acadêmica com a profissional;
 * Carga horária acadêmica excessiva por grande parte da equipe;
+* Maioria da equipe tinha mais familiaridade com o Back-End;
 * Situação adversa - Pandêmia;
 * Sobrecarga por descumprimentos de prazos e má previsibilidade das tarefas;
 * Ausência de um Roadmap bem estruturado;
