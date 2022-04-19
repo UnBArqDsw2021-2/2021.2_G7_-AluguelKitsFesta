@@ -83,13 +83,13 @@ Sem vídeo dedicado aos Padrões Emergentes (OBS: Professora)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-[Entrega 4.1 DAS)]()
+[Entrega 4.1 DAS](https://www.youtube.com/watch?v=v_mktYaTLoU)
 
-[Entrega 4.2 Documento de Reutilização]()
+[Entrega 4.2 Documento de Reutilização](https://www.youtube.com/watch?v=NJ6pXVMKv0Q)
 
-[Entrega 4.3 Iniciativa Extra - Post Mortem]()
+[Entrega 4.3 Iniciativa Extra - Post Mortem](https://www.youtube.com/watch?v=E6Ow4yo15s4)
 
-[Entrega 4.4 Apresentação do Produto]()
+[Entrega 4.4 Apresentação do Produto](https://www.youtube.com/watch?v=JAjBvSUd0EE )
 
 ## Descritivo dos Principais Aspectos Técnicos
 
