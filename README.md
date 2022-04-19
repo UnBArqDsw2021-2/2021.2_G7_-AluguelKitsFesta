@@ -1,4 +1,6 @@
-# 2021.2*G7*-AluguelKitsFesta
+# 2021.2*G7*-PartyRent
+
+![logo](https://user-images.githubusercontent.com/49578168/163897484-7d9972bb-5738-4e81-bcb0-dbd66bcac8fe.png)
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 07<br>
