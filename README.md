@@ -73,25 +73,37 @@ Sem vídeo dedicado aos Padrões Emergentes (OBS: Professora)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![print4](https://user-images.githubusercontent.com/49578168/163895466-6af39d7e-1e1e-4957-bcc0-113747656176.png)
+
+![print3](https://user-images.githubusercontent.com/49578168/163895478-09044019-e305-4bcc-941f-7807595f520c.png)
+
+![print1](https://user-images.githubusercontent.com/49578168/163895485-eae8d817-3faa-42b6-826f-5e87d732ff86.png)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione o(s)s vídeo(s) da Entrega Final.
+[Entrega 4.1 DAS)]()
+
+[Entrega 4.2 Documento de Reutilização]()
+
+[Entrega 4.3 Iniciativa Extra - Post Mortem]()
+
+[Entrega 4.4 Apresentação do Produto]()
 
 ## Descritivo dos Principais Aspectos Técnicos
 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum e XP<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Typescript e Python<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: React, React-Bootstrap, Django e Django-REST<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: MVT<br>
 
 ## O Projeto está rodando?
 
-( ) SIM
+(x) SIM
 ( ) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares
 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+Demais informações podem ser encontradas nos seguintes repositórios:
+
+* [Front-End](https://github.com/UnBArqDsw2021-2/2021.2_G7_PartyRent_Frontend)
+* [Back-End](https://github.com/UnBArqDsw2021-2/2021.2_G7_PartyRent_Backend)
