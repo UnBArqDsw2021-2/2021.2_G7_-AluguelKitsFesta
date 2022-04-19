@@ -1,0 +1,78 @@
+
+  .md-header {
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
+    color: white;
+  }
+  
+  .md-tabs {
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
+    color: white;
+  }
+  
+  .md-typeset table thead tr {
+    background: rgb(39,28,66);
+    background: linear-gradient(90deg, rgba(39,28,66,1) 29%, rgba(91,62,161,1) 100%);
+      color:white;
+  }
+
+  .md-typeset__table table {
+    border-radius: 10px !important;
+}
+.md-tabs__link{
+      color: white;
+      font-weight: bold;
+}
+body {
+    color: rgba(0, 0, 0, 1);
+    font-family: "Poppins", sans-serif;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  fill: currentColor;
+  display: block;
+  height: 1.2rem;
+  width: 1.7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
