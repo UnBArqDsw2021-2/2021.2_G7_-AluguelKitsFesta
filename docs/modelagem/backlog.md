@@ -54,7 +54,9 @@ Sistema que permite o aluguel de Artigos para festas
 | US013       | [Lojista](/Base/Elicitacao/Lexico?id=#l7-lojista)| Editar Itens da Plataforma                                                | F01  | EP02 |
 | US014       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Me cadastrar e fazer login para ter acesso as funcionaldidades a aplicação | F04    |  EP01    |
 | US015       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Ter a opção de receber um bolem informativo de descontos nos produtos para alugar |  F04    |  EP01   |
-| US016       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Salvar minhas informações para a próxima reserva |           F03                   |  EP01      |
+| US016       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Poder avaliar um produto alugado                                                     |  F04    |  EP01   |
+| US017       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Adicionar e remover itens do carrinho                                                   |  F04    |  EP01   |
+| US018       | [Cliente](/Base/Elicitacao/Lexico?id=#l3-cliente)| Salvar minhas informações para a próxima reserva |           F03                   |  EP01      |
 
 ## Referências
 

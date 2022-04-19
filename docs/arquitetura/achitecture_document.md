@@ -1,4 +1,4 @@
-# DAS
+# Documento de Arquitetura de Software
 
 ## Histórico de Versão
 
